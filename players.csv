@@ -1,0 +1,1764 @@
+first_name,last_name,team,number,position,age,born,birth_place,country,height,weight,shoots
+Carter,Clafton,Air Force Academy,35,G,23,2002,"Grand Rapids, MN",USA,"6'2""",174,L
+Toby,Hopp,Air Force Academy,37,G,21,2004,"Maple Grove, MN",USA,"6'1""",185,L
+Dylan,Krick,Air Force Academy,39,G,20,2005,"West Chester, PA",USA,"6'2""",146,L
+Zane,Spaniol,Air Force Academy,33,G,21,2004,"Ham Lake, MN",USA,"6'3""",185,L
+Dominik,Wasik,Air Force Academy,30,G,23,2002,"Superior, WI",USA,"6'1""",165,L
+Calvin,Beard,Air Force Academy,19,D,20,2005,"Southborough, MA",USA,"6'2""",179,R
+Nolan,Cunningham,Air Force Academy,20,D,24,2001,"Great Falls, MT",USA,"6'2""",185,R
+Nate,Farrell,Air Force Academy,58,D,22,2004,"Wheaton, IL",USA,"6'0""",185,L
+Chris,Hedden,Air Force Academy,22,D,23,2002,"Kalamazoo, MI",USA,"6'0""",185,L
+Simon,Houge,Air Force Academy,6,D,21,2004,"Woodbury, MN",USA,"5'7""",172,L
+Beau,Janzig,Air Force Academy,2,D,22,2003,"Hermantown, MN",USA,"6'2""",201,R
+Will,Jones,Air Force Academy,4,D,21,2004,"Brentwood, TN",USA,"5'9""",170,R
+Ren,Morque,Air Force Academy,3,D,22,2003,"Grand Rapids, MN",USA,"6'1""",190,L
+Jake,Peterson,Air Force Academy,7,D,22,2003,"Rosemount, MN",USA,"6'2""",190,R
+Will,Staring,Air Force Academy,44,D,22,2003,"Springfield, VA",USA,"6'2""",194,L
+Cole,Christian,Air Force Academy,8,F,21,2004,"Duluth, MN",USA,"5'8""",154,L
+Will,Dawson,Air Force Academy,14,F,22,2003,"Traverse City, MI",USA,"6'0""",183,L
+Owen,DuBois,Air Force Academy,15,F,23,2002,"Madison, WI",USA,"6'4""",201,L
+Oli,Genest,Air Force Academy,10,F,21,2004,"Sanford, ME",USA,"6'1""",194,R
+Brendan,Gibbons,Air Force Academy,64,F,23,2002,"South Kingstown, RI",USA,"6'2""",205,R
+Michael,Kadlecik,Air Force Academy,26,F,21,2004,"Lansing, NY",USA,"6'0""",170,R
+Mason,McCormick,Air Force Academy,13,F,24,2001,"Verona, WI",USA,"6'4""",205,L
+Cade,Moxham,Air Force Academy,12,F,21,2004,"Calgary, AB",Canada,"6'2""",201,L
+Hayden,Nichol,Air Force Academy,21,F,22,2003,"Rochester, NY",USA,"6'1""",190,R
+Holt,Oliphant,Air Force Academy,18,F,24,2001,"Northbrook, IL",USA,"5'10""",190,R
+Charles,Panchisin,Air Force Academy,81,F,21,2004,IL,USA,"5'10""",174,R
+Nicholas,Remissong,Air Force Academy,48,F,23,2002,"Lake Forest, IL",USA,"6'0""",185,L
+Nick,Sajevic,Air Force Academy,23,F,23,2003,"Shoreview, MN",USA,"5'11""",174,R
+Samuel,Stitz,Air Force Academy,27,F,22,2003,"Perry Hall, MD",USA,,,R
+Aidan,Willis,Air Force Academy,72,F,21,2005,"Farmington, MN",USA,"5'11""",185,L
+Anthony,Yu,Air Force Academy,9,F,21,2004,"Baldwin Park, CA",USA,"5'9""",181,R
+Chase,Hamm,Arizona State Univ.,30,G,24,2002,"Saskatoon, SK",Canada,"5'9""",168,L
+Connor,Hasley,Arizona State Univ.,33,G,25,2001,"North Tonawanda, NY",USA,"6'3""",194,R
+Samuel,Urban,Arizona State Univ.,31,G,20,2005,Dolne Kockovce,Slovakia,"6'0""",198,L
+Richard,Baran,Arizona State Univ.,5,D,20,2005,Bratislava,Slovakia,"6'1""",185,L
+Brasen,Boser,Arizona State Univ.,74,D,21,2004,"Minot, ND",USA,"5'11""",176,L
+Sam,Court,Arizona State Univ.,37,D,22,2004,"Winnipeg, MB",Canada,"5'10""",190,R
+Anthony,Dowd,Arizona State Univ.,9,D,22,2003,"Point Pleasant Beach, NJ",USA,"5'7""",152,R
+Justin,Kipkie,Arizona State Univ.,3,D,20,2005,"Calgary, AB",Canada,"6'4""",216,L
+Joel,Kjellberg,Arizona State Univ.,7,D,21,2004,Nacka,Sweden,"6'0""",190,R
+Tucker,Ness,Arizona State Univ.,10,D,23,2002,"Plymouth, MN",USA,"6'3""",218,R
+Tony,Achille,Arizona State Univ.,89,F,24,2002,"Hingham, MA",USA,"6'0""",174,L
+Sam,Alfano,Arizona State Univ.,27,F,22,2004,"Hamilton, ON",Canada,"6'4""",205,R
+Jack,Beck,Arizona State Univ.,2,F,22,2003,"Richmond Hill, ON",Canada,"6'0""",181,L
+Carmelo,Crandell,Arizona State Univ.,14,F,20,2005,"St. Albert, AB",Canada,"5'11""",176,R
+Benjamin,Kevan,Arizona State Univ.,48,F,19,2007,"Fairfield, CA",USA,"6'1""",179,R
+Cruz,Lucius,Arizona State Univ.,51,F,21,2004,"Lawrence, KS",USA,"6'0""",179,R
+Sean,McGurn,Arizona State Univ.,16,F,23,2002,"Ottawa, ON",Canada,"5'10""",170,R
+Logan,Morrell,Arizona State Univ.,19,F,22,2003,"Mesa, AZ",USA,"6'3""",194,R
+Ty,Nash,Arizona State Univ.,22,F,22,2003,"Scottsdale, AZ",USA,"5'11""",179,L
+Cullen,Potter,Arizona State Univ.,12,F,19,2007,"Minneapolis, MN",USA,"5'10""",172,L
+Noah,Powell,Arizona State Univ.,15,F,21,2005,"Northbrook, IL",USA,"6'2""",201,R
+Bennett,Schimek,Arizona State Univ.,23,F,22,2003,"Mendota Heights, MN",USA,"6'0""",187,R
+Kyle,Smolen,Arizona State Univ.,25,F,23,2002,"Crystal Lake, IL",USA,"5'11""",176,R
+Braxton,Whitehead,Arizona State Univ.,49,F,21,2004,"Palmer, AK",USA,"5'10""",163,R
+Jacob,Biron,Army (U.S. Military Academy),1,G,21,2004,"Buffalo, NY",USA,"6'4""",190,L
+J.J.,Cataldo,Army (U.S. Military Academy),30,G,23,2003,"Stuart, FL",USA,"6'0""",183,L
+Ansel,Holt,Army (U.S. Military Academy),33,G,23,2003,"Bowling Green, OH",USA,"6'3""",190,L
+Jon,Bell,Army (U.S. Military Academy),18,D,23,2002,"St. Cloud, MN",USA,"5'10""",201,L
+Jude,Brower,Army (U.S. Military Academy),22,D,24,2001,"Mahopac, NY",USA,"6'1""",181,L
+Liam,Chapman,Army (U.S. Military Academy),7,D,21,2004,"Weare, NH",USA,"6'1""",187,L
+Samuel,Groebner,Army (U.S. Military Academy),12,D,22,2003,"Apple Valley, MN",USA,"6'3""",201,L
+Lukas,McCloskey,Army (U.S. Military Academy),2,D,20,2005,"Newport Beach, CA",USA,"6'3""",216,R
+Owen,Nolan,Army (U.S. Military Academy),14,D,25,2000,"Mahopac, NY",USA,"6'0""",185,L
+Pierce,Patterson,Army (U.S. Military Academy),6,D,24,2002,"Valrico, FL",USA,"5'9""",165,R
+Sean,Vlasich,Army (U.S. Military Academy),20,D,24,2001,"Upper Saddle River, NJ",USA,"5'9""",174,R
+Easton,Zueger,Army (U.S. Military Academy),3,D,22,2003,"Sioux Falls, SD",USA,"5'8""",190,R
+Noah,Alvarez,Army (U.S. Military Academy),17,F,22,2003,"Los Angeles, CA",USA,"5'11""",185,R
+Billy,Batten,Army (U.S. Military Academy),24,F,21,2004,"Phoenixville, PA",USA,"5'9""",174,L
+Joey,Dosan,Army (U.S. Military Academy),26,F,24,2001,"Bloomington, MN",USA,"6'6""",220,L
+Kareem,El-Bashir,Army (U.S. Military Academy),16,F,21,2004,"Reston, VA",USA,"5'10""",176,L
+Nils,Forselius,Army (U.S. Military Academy),9,F,22,2003,"Guilford, CT",USA,"5'9""",181,L
+Nik,Hong,Army (U.S. Military Academy),19,F,23,2002,"Minneapolis, MN",USA,"6'0""",185,R
+Benjamin,Ivey,Army (U.S. Military Academy),4,F,22,2004,"San Diego, CA",USA,"6'4""",220,L
+Jacob,Ivey,Army (U.S. Military Academy),5,F,22,2004,"San Diego, CA",USA,"6'3""",192,R
+Brock,Jones,Army (U.S. Military Academy),11,F,21,2004,"Lake View, NY",USA,"5'11""",183,R
+Lucas,Kanta,Army (U.S. Military Academy),15,F,24,2001,"Grand Forks, ND",USA,"6'2""",205,L
+Brent,Keefer,Army (U.S. Military Academy),28,F,24,2001,"Colorado Springs, CO",USA,"6'0""",170,R
+Jacob,Ligi,Army (U.S. Military Academy),13,F,21,2004,"South Lyon, MI",USA,"5'10""",176,R
+Adam,Marshall,Army (U.S. Military Academy),29,F,22,2003,"Wayzata, MN",USA,"5'10""",181,L
+Vincent,Salice,Army (U.S. Military Academy),8,F,22,2003,"Commerce Township, MI",USA,"5'7""",174,L
+Trevor,Smith,Army (U.S. Military Academy),27,F,24,2001,"Raleigh, NC",USA,"5'9""",185,R
+Dylan,Wegner,Army (U.S. Military Academy),10,F,21,2004,"Nashville, TN",USA,"6'2""",185,R
+Stephen,Willey,Army (U.S. Military Academy),21,F,24,2001,"Shelton, CT",USA,"6'1""",194,R
+Barron,Woodring,Army (U.S. Military Academy),25,F,23,2002,"Chicago, IL",USA,"6'2""",201,R
+Kolby,Hay,Augustana Univ.,30,G,21,2004,"Kamloops, BC",Canada,"6'5""",185,L
+Joshua,Kotai,Augustana Univ.,32,G,22,2003,"Abbotsford, BC",Canada,"6'1""",165,R
+Christian,Manz,Augustana Univ.,1,G,22,2004,"Blaine, MN",USA,"6'0""",181,L
+Owen,Baumgartner,Augustana Univ.,96,D,23,2002,"Owatonna, MN",USA,"5'10""",185,L
+Maxwell,Chakrabarti,Augustana Univ.,4,D,20,2005,"Surrey, BC",Canada,"6'3""",181,R
+Landon,Fandel,Augustana Univ.,2,D,20,2005,"Sioux Falls, SD",USA,"5'10""",185,L
+Hayden,Hennen,Augustana Univ.,9,D,23,2002,"Hallock, MN",USA,"6'3""",181,R
+Jeff,Hutchinson,Augustana Univ.,84,D,23,2002,"St. Louis, MO",USA,"6'1""",201,L
+Samo,Meritähti,Augustana Univ.,6,D,22,2003,Seinäjoki,Finland,"6'3""",192,L
+Will,Svenddal,Augustana Univ.,19,D,24,2001,"Minneapolis, MN",USA,"6'0""",196,L
+Carter,Theissen,Augustana Univ.,23,D,22,2003,"Plymouth, MN",USA,"5'11""",181,L
+Easton,Young,Augustana Univ.,5,D,22,2003,"Grand Rapids, MN",USA,"5'11""",185,R
+Hunter,Bischoff,Augustana Univ.,12,F,22,2003,"Cohasset, MN",USA,"6'1""",181,R
+Owen,Bohn,Augustana Univ.,81,F,24,2002,"San Jose, CA",USA,"5'11""",165,L
+Leonid,Bulgakov,Augustana Univ.,92,F,21,2004,Minsk,Belarus,"5'9""",165,L
+Cole,Burtch,Augustana Univ.,93,F,25,2001,"Markham, ON",Canada,"5'10""",170,R
+Joey,DelGreco,Augustana Univ.,10,F,22,2003,"Grand Rapids, MN",USA,"5'10""",205,R
+Garett,Drotts,Augustana Univ.,27,F,22,2003,"Grand Rapids, MN",USA,"6'0""",174,L
+Colton,Friesen,Augustana Univ.,24,F,24,2001,"Winnipeg, MB",Canada,"5'11""",181,L
+Callum,Gau,Augustana Univ.,26,F,23,2002,"Camrose, AB",Canada,"6'1""",181,L
+Tyler,Hennen,Augustana Univ.,11,F,21,2004,"Hallock, MN",USA,"5'11""",150,R
+William,Howard,Augustana Univ.,13,F,23,2002,"Grand Forks, ND",USA,"6'2""",190,L
+Jacob,Jastrzebski,Augustana Univ.,20,F,20,2005,"Chicago, IL",USA,"6'0""",192,L
+Nace,Langus,Augustana Univ.,86,F,21,2004,Jesenice,Slovenia,"6'1""",190,L
+Brett,Meerman,Augustana Univ.,72,F,24,2002,"Blackfalds, AB",Canada,"5'9""",170,L
+Quinn,Rudrud,Augustana Univ.,21,F,24,2001,"Farmington, MN",USA,"6'2""",185,R
+Ben,Troumbly,Augustana Univ.,8,F,24,2001,"Grand Rapids, MN",USA,"5'7""",150,R
+Max,Hildebrand,Bemidji State Univ.,1,G,21,2004,"Martensville, SK",Canada,"6'2""",192,L
+Raythan,Robbins,Bemidji State Univ.,35,G,23,2002,"Anchorage, AK",USA,"5'11""",183,L
+Trent,Wiemken,Bemidji State Univ.,30,G,21,2004,"Fargo, ND",USA,"5'11""",183,L
+Vincent,Corcoran,Bemidji State Univ.,21,D,24,2001,"Plainfield, IL",USA,"5'8""",165,L
+Ryan,Henderson,Bemidji State Univ.,29,D,21,2004,"Lethbridge, AB",Canada,"6'2""",187,R
+A.J.,Macaulay,Bemidji State Univ.,12,D,23,2002,"Bonnyville, AB",Canada,"5'10""",181,L
+Isa,Parekh,Bemidji State Univ.,7,D,22,2003,"Toronto, ON",Canada,"6'0""",163,R
+Luke,Roelofs,Bemidji State Univ.,23,D,22,2003,"Minnetrista, MN",USA,"6'1""",201,L
+Patrik,Satosaari,Bemidji State Univ.,4,D,24,2001,Jyväskylä,Finland,"5'11""",183,L
+Hudson,Thornton,Bemidji State Univ.,5,D,22,2003,"Winnipeg, MB",Canada,"5'11""",192,L
+Maxon,Vig,Bemidji State Univ.,2,D,20,2005,"Bismarck, ND",USA,"6'3""",207,L
+Benjamin,Vigneault,Bemidji State Univ.,13,D,21,2004,"Boischâtel, QC",Canada,"6'0""",181,R
+Mitchell,Wolfe,Bemidji State Univ.,6,D,23,2002,"Andover, MN",USA,"6'0""",190,L
+Adam,Flammang,Bemidji State Univ.,11,F,24,2001,"St. Michael, MN",USA,"6'0""",190,R
+Reilly,Funk,Bemidji State Univ.,26,F,25,2000,"Portage, MB",Canada,"6'3""",234,L
+Kirklan,Irey,Bemidji State Univ.,20,F,25,2001,"Bismarck, ND",USA,"5'11""",183,L
+Oscar,Karlsson,Bemidji State Univ.,16,F,20,2005,Linköping,Sweden,"6'2""",183,L
+Vincent,Labelle,Bemidji State Univ.,8,F,23,2002,"Ottawa, ON",Canada,"5'7""",168,L
+Tory,Lund,Bemidji State Univ.,25,F,21,2004,"Sartell, MN",USA,"5'11""",187,L
+Kasper,Magnussen,Bemidji State Univ.,28,F,22,2004,Düsseldorf,Norway,"6'0""",196,L
+Connor,McClennon,Bemidji State Univ.,15,F,23,2002,"Wainwright, AB",Canada,"5'8""",163,R
+Jake,McLean,Bemidji State Univ.,27,F,23,2002,"North Vancouver, BC",Canada,"6'0""",192,L
+Max,Namestnikov,Bemidji State Univ.,18,F,22,2004,"Wolverine, MI",USA,"5'8""",183,L
+Jaksen,Panzer,Bemidji State Univ.,9,F,21,2004,"Grand Forks, ND",USA,"5'10""",170,L
+Oliver,Peer,Bemidji State Univ.,22,F,22,2003,"Burlington, ON",Canada,"5'11""",181,L
+Noah,Quinn,Bemidji State Univ.,17,F,22,2003,"Nelson, BC",Canada,"6'0""",181,R
+Alexi,Sylvestre,Bemidji State Univ.,14,F,21,2004,"Ste-Martine, QC",Canada,"6'2""",198,L
+Vann,Yuhas,Bemidji State Univ.,19,F,22,2004,"Medicine Hat, AB",Canada,"6'0""",187,R
+Nick,Bevilacqua,Bentley Univ.,29,G,22,2003,"Abington, MA",USA,"6'0""",190,L
+Jack,Erickson,Bentley Univ.,1,G,21,2004,"White Bear Lake, MN",USA,"6'1""",174,L
+Easton,Hesse,Bentley Univ.,30,G,25,2000,"Beaumont, AB",Canada,"6'0""",174,L
+Lukas,Swedin,Bentley Univ.,60,G,21,2004,Stockholm,Sweden,"5'10""",161,L
+Seth,Bernard-Docker,Bentley Univ.,6,D,24,2001,"Canmore, AB",Canada,"6'0""",194,R
+Colton,Cameron,Bentley Univ.,24,D,23,2002,"Surrey, BC",Canada,"5'11""",190,L
+John,Dalton,Bentley Univ.,21,D,22,2003,"River Forest, IL",USA,"6'0""",185,R
+Jack,Farrell,Bentley Univ.,28,D,21,2004,"Wilmington, MA",USA,"6'0""",192,L
+David,Helledy,Bentley Univ.,2,D,22,2003,"Milwaukee, WI",USA,"6'1""",194,L
+Garrett,Horsager,Bentley Univ.,25,D,24,2002,"Rosemount, MN",USA,"6'0""",194,L
+Tobias,Bjercke Larsen,Bentley Univ.,4,D,21,2004,Oslo,Norway,"6'2""",207,L
+Pat,Lawn,Bentley Univ.,14,D,24,2001,"Waltham, MA",USA,"6'0""",179,R
+Alec,Leonard,Bentley Univ.,7,D,21,2004,"Toronto, ON",Canada,"5'11""",174,R
+Ryan,Nause,Bentley Univ.,27,D,24,2001,"Riverview, NB",Canada,"5'11""",181,L
+Kolby,Amici,Bentley Univ.,26,F,23,2002,"Orchard Park, NY",USA,"5'9""",170,R
+Oskar,Kind Bakkevig,Bentley Univ.,15,F,21,2004,Oslo,Norway,"5'11""",183,L
+Jake,Black,Bentley Univ.,9,F,23,2002,"Pomfret, CT",USA,"5'11""",181,R
+Stevie,Castagna,Bentley Univ.,17,F,24,2001,"North Vancouver, BC",Canada,"5'9""",170,L
+Dylan,Cook,Bentley Univ.,5,F,22,2003,"Princeton, MN",USA,"6'0""",198,L
+Chase,Davis,Bentley Univ.,22,F,23,2002,"Alpharetta, GA",USA,"6'5""",220,R
+Jimmy,Doyle,Bentley Univ.,10,F,23,2002,"Plainfield, IL",USA,"6'2""",190,R
+Jan,Gaspar,Bentley Univ.,20,F,21,2004,,Czechia,"5'10""",174,L
+Owen,Goodbrand,Bentley Univ.,12,F,21,2004,"Waterdown, ON",Canada,"6'2""",181,L
+Kellan,Hjartarson,Bentley Univ.,16,F,23,2003,"Calgary, AB",Canada,"5'11""",185,L
+Peter,Kramer,Bentley Univ.,13,F,23,2002,"Bridgewater, MA",USA,"5'11""",183,L
+Ryan,Mansfield,Bentley Univ.,11,F,23,2002,"Burlington, ON",Canada,"6'0""",194,L
+Arlo,Merritt,Bentley Univ.,18,F,25,2001,"Halifax, NS",Canada,"6'3""",209,L
+Michael,Mesic,Bentley Univ.,19,F,21,2004,"Fort Myers, FL",USA,"5'11""",179,L
+Márton,Nemes,Bentley Univ.,23,F,20,2005,Székesfehérvár,Hungary,"6'2""",198,L
+Oliver,Salo,Bentley Univ.,8,F,22,2003,Kaarina,Finland,"6'1""",190,R
+Ryan,Upson,Bentley Univ.,38,F,24,2001,"West Vancouver, BC",Canada,"6'0""",185,L
+Louka,Cloutier,Boston College,1,G,19,2006,"Sherbrooke, QC",Canada,"6'2""",172,L
+Jan,Korec,Boston College,30,G,21,2004,Bratislava,Slovakia,"6'2""",205,L
+Alex,Musielak,Boston College,31,G,22,2003,"Buffalo, NY",USA,"6'4""",196,L
+Drew,Fortescue,Boston College,5,D,20,2005,"Pearl River, NY",USA,"6'2""",194,L
+Lukas,Gustafsson,Boston College,8,D,23,2002,"Alpharetta, GA",USA,"5'11""",194,L
+Michael,Hagens,Boston College,11,D,21,2005,"Hauppauge, NY",USA,"6'0""",198,L
+Nolan,Joyce,Boston College,27,D,22,2003,"Dedham, MA",USA,"6'1""",194,R
+Kristian,Kostadinski,Boston College,2,D,20,2005,Göteborg,Sweden,"6'6""",236,L
+Aram,Minnetian,Boston College,17,D,20,2005,"Woodcliff Lake, NJ",USA,"6'0""",209,R
+Luka,Radivojevic,Boston College,26,D,19,2007,"Edina, MN",Slovakia,"5'10""",181,R
+Will,Skahan,Boston College,7,D,19,2006,"Orange, CA",USA,"6'5""",223,L
+Brady,Berard,Boston College,19,F,22,2004,"East Greenwich, RI",USA,"6'1""",207,L
+Ryan,Conmy,Boston College,36,F,21,2004,"Alexandria, VA",USA,"5'10""",185,R
+Paul,Davey,Boston College,18,F,23,2003,"Greenwich, CT",USA,"6'1""",179,L
+Tim,Delay,Boston College,28,F,22,2003,"Hingham, MA",USA,"6'1""",183,L
+Andre,Gasseau,Boston College,24,F,22,2003,"Garden Grove, CA",USA,"6'4""",225,L
+James,Hagens,Boston College,10,F,19,2006,"Hauppauge, NY",USA,"5'11""",194,L
+Oscar,Hemming,Boston College,9,F,17,2008,Vaasa,Finland,"6'4""",198,L
+Oskar,Jellvik,Boston College,15,F,23,2003,Täby,Sweden,"5'11""",185,L
+Dean,Letourneau,Boston College,29,F,20,2006,"Braeside, ON",Canada,"6'7""",229,R
+William,Moore,Boston College,40,F,18,2007,"Mississauga, ON",USA,"6'3""",185,L
+Landan,Resendes,Boston College,14,F,20,2005,"Marlborough, MA",USA,"5'10""",183,R
+Jake,Sondreal,Boston College,12,F,22,2004,"Woodbury, MN",USA,"6'0""",187,L
+Teddy,Stiga,Boston College,4,F,19,2006,"Sudbury, MA",USA,"5'10""",179,L
+Will,Traeger,Boston College,23,F,23,2002,"Mendota Heights, MN",USA,"5'7""",168,L
+Will,Vote,Boston College,22,F,21,2005,"Arlington, MA",USA,"5'8""",161,R
+Max,Lacroix,Boston Univ.,33,G,22,2003,"Castle Pines, CO",USA,"6'0""",181,L
+Steven,Luciano,Boston Univ.,1,G,18,2007,"New Canaan, CT",USA,"6'1""",179,L
+Jack,Perry,Boston Univ.,30,G,21,2004,"Waltham, MA",USA,,,L
+Mikhail,Yegorov,Boston Univ.,40,G,19,2006,St. Petersburg,Russia,"6'5""",181,L
+Sascha,Boumedienne,Boston Univ.,78,D,19,2007,Oulu,Sweden,"6'2""",190,L
+Aiden,Celebrini,Boston Univ.,22,D,21,2004,"Vancouver, BC",Canada,"6'1""",194,R
+Mick,Frechette,Boston Univ.,14,D,22,2003,"Weston, MA",USA,"6'2""",198,L
+Cole,Hutson,Boston Univ.,44,D,19,2006,"North Barrington, IL",USA,"5'11""",172,L
+Kyle,Kim,Boston Univ.,27,D,21,2005,Seoul,USA,"6'2""",187,R
+Gavin,McCarthy,Boston Univ.,2,D,20,2005,"Clarence Center, NY",USA,"6'2""",187,R
+Charlie,Trethewey,Boston Univ.,91,D,18,2007,"Ellicott City, MD",USA,"6'2""",201,R
+Malte,Vass,Boston Univ.,57,D,18,2007,Karlstad,Sweden,"6'3""",194,L
+Kamil,Bednarik,Boston Univ.,38,F,19,2006,"Elk Grove Village, IL",USA,"6'1""",187,L
+Sacha,Boisvert,Boston Univ.,9,F,19,2006,"Trois-Rivières, QC",Canada,"6'3""",190,L
+Cole,Eiserman,Boston Univ.,34,F,19,2006,"Newburyport, MA",USA,"6'0""",201,L
+Jay,Feldberg,Boston Univ.,18,F,20,2006,"Toronto, ON",Canada,"6'0""",185,R
+Conrad,Fondrk,Boston Univ.,16,F,18,2007,"St. Paul, MN",USA,"6'0""",203,L
+Jack,Harvey,Boston Univ.,12,F,22,2003,"Stacy, MN",USA,"5'10""",176,L
+Tynan,Lawrence,Boston Univ.,11,F,17,2008,"Fredericton, NB",Canada,"6'0""",185,L
+Owen,McLaughlin,Boston Univ.,23,F,22,2003,"Phoenixville, PA",USA,"6'0""",174,L
+John,McNelis,Boston Univ.,26,F,20,2006,"Potomac, MD",USA,"5'10""",165,L
+Ben,Merrill,Boston Univ.,25,F,20,2005,"Hingham, MA",USA,"6'4""",205,R
+Jonathan,Morello,Boston Univ.,10,F,19,2006,"Toronto, ON",Canada,"6'2""",192,L
+Jack,Murtagh,Boston Univ.,19,F,18,2007,"East Greenbush, NY",USA,"6'1""",198,L
+Ryder,Ritchie,Boston Univ.,21,F,19,2006,"Calgary, AB",Canada,"6'2""",190,R
+Nick,Roukounakis,Boston Univ.,7,F,22,2003,"Pembroke, MA",USA,"6'2""",229,L
+Brandon,Svoboda,Boston Univ.,8,F,21,2005,"Level Green, PA",USA,"6'3""",209,R
+Cole,Moore,Bowling Green State Univ.,34,G,22,2003,"Toronto, ON",Canada,"6'6""",201,L
+Tyler,Palmer,Bowling Green State Univ.,31,G,22,2003,"Fernie, BC",Canada,"6'0""",192,L
+Jacob,Steinman,Bowling Green State Univ.,1,G,21,2004,"Cambridge, ON",Canada,"6'1""",183,L
+Jack,Blake,Bowling Green State Univ.,26,D,24,2001,"Manhattan Beach, CA",USA,"6'1""",190,L
+Brayden,Crampton,Bowling Green State Univ.,25,D,21,2004,"Chilliwack, BC",Canada,"6'0""",174,R
+Ty,Higgins,Bowling Green State Univ.,3,D,21,2004,"Stratford, ON",Canada,"6'1""",183,R
+Ivan,Korodiuk,Bowling Green State Univ.,21,D,22,2004,Kyiv,Ukraine,"6'4""",194,L
+Brian,Lonergan,Bowling Green State Univ.,4,D,20,2005,"Montvale, NJ",USA,"5'11""",174,R
+Breck,McKinley,Bowling Green State Univ.,17,D,22,2003,"St. Albert, AB",Canada,"5'10""",174,R
+Dalton,Norris,Bowling Green State Univ.,14,D,24,2001,"Oxford, MI",USA,"5'10""",183,L
+Rihards,Simanovics,Bowling Green State Univ.,7,D,22,2003,Riga,Latvia,"6'3""",205,L
+Gustav,Stjernberg,Bowling Green State Univ.,5,D,23,2002,Enebyberg,Sweden,"6'4""",209,R
+Ben,Doran,Bowling Green State Univ.,23,F,23,2003,"Chesterfield, MO",USA,"5'11""",181,R
+Quinn,Emerson,Bowling Green State Univ.,18,F,24,2001,"Manhattan Beach, CA",USA,"6'0""",185,R
+Jaden,Grant,Bowling Green State Univ.,28,F,23,2002,"White Lake, MI",USA,"6'2""",192,L
+Tyler,Hotson,Bowling Green State Univ.,24,F,22,2003,"Stratford, ON",Canada,"5'11""",181,L
+Connor,Levis,Bowling Green State Univ.,20,F,21,2004,"Vancouver, BC",Canada,"6'1""",192,R
+Max,Martin,Bowling Green State Univ.,15,F,22,2003,"Tawas City, MI",USA,"6'0""",185,L
+Jérémie,Minville,Bowling Green State Univ.,8,F,21,2004,"Drummondville, QC",Canada,"6'0""",183,L
+Noah,Morneau,Bowling Green State Univ.,11,F,21,2004,"Riverside, ON",Canada,"6'0""",183,L
+Jackson,Niedermayer,Bowling Green State Univ.,12,F,24,2001,"Newport Beach, CA",USA,"6'0""",201,L
+Brett,Pfoh,Bowling Green State Univ.,13,F,24,2002,"Port Moody, BC",Canada,"5'11""",190,L
+Dominik,Rymon,Bowling Green State Univ.,77,F,21,2004,Karlovy Vary,Czechia,"5'10""",157,L
+Tanner,Scott,Bowling Green State Univ.,22,F,21,2004,"Sherwood Park, AB",Canada,"5'8""",176,L
+Jake,Sloan,Bowling Green State Univ.,16,F,22,2004,Girvan,Canada,"6'4""",214,R
+Brody,Waters,Bowling Green State Univ.,29,F,23,2002,"Heidelberg, ON",Canada,"6'2""",203,R
+Brandon,Whynott,Bowling Green State Univ.,27,F,21,2004,"Langley, BC",Canada,"6'1""",185,L
+Adam,Zlnka,Bowling Green State Univ.,10,F,21,2004,Detva,Slovakia,"6'0""",179,R
+Freddie,Halyk,Brown Univ.,1,G,22,2003,"Cochrane, AB",Canada,"6'6""",220,L
+Ryan,Kazmouz,Brown Univ.,31,G,22,2003,"Livonia, MI",USA,"6'0""",170,L
+Tyler,Shea,Brown Univ.,35,G,24,2001,"Stevenson Ranch, CA",USA,"6'0""",179,L
+Ashton,Bynum,Brown Univ.,10,D,21,2004,"Tulsa, OK",USA,"6'4""",201,L
+Matthew,Desiderio,Brown Univ.,24,D,20,2005,"North Caldwell, NJ",USA,"6'3""",209,L
+Owen,Dyer,Brown Univ.,16,D,21,2004,"Clarkston, MI",USA,"6'3""",225,R
+Jack,Hewitt,Brown Univ.,27,D,22,2003,"Toronto, ON",Canada,"6'0""",185,R
+Ethan,Mistry,Brown Univ.,22,D,23,2003,"Toronto, ON",Canada,"5'10""",174,L
+Alex,Pineau,Brown Univ.,3,D,23,2003,"Thunder Bay, ON",Canada,"6'3""",216,R
+Leo,Schwartz,Brown Univ.,26,D,21,2004,"New York, NY",USA,"6'0""",174,R
+Nick,Traggio,Brown Univ.,5,D,24,2001,"Sharon, CT",USA,"6'2""",209,L
+Tristan,Zarsky,Brown Univ.,2,D,23,2003,"Edmonton, AB",Canada,"6'3""",216,R
+Dean,Bauchiero,Brown Univ.,18,F,23,2002,"Southington, CT",USA,"6'4""",216,L
+Matthew,Brille,Brown Univ.,19,F,23,2003,"Bethesda, MD",USA,"5'10""",179,R
+Matthew,Cataldo,Brown Univ.,21,F,20,2005,"Norfolk, MA",USA,"6'0""",205,L
+Michael,Cataldo,Brown Univ.,17,F,22,2003,"Norfolk, MA",USA,"6'1""",201,R
+Charlie,Gollob,Brown Univ.,15,F,22,2004,"Toronto, ON",Canada,"6'2""",201,L
+Tanner,Hartman,Brown Univ.,28,F,24,2001,"Chicago, IL",USA,"6'0""",190,R
+Andrew,King,Brown Univ.,29,F,22,2003,"Dubuque, IA",USA,"6'0""",170,L
+Brian,Nicholas,Brown Univ.,55,F,20,2005,"Scarsdale, NY",USA,"6'1""",192,L
+Trip,Pendy,Brown Univ.,11,F,21,2005,"Far Hills, NJ",USA,"6'1""",201,L
+Benjamin,Poitras,Brown Univ.,12,F,20,2005,"Montréal, QC",Canada,"6'0""",190,R
+Michael,Salandra,Brown Univ.,13,F,22,2003,"Pleasantville, NY",USA,"5'10""",187,R
+Ryan,Shostak,Brown Univ.,8,F,24,2001,"Calgary, AB",Canada,"6'0""",190,L
+Ryan,St. Louis,Brown Univ.,9,F,22,2003,"Burlington, VT",USA,"5'10""",181,L
+Brendan,Tighe,Brown Univ.,14,F,19,2006,"Birmingham, MI",USA,"5'11""",187,R
+Zackary,Tonelli,Brown Univ.,25,F,24,2002,"Armonk, NY",USA,"5'9""",170,R
+Ivan,Zadvernyuk,Brown Univ.,7,F,21,2004,Moskva,Russia,"6'3""",201,L
+Chase,Clark,Canisius College,41,G,23,2002,"Williamsville, NY",USA,"6'7""",225,R
+Ethan,Robertson,Canisius College,30,G,24,2002,"Courtice, ON",Canada,"6'1""",181,L
+Petter,Wickström Stumer,Canisius College,33,G,21,2004,Stockholm,Sweden,"6'6""",205,L
+François-James,Buteau,Canisius College,73,D,21,2004,"Montréal, QC",Canada,"6'4""",209,L
+Jason,Gallucci,Canisius College,13,D,21,2004,"Robbinsville, NJ",USA,"5'11""",174,L
+Robert,Kincaid,Canisius College,5,D,23,2002,"Barrhead, AB",Canada,"6'2""",185,L
+Luke,Marshall,Canisius College,44,D,21,2004,"Saskatoon, SK",Canada,"6'1""",181,L
+Joseph,Messina,Canisius College,23,D,24,2002,"Woodbridge, ON",Canada,"5'9""",185,L
+Jack,Pascucci,Canisius College,77,D,24,2002,"North Andover, MA",USA,"6'2""",194,R
+Carter,Patterson,Canisius College,57,D,22,2003,"Burlington, ON",Canada,"6'4""",216,R
+Josh,Phillips,Canisius College,22,D,24,2001,"Getzville, NY",USA,"6'1""",190,R
+Nick,Strom,Canisius College,25,D,25,2000,"Dayton, MN",USA,"6'0""",185,L
+Carter,Anderson,Canisius College,27,F,21,2004,"Thompson, MB",Canada,"5'11""",185,L
+Hunter,Andrew,Canisius College,37,F,23,2002,"Virden, MB",Canada,"6'0""",174,L
+Stefano,Bottini,Canisius College,26,F,23,2002,Lugano,Switzerland,"6'2""",190,L
+Rhys,Chiddenton,Canisius College,8,F,22,2003,"Campbellville, ON",Canada,"6'0""",185,L
+Brice,Cooke,Canisius College,4,F,21,2004,"Orangeville, ON",Canada,"6'3""",190,L
+David,Elmy,Canisius College,94,F,21,2005,"Mississauga, ON",Canada,"6'0""",185,R
+Trey,Funk,Canisius College,14,F,23,2002,"Redwood Meadows, AB",Canada,"6'2""",181,R
+Ryan,Gillespie,Canisius College,20,F,23,2003,"Toronto, ON",Canada,"6'0""",185,R
+Kyan,Haldenby,Canisius College,72,F,21,2004,"Toronto, ON",Canada,"6'2""",194,R
+Killian,Kiecker-Olson,Canisius College,88,F,25,2001,"Andover, MN",USA,"6'1""",194,R
+Christian,MacDougall,Canisius College,55,F,24,2001,"Toronto, ON",Canada,"6'0""",174,L
+Alton,McDermott,Canisius College,91,F,24,2001,"Oakville, ON",Canada,"6'0""",181,R
+Cole,Miller,Canisius College,15,F,21,2005,"Edmonton, AB",Canada,"6'4""",190,R
+Grant,Porter,Canisius College,47,F,24,2002,"Weston, MA",USA,"6'0""",181,R
+Hunter,Price,Canisius College,61,F,22,2003,"Calgary, AB",Canada,"6'1""",209,R
+Kash,Rasmussen,Canisius College,12,F,24,2001,"Cochrane, AB",Canada,"6'1""",179,L
+Oliver,Tarr,Canisius College,92,F,24,2002,"Uxbridge, ON",Canada,"6'0""",185,R
+Walter,Zacher,Canisius College,9,F,23,2002,"Buffalo, NY",USA,"5'11""",190,R
+Nick,Avakyan,Clarkson Univ.,60,G,22,2004,"Glendale, CA",USA,"6'1""",185,L
+Keenan,Rancier,Clarkson Univ.,35,G,25,2000,"Victoria, BC",Canada,"6'2""",183,L
+Shane,Soderwall,Clarkson Univ.,30,G,23,2002,"Algonquin, IL",USA,"6'2""",185,R
+William-Charles,Bishop,Clarkson Univ.,26,D,21,2004,"Baie d'Urfée, QC",Canada,"6'0""",201,L
+Ty,Brassington,Clarkson Univ.,44,D,21,2004,"White Rock, BC",Canada,"6'1""",185,L
+Noah,Houle,Clarkson Univ.,3,D,22,2003,"Montréal, QC",Canada,"6'1""",192,R
+Matthew,Mayich,Clarkson Univ.,21,D,21,2004,"Stoney Creek, ON",Canada,"6'2""",196,L
+Tristan,Sarsland,Clarkson Univ.,5,D,22,2004,"Wayzata, MN",USA,"6'1""",203,R
+Bryce,Sookro,Clarkson Univ.,72,D,21,2004,"Nelson, BC",Canada,"6'1""",223,R
+Jack,Sparkes,Clarkson Univ.,55,D,22,2003,"Ottawa, ON",Canada,"6'8""",238,R
+Tate,Taylor,Clarkson Univ.,27,D,21,2004,"Richmond, BC",Canada,"5'11""",174,R
+Erik,Bargholtz,Clarkson Univ.,9,F,24,2001,"Appleton, WI",USA,"6'1""",194,R
+Ryan,Bottrill,Clarkson Univ.,16,F,24,2002,"Scottsdale, AZ",USA,"6'1""",185,R
+Justin,Côté,Clarkson Univ.,92,F,21,2004,"Salaberry-de-Valleyfield, QC",Canada,"5'6""",163,L
+Rémi,Gélinas,Clarkson Univ.,10,F,20,2005,"Deux-Montagnes, QC",Canada,"6'0""",187,L
+Conyr,Hellyer,Clarkson Univ.,28,F,21,2004,"Okotoks, AB",Canada,"6'3""",209,L
+Mikael,Huchette,Clarkson Univ.,91,F,22,2003,"Longueuil, QC",Canada,"6'3""",198,R
+Jace,Letourneau,Clarkson Univ.,81,F,21,2004,"Arnprior, ON",Canada,"6'5""",190,L
+Jared,Mangan,Clarkson Univ.,20,F,22,2003,"Charleston, SC",USA,"5'10""",172,L
+Adrian,Misaljevic,Clarkson Univ.,86,F,21,2004,"Woodbridge, ON",Canada,"5'11""",174,L
+Oliver,Moberg,Clarkson Univ.,23,F,23,2003,Bromma,Sweden,"6'3""",201,L
+Shawn,O'Donnell,Clarkson Univ.,13,F,22,2003,"Pittsburgh, PA",USA,"5'11""",181,L
+Luke,Pakulak,Clarkson Univ.,29,F,22,2003,"Surrey, BC",Canada,"6'4""",205,R
+Talon,Sigurdson,Clarkson Univ.,14,F,24,2002,"Sartell, MN",USA,"6'2""",181,R
+Colton,Smith,Clarkson Univ.,18,F,22,2004,"Hershey, PA",Canada,"6'3""",209,L
+Maël,St-Denis,Clarkson Univ.,37,F,20,2005,"Nominingue, QC",Canada,"6'0""",196,L
+Luka,Sukovic,Clarkson Univ.,11,F,22,2003,"Lincolnshire, IL",USA,"6'3""",216,R
+Owen,Van Steensel,Clarkson Univ.,19,F,21,2004,"Ilderton, ON",Canada,"5'10""",185,L
+Reid,Dyck,Colgate Univ.,37,G,22,2004,"Winkler, MB",Canada,"6'4""",196,L
+Nick,Haas,Colgate Univ.,30,G,24,2001,"Williamsville, NY",USA,"6'4""",194,L
+Jack,Olson,Colgate Univ.,35,G,22,2003,"St. Louis Park, MN",USA,"6'1""",174,R
+Andrew,Takacs,Colgate Univ.,1,G,25,2001,"Bowie, MD",USA,"6'2""",190,L
+Antonio,Fernandez,Colgate Univ.,11,D,22,2003,"San Jose, CA",USA,"5'8""",179,R
+Luke,Malboeuf,Colgate Univ.,28,D,21,2005,"Monroeville, PA",USA,"6'0""",190,R
+Brett,Merner,Colgate Univ.,27,D,22,2004,"Nanaimo, BC",Canada,"6'1""",181,R
+Bobby,Metz,Colgate Univ.,6,D,24,2001,"Detroit, MI",USA,"5'9""",179,R
+Jacob,Napier,Colgate Univ.,5,D,22,2003,"Lancaster, NY",USA,"6'2""",205,L
+Michael,Neumeier,Colgate Univ.,3,D,23,2003,"Kerrobert, SK",Canada,"6'2""",194,L
+Joshua,Niedermayer,Colgate Univ.,26,D,22,2004,"Newport Beach, CA",USA,"6'0""",207,L
+Isaiah,Norlin,Colgate Univ.,9,D,22,2003,"Minneapolis, MN",USA,"6'6""",205,R
+Jack,Brandt,Colgate Univ.,14,F,21,2004,"Columbus, OH",USA,"5'10""",170,L
+Simone,Dadiè,Colgate Univ.,10,F,22,2003,Brunico,Italy,"6'2""",209,L
+Tyson,Doucette,Colgate Univ.,25,F,22,2004,"Sault Ste. Marie, ON",Canada,"6'0""",181,L
+Simon,Labelle,Colgate Univ.,7,F,23,2002,"Ottawa, ON",Canada,"5'10""",176,L
+Max,Nagel,Colgate Univ.,13,F,21,2004,"West St. Paul, MN",USA,"5'8""",161,R
+Owen,Neuharth,Colgate Univ.,23,F,24,2001,"Prior Lake, MN",USA,"5'11""",176,R
+Robby,Newton,Colgate Univ.,22,F,24,2001,"Milwaukee, WI",USA,"5'9""",194,R
+Daniel,Panetta,Colgate Univ.,12,F,24,2001,"Belleville, ON",Canada,"5'10""",174,L
+Davide,Patella,Colgate Univ.,29,F,22,2004,"Laval, QC",Canada,"6'2""",194,L
+Nicholas,Rexine,Colgate Univ.,21,F,23,2002,"Syracuse, NY",USA,"6'2""",194,R
+Jake,Schneider,Colgate Univ.,24,F,23,2002,"Plymouth, MN",USA,"5'11""",198,R
+Ryan,Spinale,Colgate Univ.,19,F,22,2004,"Plymouth, MA",USA,"6'6""",216,R
+Ryan,Sullivan,Colgate Univ.,16,F,23,2002,"Calgary, AB",Canada,"6'2""",190,L
+Easton,Wainwright,Colgate Univ.,20,F,21,2005,"Mount Hope, ON",Canada,"5'10""",190,L
+Louden,Hogg,College of the Holy Cross,1,G,23,2002,"Cheyenne, WY",USA,"5'11""",170,L
+Danick,Leroux,College of the Holy Cross,30,G,20,2005,"Candiac, QC",Canada,"6'2""",201,L
+Connor,Mackenzie,College of the Holy Cross,33,G,23,2002,"Toronto, ON",Canada,"6'0""",179,L
+Anthony,Biakabutuka,College of the Holy Cross,4,D,19,2006,"Longueuil, QC",Canada,"6'3""",209,L
+Ryan,Buckley,College of the Holy Cross,8,D,22,2004,"Warwick, RI",USA,"6'1""",179,R
+William,Elias,College of the Holy Cross,13,D,23,2003,"Weston, MA",USA,"6'0""",179,R
+Brody,Gagno,College of the Holy Cross,3,D,23,2002,"South Surrey, BC",Canada,"6'1""",190,R
+Lachlan,Getz,College of the Holy Cross,2,D,24,2002,"Northfield, IL",USA,"6'3""",185,R
+Owain,Johnston,College of the Holy Cross,14,D,22,2003,"Toronto, ON",Canada,"6'1""",194,R
+Ben,LeFranc,College of the Holy Cross,23,D,22,2003,"Penticton, BC",Canada,"5'9""",176,R
+Quinn,McCall,College of the Holy Cross,37,D,21,2005,"St. John, IN",USA,"5'11""",181,R
+Mack,Oliphant,College of the Holy Cross,27,D,23,2002,"Northbrook, IL",USA,"6'3""",194,R
+Will,Troutwine,College of the Holy Cross,5,D,23,2002,"Eveleth, MN",USA,"6'3""",216,L
+Dax,Williams,College of the Holy Cross,24,D,20,2005,"Calgary, AB",Canada,"6'0""",201,L
+Michael,Abgrall,College of the Holy Cross,11,F,22,2003,"Richmond, BC",Canada,"5'11""",172,L
+Anthony,Carone,College of the Holy Cross,7,F,22,2003,"Pittsburgh, PA",USA,"6'1""",183,R
+Matt,DeBoer,College of the Holy Cross,17,F,23,2002,"Madison, NJ",USA,"6'0""",185,R
+Noah,Eyre,College of the Holy Cross,38,F,21,2004,"Vienna, VA",USA,"5'11""",176,R
+Ty,Gagno,College of the Holy Cross,18,F,22,2003,"Langley, BC",Canada,"6'2""",185,R
+Timothy,Heinke,College of the Holy Cross,6,F,24,2001,"Kensington, CT",USA,"6'1""",194,R
+David,Hymovitch,College of the Holy Cross,10,F,22,2003,"Phoenix, AZ",USA,"5'11""",176,R
+Owen,Kim,College of the Holy Cross,21,F,21,2004,"North Vancouver, BC",Canada,"5'8""",161,R
+Matt,Kursonis,College of the Holy Cross,12,F,21,2004,"Worcester, MA",USA,"6'1""",187,L
+Devin,Phillips,College of the Holy Cross,20,F,24,2001,"Raleigh, NC",USA,"5'10""",181,L
+Will,Reardon,College of the Holy Cross,26,F,21,2004,"Philadelphia, PA",USA,"6'6""",220,R
+Jack,Seymour,College of the Holy Cross,28,F,24,2001,"Chelsea, QC",Canada,"5'11""",170,R
+Jarrod,Smith,College of the Holy Cross,15,F,22,2004,"West Vancouver, BC",Canada,"5'10""",165,R
+Joe,Solimine,College of the Holy Cross,34,F,23,2002,"Middleton, MA",USA,"5'8""",165,L
+Jack,Stockfish,College of the Holy Cross,19,F,23,2002,"North Bay, ON",Canada,"6'4""",216,R
+Connor,Welsh,College of the Holy Cross,29,F,22,2004,"Greenwich, CT",USA,"5'11""",174,R
+Beckham,Dempsey,Colorado College,1,G,21,2004,"Wayne, IL",USA,"6'1""",183,L
+Kaidan,Mbereko,Colorado College,33,G,22,2003,"West Bloomfield, MI",USA,"5'11""",185,L
+Jackson,Unger,Colorado College,30,G,21,2005,"Calgary, AB",Canada,"6'2""",190,R
+Nick,Baer,Colorado College,15,D,21,2004,"Minnetonka, MN",USA,"6'0""",185,R
+Philippe,Blais-Savoie,Colorado College,7,D,20,2005,"San Jose, CA",USA,"6'1""",196,L
+Max,Burkholder,Colorado College,4,D,22,2003,"Chaska, MN",USA,"5'9""",176,R
+Seth,Constance,Colorado College,3,D,21,2004,"Northville, MI",USA,"6'2""",187,R
+Ryan,Koering,Colorado College,5,D,21,2005,"Eden Prairie, MN",USA,"6'4""",194,L
+Mats,Lindgren,Colorado College,23,D,21,2004,"North Vancouver, BC",Canada,"6'0""",183,L
+Matteo,Mann,Colorado College,27,D,21,2004,"Sackville, NB",Canada,"6'6""",229,R
+Colton,Roberts,Colorado College,6,D,19,2006,"Ridge Meadows, BC",Canada,"6'4""",209,R
+Fisher,Scott,Colorado College,18,D,21,2004,"Carbondale, CO",USA,"6'2""",185,L
+Ryan,Alexander,Colorado College,21,F,23,2002,"Toronto, ON",Canada,"5'11""",176,L
+Owen,Beckner,Colorado College,9,F,21,2005,"Victoria, BC",Canada,"6'2""",190,L
+Wilson,Björck,Colorado College,26,F,20,2006,Stockholm,Sweden,"6'0""",176,L
+Jordan,Brisson,Colorado College,22,F,22,2003,"Manhattan Beach, CA",USA,"6'2""",190,L
+Connor,Hvidston,Colorado College,14,F,21,2004,"Tisdale, SK",Canada,"6'3""",185,L
+Shane,Kozlina,Colorado College,12,F,21,2004,"Cranberry Township, PA",USA,"5'11""",174,L
+Gavin,Lindberg,Colorado College,20,F,21,2004,"Fergus Falls, MN",USA,"6'1""",194,R
+Bret,Link,Colorado College,10,F,23,2002,"Anchorage, AK",USA,"6'3""",196,R
+Brandon,Lisowsky,Colorado College,8,F,21,2004,"Port Coquitlam, BC",Canada,"5'9""",183,L
+Drew,Montgomery,Colorado College,29,F,22,2003,"Grand Forks, ND",USA,"5'11""",174,L
+Mateo,Mrsic,Colorado College,19,F,21,2004,"Cloverdale, BC",Canada,"5'11""",185,L
+Tomas,Mrsic,Colorado College,17,F,20,2006,"Surrey, BC",Canada,"6'0""",174,L
+Brayden,Schuurman,Colorado College,28,F,22,2004,"Abbotsford, BC",Canada,"5'10""",201,R
+Merril,Steenari,Colorado College,13,F,22,2004,"Aliso Viejo, CA",USA,"5'10""",181,R
+Riley,Stuart,Colorado College,25,F,24,2002,"Phoenix, AZ",USA,"6'2""",209,R
+Klavs,Veinbergs,Colorado College,24,F,22,2003,Riga,Latvia,"6'3""",212,L
+Alexis,Cournoyer,Cornell Univ.,30,G,20,2005,"Trois-Rivières, QC",Canada,"6'4""",205,L
+Justin,Katz,Cornell Univ.,37,G,21,2004,"Mont-Royal, QC",Canada,"6'2""",183,R
+Remington,Keopple,Cornell Univ.,33,G,23,2002,"Hudson, WI",USA,"6'2""",190,L
+Erick,Roest,Cornell Univ.,40,G,21,2004,"Lethbridge, AB",Canada,"6'0""",181,L
+Luke,Ashton,Cornell Univ.,27,D,21,2005,"North Vancouver, BC",Canada,"6'6""",238,L
+George,Fegaras,Cornell Univ.,6,D,21,2004,"Richmond Hill, ON",Canada,"6'2""",212,R
+Michael,Fisher,Cornell Univ.,16,D,21,2004,"Westborough, MA",USA,"6'2""",194,R
+Hudson,Gorski,Cornell Univ.,2,D,20,2005,"Scotch Plains, NJ",USA,"6'3""",181,R
+Donovan,Hamilton,Cornell Univ.,26,D,20,2005,"Buffalo, NY",USA,"6'3""",198,L
+Luke,McCrady,Cornell Univ.,7,D,20,2005,"Calgary, AB",Canada,"6'3""",185,L
+Marian,Mosko,Cornell Univ.,13,D,21,2004,Zilina,Slovakia,"6'0""",185,L
+Jack,O'Brien,Cornell Univ.,3,D,22,2003,"White Rock, BC",Canada,"6'0""",183,L
+Hoyt,Stanley,Cornell Univ.,5,D,21,2005,"West Vancouver, BC",Canada,"6'3""",201,R
+Xavier,Veilleux,Cornell Univ.,4,D,19,2006,"L'Ancienne-Lorette, QC",Canada,"6'1""",192,L
+Nicholas,Wolfenberg,Cornell Univ.,24,D,21,2004,"Calgary, AB",Canada,"6'2""",212,R
+Connor,Arsenault,Cornell Univ.,19,F,19,2006,"Saint John, NB",Canada,"6'2""",212,L
+Jonathan,Castagna,Cornell Univ.,38,F,20,2005,"Etobicoke, ON",Canada,"6'2""",203,L
+Tyler,Catalano,Cornell Univ.,15,F,22,2004,"St. Louis, MO",USA,"6'4""",216,R
+Nick,DeSantis,Cornell Univ.,28,F,23,2002,"Collegeville, PA",USA,"5'9""",163,R
+Luke,Devlin,Cornell Univ.,8,F,21,2004,"Memphis, TN",USA,"6'3""",209,L
+Giovanni,DiGiulian,Cornell Univ.,18,F,20,2005,"South Burlington, VT",USA,"6'1""",161,R
+Sean,Donaldson,Cornell Univ.,11,F,24,2001,"Vancouver, BC",Canada,"5'11""",192,L
+Reegan,Hiscock,Cornell Univ.,21,F,21,2004,"St. John's, NL",Canada,"6'5""",209,L
+Jacob,Kraft,Cornell Univ.,10,F,22,2003,"Rochester, NY",USA,"5'8""",181,L
+Aiden,Long,Cornell Univ.,17,F,20,2005,"Mono, ON",Canada,"6'2""",209,L
+Charlie,Major,Cornell Univ.,9,F,21,2004,"Skaneateles, NY",USA,"5'10""",179,R
+Parker,Murray,Cornell Univ.,29,F,22,2003,"Manhattan Beach, CA",USA,"6'5""",229,L
+Chase,Pirtle,Cornell Univ.,22,F,20,2005,"Far Hills, NJ",USA,"6'2""",176,R
+Caton,Ryan,Cornell Univ.,12,F,19,2006,"San Francisco, CA",USA,"6'1""",185,L
+Winter,Wallace,Cornell Univ.,23,F,24,2002,"Boulder, CO",USA,"6'4""",223,R
+Ryan,Walsh,Cornell Univ.,14,F,22,2003,"Rochester, NY",USA,"6'1""",187,R
+Roan,Clarke,Dartmouth College,32,G,22,2003,"Cloverdale, BC",Canada,"6'3""",190,L
+Emmett,Croteau,Dartmouth College,70,G,22,2003,"Bonnyville, AB",Canada,"6'4""",209,L
+Mike,Roberts,Dartmouth College,31,G,23,2002,"Wilton, CT",USA,"6'1""",194,L
+Tim,Busconi,Dartmouth College,12,D,21,2004,"Milton, MA",USA,"6'1""",170,R
+Eric,Charpentier,Dartmouth College,2,D,23,2002,"Silver Spring, MD",USA,"6'3""",205,L
+Cooper,Cleaves,Dartmouth College,22,D,20,2006,"Riverside, CT",USA,"6'4""",205,R
+Owen,Desilets,Dartmouth College,43,D,22,2004,"Airdrie, AB",Canada,"6'1""",174,L
+Brock,Devlin,Dartmouth College,20,D,20,2005,"Mission Viejo, CA",USA,"5'10""",165,L
+C.J.,Foley,Dartmouth College,4,D,22,2004,"Hanover, MA",USA,"5'11""",174,R
+Matthew,Fusco,Dartmouth College,6,D,22,2003,"Westwood, MA",USA,"5'11""",194,R
+Colin,Grable,Dartmouth College,9,D,23,2003,"Spring Lake, NJ",USA,"6'2""",201,R
+Tucker,McRae,Dartmouth College,5,D,24,2001,"Calgary, AB",Canada,"6'0""",190,L
+Andrew,Clarke,Dartmouth College,21,F,22,2004,"St. Louis, MO",USA,"5'11""",170,R
+Hank,Cleaves,Dartmouth College,18,F,22,2003,"Riverside, CT",USA,"6'4""",201,L
+Brock,Cummings,Dartmouth College,71,F,20,2005,"Mississauga, ON",Canada,"6'2""",194,L
+Tyler,Grahme,Dartmouth College,27,F,21,2004,"Bloomington, MN",USA,"5'11""",185,R
+Alexander,Krause,Dartmouth College,95,F,24,2001,"Calabasas, CA",USA,"6'1""",190,L
+Cameron,MacDonald,Dartmouth College,15,F,23,2002,"Surrey, BC",Canada,"5'9""",185,R
+Nathan,Morin,Dartmouth College,11,F,21,2004,"St-Augustin-de-Desmaures, QC",Canada,"5'9""",150,L
+Nikita,Nikora,Dartmouth College,7,F,22,2004,St. Petersburg,Russia,"5'10""",170,L
+Austin,Salani,Dartmouth College,8,F,22,2003,"Hancock, MI",USA,"6'2""",194,R
+Ryan,Schelling,Dartmouth College,26,F,21,2004,"Airmont, NY",USA,"6'0""",174,R
+Joshua,Schenk,Dartmouth College,13,F,21,2004,"Whitehorse, YT",Canada,"6'0""",163,R
+Jack,Silverberg,Dartmouth College,86,F,21,2004,"Sherwood Park, AB",Canada,"5'9""",165,R
+Hayden,Stavroff,Dartmouth College,10,F,21,2004,"Dublin, OH",USA,"5'11""",190,R
+Jason,Stefanek,Dartmouth College,92,F,21,2004,"Yorba Linda, CA",USA,"5'11""",165,R
+Oskari,Vuorio,Dartmouth College,24,F,21,2004,Espoo,Finland,"5'9""",174,L
+Hobie,Hedquist,Ferris State Univ.,30,G,23,2003,"Heron Lake, MN",USA,"6'2""",194,L
+Martin,Holtet Lundberg,Ferris State Univ.,55,G,21,2005,Romedal,Norway,"6'1""",181,L
+Noah,Rupprecht,Ferris State Univ.,31,G,23,2002,"Thief River Falls, MN",USA,"5'11""",185,L
+Mason,West,Ferris State Univ.,1,G,21,2004,"Traverse City, MI",USA,"5'10""",170,L
+Nic,Belpedio,Ferris State Univ.,9,D,24,2001,"Skokie, IL",USA,"5'10""",194,L
+Conner,Brown,Ferris State Univ.,24,D,22,2003,"Maplewood, MN",USA,"6'0""",194,L
+Logan,Heroux,Ferris State Univ.,3,D,22,2003,"Middletown, NJ",USA,"6'2""",205,R
+Xavier,Alexandre Jean-Louis,Ferris State Univ.,6,D,24,2001,"Miami, FL",Canada,"6'5""",212,L
+Christopher,Lie,Ferris State Univ.,4,D,20,2005,Hamar,Norway,"5'10""",168,L
+Jack,Mesic,Ferris State Univ.,10,D,23,2002,"Plymouth, MI",USA,"5'11""",185,R
+Brian,Morse,Ferris State Univ.,11,D,23,2003,"Fresno, CA",USA,"6'1""",185,R
+Valtteri,Piironen,Ferris State Univ.,5,D,24,2001,Pyhäselkä,Finland,"6'4""",207,L
+Trevor,Taulien,Ferris State Univ.,28,D,22,2003,"Crystal Lake, IL",USA,"6'5""",229,R
+Kade,Turner,Ferris State Univ.,2,D,23,2003,"Calgary, AB",Canada,"6'1""",198,R
+Jacob,Badal,Ferris State Univ.,26,F,24,2001,"Flushing, MI",USA,"6'1""",201,L
+Gavin,Best,Ferris State Univ.,27,F,24,2001,"Richfield, MN",USA,"6'2""",194,L
+Caden,Brown,Ferris State Univ.,12,F,22,2003,"St. Louis, MO",USA,"5'11""",190,L
+Holden,Doell,Ferris State Univ.,16,F,22,2003,"Martensville, SK",Canada,"5'11""",185,R
+Max,Dukovac,Ferris State Univ.,18,F,24,2002,"Aurora, IL",USA,"6'1""",185,L
+Emerson,Goode,Ferris State Univ.,22,F,23,2002,"Anaheim, CA",USA,"6'1""",185,L
+Max,Itagaki,Ferris State Univ.,19,F,23,2002,"Glenview, IL",USA,"5'6""",154,R
+Luke,Lisko,Ferris State Univ.,17,F,21,2004,"Marine City, MI",USA,"6'1""",190,R
+John,Lundy,Ferris State Univ.,21,F,24,2001,"Brooklyn, NY",USA,"5'10""",181,L
+Connor,McGrath,Ferris State Univ.,7,F,22,2003,"LeRoy, SK",Canada,"5'11""",161,L
+Carter,Rapalje,Ferris State Univ.,34,F,24,2001,"Burlington, VT",USA,"5'10""",181,R
+Tanner,Rowe,Ferris State Univ.,20,F,23,2002,"Calumet, MI",USA,"6'1""",194,L
+Tyler,Schleppe,Ferris State Univ.,8,F,24,2001,"Vancouver, BC",Canada,"6'4""",225,R
+Jack,Silich,Ferris State Univ.,15,F,22,2003,"Long Grove, IL",USA,"5'10""",185,R
+Riley,Wallack,Ferris State Univ.,23,F,24,2001,"South Surrey, BC",Canada,"6'6""",249,L
+Josh,Zary,Ferris State Univ.,13,F,24,2001,"Nanaimo, BC",Canada,"6'1""",201,L
+Ben,Charette,Harvard Univ.,31,G,22,2003,"Aurora, ON",Canada,"6'3""",183,L
+Evan,Zhang,Harvard Univ.,1,G,20,2006,"Sherborn, MA",USA,"6'2""",165,L
+Matthew,Biotti,Harvard Univ.,3,D,21,2004,"Cambridge, MA",USA,"6'4""",181,R
+Donato,Bracco,Harvard Univ.,18,D,18,2007,"Locust Valley, NY",USA,"5'10""",161,L
+Ryan,Healey,Harvard Univ.,9,D,21,2004,"Chicago, IL",USA,"6'0""",183,R
+David,Hejduk,Harvard Univ.,10,D,22,2004,"Parker, CO",USA,"6'2""",205,R
+Sean,Keohane,Harvard Univ.,5,D,21,2004,"Boston, MA",USA,"6'4""",205,L
+Mason,Langenbrunner,Harvard Univ.,22,D,23,2002,"Dallas, TX",USA,"6'3""",194,R
+James,Mackey,Harvard Univ.,44,D,20,2005,"Villanova, PA",USA,"6'6""",243,L
+Matthew,Morden,Harvard Univ.,14,D,21,2004,"Hamilton, ON",Canada,"6'4""",203,L
+Drake,Murray,Harvard Univ.,20,D,19,2006,"Manhattan Beach, CA",USA,"6'1""",201,R
+Lucas,St-Louis,Harvard Univ.,26,D,20,2005,"Burlington, VT",USA,"5'11""",181,L
+Michael,Callow,Harvard Univ.,8,F,22,2004,"Boston, MA",USA,"6'4""",207,R
+Ryan,Fine,Harvard Univ.,10,F,20,2005,"Center Moriches, NY",USA,"5'9""",183,R
+Richard,Gallant,Harvard Univ.,6,F,18,2007,"Concord, MA",USA,"5'8""",170,L
+Salvatore,Guzzo,Harvard Univ.,23,F,20,2005,"Old Tappan, NJ",USA,"6'1""",185,R
+Marek,Hejduk,Harvard Univ.,13,F,22,2004,"Parker, CO",USA,"6'1""",190,R
+William,Hughes,Harvard Univ.,17,F,22,2004,"Andover, MA",USA,"6'3""",216,R
+Cameron,Johnson,Harvard Univ.,21,F,21,2004,"Vancouver, BC",Canada,"5'10""",168,L
+Aidan,Lane,Harvard Univ.,88,F,19,2007,"Mississauga, ON",Canada,"6'1""",192,R
+Ben,MacDonald,Harvard Univ.,19,F,22,2004,"Weston, MA",USA,"6'1""",194,L
+Will,McDonough,Harvard Univ.,16,F,20,2005,"Duxbury, MA",USA,"6'2""",201,R
+Joe,Miller,Harvard Univ.,12,F,23,2002,"Minneapolis, MN",USA,"5'10""",165,R
+Heikki,Ruohonen,Harvard Univ.,28,F,19,2006,Helsinki,Finland,"6'2""",205,L
+Casey,Severo,Harvard Univ.,29,F,25,2001,"Pittsford, NY",USA,"5'11""",181,R
+Justin,Solovey,Harvard Univ.,11,F,21,2004,"Holmdel, NJ",USA,"6'2""",209,L
+Chase,Stefanek,Harvard Univ.,24,F,19,2006,"Yorba Linda, CA",USA,"6'2""",192,L
+Mick,Thompson,Harvard Univ.,27,F,21,2004,"Toronto, ON",Canada,"5'9""",192,L
+Philip,Tresca,Harvard Univ.,7,F,23,2002,"Boston, MA",USA,"6'0""",196,R
+Rorke,Applebee,Lake Superior State Univ.,33,G,22,2003,"Châteauguay, QC",Canada,"6'0""",181,L
+Andrew,Oke,Lake Superior State Univ.,29,G,21,2004,"Shelby Township, MI",USA,"6'2""",194,L
+Adam,Barone,Lake Superior State Univ.,6,D,21,2004,"Sault Ste. Marie, ON",Canada,"6'1""",209,R
+Samuel,Bélanger,Lake Superior State Univ.,15,D,21,2004,"Montréal, QC",Canada,"6'4""",229,L
+Jack,Blanchett,Lake Superior State Univ.,8,D,22,2003,"Monroe, MI",USA,"5'11""",190,L
+Mike,Brown,Lake Superior State Univ.,3,D,24,2001,"Belmont, MA",USA,"6'2""",223,L
+Evan,Bushy,Lake Superior State Univ.,5,D,23,2002,"Thief River Falls, MN",USA,"6'1""",194,L
+John,Druskinis,Lake Superior State Univ.,53,D,23,2002,"Plymouth, MI",USA,"6'2""",192,R
+Tyson,Galloway,Lake Superior State Univ.,21,D,23,2003,"Kamloops, BC",Canada,"6'4""",205,L
+Bryan,Huggins,Lake Superior State Univ.,40,D,23,2002,"Grand Rapids, MI",USA,"5'11""",181,R
+Max,Ranström,Lake Superior State Univ.,2,D,21,2004,Filipstad,Sweden,"5'11""",192,L
+William,Ahlrik,Lake Superior State Univ.,41,F,22,2003,Tidaholm,Sweden,"6'0""",190,L
+Carter,Batchelder,Lake Superior State Univ.,11,F,23,2003,"Savage, MN",USA,"5'10""",183,L
+Ryan,Beck,Lake Superior State Univ.,25,F,23,2002,"Linden, MI",USA,"5'10""",198,L
+Wilson,Dahlheimer,Lake Superior State Univ.,13,F,22,2003,"Monticello, MN",USA,"5'10""",181,R
+John,Herrington,Lake Superior State Univ.,26,F,23,2002,"Hudson's Hope, BC",Canada,"5'11""",192,L
+Hadley,Hudak,Lake Superior State Univ.,43,F,22,2003,"Canton, MI",USA,"6'4""",201,R
+Luke,Levandowski,Lake Superior State Univ.,17,F,23,2002,"Rosemount, MN",USA,"6'0""",172,L
+Calem,Mangone,Lake Superior State Univ.,7,F,21,2004,"Sault Ste. Marie, ON",Canada,"5'9""",165,R
+Matheson,Mason,Lake Superior State Univ.,97,F,21,2004,"Toronto, ON",Canada,"6'0""",179,L
+Connor,Milburn,Lake Superior State Univ.,19,F,24,2001,"Kamloops, BC",Canada,"6'5""",212,L
+Reagan,Milburn,Lake Superior State Univ.,22,F,23,2003,"Kamloops, BC",Canada,"6'0""",196,L
+Everett,Pietila,Lake Superior State Univ.,18,F,22,2003,"Howell, MI",USA,"5'10""",185,R
+Branden,Piku,Lake Superior State Univ.,77,F,23,2002,"Harrison Township, MI",USA,"5'8""",172,R
+Hunter,Ramos,Lake Superior State Univ.,28,F,20,2005,"Fort Wayne, IN",USA,"5'9""",161,L
+Pierson,Sobush,Lake Superior State Univ.,91,F,21,2004,"Sudbury, ON",Canada,"5'9""",170,L
+Sasha,Teleguine,Lake Superior State Univ.,10,F,23,2002,"North Attleborough, MA",USA,"5'10""",194,L
+Liam,Beerman,Lindenwood Univ.,35,G,21,2004,"Marquette, MI",USA,"6'0""",165,L
+Klayton,Knapp,Lindenwood Univ.,31,G,22,2003,"Sylvania, OH",USA,"6'0""",190,L
+Colin,Ronan,Lindenwood Univ.,29,G,22,2003,"Saugus, MA",USA,"6'2""",190,L
+Michael,Bevilacqua,Lindenwood Univ.,15,D,23,2003,"Hamburg, NY",USA,"6'2""",205,L
+Jacob,Delaney,Lindenwood Univ.,8,D,21,2004,"Glen Ellyn, IL",USA,"6'2""",218,L
+Ethan,Elias,Lindenwood Univ.,18,D,22,2003,"Maple Grove, MN",USA,"5'8""",187,R
+Connor,Gengle,Lindenwood Univ.,4,D,21,2005,"Grand Rapids, MI",USA,"5'9""",150,L
+Brody,Mortensen,Lindenwood Univ.,28,D,21,2004,"Humboldt, SK",Canada,"6'1""",185,L
+Nolan,Seed,Lindenwood Univ.,24,D,23,2002,"Newboro, ON",Canada,"5'11""",168,L
+Jonathan,Wong,Lindenwood Univ.,3,D,21,2004,"North Vancouver, BC",Canada,"5'9""",161,R
+Brady,Yakesh,Lindenwood Univ.,7,D,22,2003,"Delano, MN",USA,"5'9""",179,R
+John,Evans,Lindenwood Univ.,14,F,23,2002,"South Surrey, BC",Canada,"5'10""",161,R
+Jacob,Fletcher,Lindenwood Univ.,10,F,21,2004,"Midland, ON",Canada,"5'9""",170,R
+Louis-Philippe,Fontaine,Lindenwood Univ.,19,F,21,2004,"Chambly, QC",Canada,"5'9""",203,L
+Ty,Hipkin,Lindenwood Univ.,20,F,22,2003,"High River, AB",Canada,"5'11""",181,L
+Olivier,Houde,Lindenwood Univ.,22,F,22,2004,"Dosquet, QC",Canada,"6'1""",181,L
+Drew,Kuzma,Lindenwood Univ.,9,F,23,2002,"St. Albert, AB",Canada,"6'6""",218,L
+Tyler,Loughman,Lindenwood Univ.,26,F,22,2003,"St. Louis, MO",USA,"5'11""",174,R
+Brady,McIsaac,Lindenwood Univ.,27,F,21,2004,"Prince George, BC",Canada,"5'9""",165,L
+Jaeden,Mercier,Lindenwood Univ.,23,F,24,2002,"Saskatoon, SK",Canada,"5'11""",170,R
+Giovanni,Morneau,Lindenwood Univ.,6,F,22,2003,"Ottawa, ON",Canada,"5'9""",168,R
+Adam,Raesler,Lindenwood Univ.,13,F,22,2003,"Edmonton, AB",Canada,"6'1""",185,L
+Anselmo,Rego,Lindenwood Univ.,16,F,20,2005,"Brampton, ON",Canada,"5'9""",176,R
+Charles,Savoie,Lindenwood Univ.,11,F,23,2003,"St-Eustache, QC",Canada,"6'2""",168,L
+Patrick,Schmiedlin,Lindenwood Univ.,17,F,23,2002,"Culver, IN",USA,"6'1""",185,L
+Jake,Southgate,Lindenwood Univ.,21,F,23,2002,"North Battleford, SK",Canada,"5'11""",185,L
+Will,Winemaster,Lindenwood Univ.,5,F,22,2003,"Chicago, IL",USA,"6'3""",205,R
+Ethan,Zielke,Lindenwood Univ.,12,F,22,2003,"Calgary, AB",Canada,"5'10""",179,L
+Carter,Bickle,Long Island Univ.,31,G,21,2004,"Brooklin, ON",Canada,"6'1""",181,L
+Daniel,Duris,Long Island Univ.,30,G,22,2003,Martin,Slovakia,"6'1""",181,R
+Michael,Polston,Long Island Univ.,1,G,21,2004,"Cedarburg, WI",USA,"6'0""",176,L
+Lukas,Renaud,Long Island Univ.,37,G,22,2004,"Montréal, QC",Canada,"6'2""",194,L
+Nate,Benoit,Long Island Univ.,22,D,23,2002,"Bow, NH",USA,"6'1""",187,L
+Nicholas,Bernardo,Long Island Univ.,48,D,22,2003,"Hauppauge, NY",USA,"5'9""",174,L
+A.J.,Casperson,Long Island Univ.,3,D,24,2001,"Flower Mound, TX",USA,"6'2""",196,L
+Blake,Dangos,Long Island Univ.,4,D,23,2002,"St. Louis, MO",USA,"5'10""",174,L
+Jack,Darby,Long Island Univ.,7,D,21,2004,"New Hartford, NY",USA,"6'4""",190,L
+Trevor,Griebel,Long Island Univ.,5,D,24,2001,"Tampa, FL",USA,"5'10""",165,L
+Luke,Hause,Long Island Univ.,24,D,21,2004,"St. Paul, MN",USA,"6'4""",194,L
+Blake,Matheson,Long Island Univ.,6,D,20,2005,"Everett, WA",USA,"6'1""",192,R
+Trenton,Powell,Long Island Univ.,2,D,21,2004,"Soldotna, AK",USA,"5'10""",185,R
+Garrett,Valk,Long Island Univ.,28,D,23,2002,"North Vancouver, BC",Canada,"6'3""",205,R
+Heath,Armstrong,Long Island Univ.,10,F,23,2002,"Calgary, AB",Canada,"5'8""",172,L
+Daniel,Baldassarra,Long Island Univ.,9,F,23,2002,"Vaughan, ON",Canada,"5'10""",170,L
+Jaden,Dyke,Long Island Univ.,29,F,21,2004,"St. John's, NL",Canada,"6'4""",205,L
+Sixten,Jennersjö,Long Island Univ.,17,F,22,2003,Ekerö,Sweden,"5'11""",190,L
+Dylan,Kinch,Long Island Univ.,27,F,21,2004,Salzburg,Canada,"5'11""",185,R
+Isaac,Lambert,Long Island Univ.,26,F,22,2003,"Victoriaville, QC",Canada,"6'1""",196,L
+Luca,Leighton,Long Island Univ.,15,F,22,2003,"Old Brookville, NY",USA,"5'8""",181,L
+Onni,Leppänen,Long Island Univ.,52,F,22,2003,Helsinki,Finland,"5'8""",165,R
+Anthony,Lucarelli,Long Island Univ.,18,F,22,2003,"Chatham, ON",Canada,"6'2""",190,L
+Casey,McDonald,Long Island Univ.,67,F,24,2001,"Kindersley, SK",Canada,"6'1""",185,R
+Johnny,McMahon,Long Island Univ.,11,F,21,2004,"Oceanside, NY",USA,"5'11""",190,R
+Chad,Muller,Long Island Univ.,19,F,22,2003,"Kingston, ON",Canada,"6'1""",190,R
+Brennan,Nelson,Long Island Univ.,12,F,22,2003,"Edmonton, AB",Canada,"5'11""",205,L
+J.R.,Perdion,Long Island Univ.,38,F,22,2003,"Strongsville, OH",USA,"5'11""",181,R
+Brett,Rylance,Long Island Univ.,55,F,24,2001,"Edmonton, AB",Canada,"5'10""",181,L
+Noah,Serdachny,Long Island Univ.,91,F,22,2003,"Edmonton, AB",Canada,"6'2""",194,R
+Simon,Bucheler,Mercyhurst Univ.,44,G,23,2002,"St-Laurent, QC",Canada,"6'2""",190,L
+Salvatore,Evola,Mercyhurst Univ.,33,G,24,2001,"Rochester, MI",USA,"6'0""",174,L
+Charles-Edward,Gravel,Mercyhurst Univ.,29,G,21,2004,"Lévis, QC",Canada,"6'1""",194,R
+Henry,Hunt,Mercyhurst Univ.,1,G,21,2004,"Cedarburg, WI",USA,"6'2""",181,L
+Tyler,DesRochers,Mercyhurst Univ.,7,D,22,2003,"Howell, NJ",USA,"6'0""",185,R
+Francesco,Iasenza,Mercyhurst Univ.,10,D,21,2004,"Pointe-Claire, QC",Canada,"6'1""",201,L
+Lukas,Klemm,Mercyhurst Univ.,2,D,21,2004,"Ridgefield, CT",USA,"6'2""",194,R
+John,Larkin,Mercyhurst Univ.,3,D,25,2001,"Detroit, MI",USA,"6'2""",190,L
+Jacob,LeBlanc,Mercyhurst Univ.,18,D,21,2004,George Town,Canada,"6'1""",187,R
+Kaden,Muir,Mercyhurst Univ.,20,D,21,2004,"Manchester, NH",USA,"6'2""",190,R
+Tyler,Nasca,Mercyhurst Univ.,28,D,25,2001,"Wheatfield, NY",USA,"5'10""",174,R
+Caleb,Price,Mercyhurst Univ.,5,D,25,2000,"Hooksett, NH",USA,"5'10""",174,L
+Trent,Sambrook,Mercyhurst Univ.,6,D,24,2002,"Winnipeg, MB",Canada,"5'10""",174,L
+Jaryd,Sych,Mercyhurst Univ.,4,D,23,2003,"Airdrie, AB",Canada,"6'2""",205,L
+Dominik,Bartecko,Mercyhurst Univ.,15,F,22,2003,Praha,USA,"5'9""",174,L
+Barrett,Brooks,Mercyhurst Univ.,11,F,24,2001,"Stevens Point, WI",USA,"5'7""",170,R
+Ryan,Coughlin,Mercyhurst Univ.,16,F,25,2001,"Charlotte, NC",USA,"6'0""",181,R
+Alexander,Dimitriadis,Mercyhurst Univ.,27,F,21,2004,"Richmond Hill, ON",Canada,"5'10""",181,L
+Matteo,Disipio,Mercyhurst Univ.,24,F,22,2003,"Nepean, ON",Canada,"6'0""",170,R
+Riley,Fitzgerald,Mercyhurst Univ.,19,F,22,2003,"Wilmington, MA",USA,"5'10""",165,R
+Tyler,Haskins,Mercyhurst Univ.,43,F,22,2003,"Rochester, MN",USA,"6'1""",172,L
+Sean,James,Mercyhurst Univ.,9,F,23,2002,"Almonte, ON",Canada,"6'0""",196,R
+Christian,Kocsis,Mercyhurst Univ.,23,F,21,2004,"Middletown, NJ",USA,"5'10""",170,L
+Brendan,Lamb,Mercyhurst Univ.,8,F,21,2004,"Battle Creek, MI",USA,"5'11""",176,R
+Andrew,LeBlanc,Mercyhurst Univ.,14,F,21,2004,George Town,Canada,"6'0""",183,L
+Connor,Pelc,Mercyhurst Univ.,37,F,22,2003,"Buffalo, NY",USA,"6'2""",194,R
+Will,Schumacher,Mercyhurst Univ.,21,F,21,2004,"Prior Lake, MN",USA,"6'0""",181,L
+Noah,Sedore,Mercyhurst Univ.,22,F,24,2002,"Bobcaygeon, ON",Canada,"5'9""",168,L
+Joseph,Serpa,Mercyhurst Univ.,34,F,23,2002,"Cambridge, ON",Canada,"6'0""",165,R
+Spencer,Smith,Mercyhurst Univ.,26,F,23,2002,"St. Catharines, ON",Canada,"5'9""",174,L
+Ryan,Keyes,Merrimack College,31,G,22,2003,"Fairbanks, AK",USA,"6'2""",172,L
+Max,Lundgren,Merrimack College,47,G,23,2002,Ängelholm,Sweden,"6'5""",229,L
+Nils,Wallström,Merrimack College,30,G,22,2003,Skellefteå,Sweden,"6'3""",185,L
+Trent,Ballentyne,Merrimack College,22,D,21,2004,"London, ON",Canada,"6'3""",183,R
+Ethan,Beyer,Merrimack College,7,D,21,2004,"Philadelphia, PA",USA,"5'11""",183,R
+Matthew,Campbell,Merrimack College,15,D,22,2003,"North Vancouver, BC",Canada,"6'1""",170,L
+Nathan,King,Merrimack College,2,D,21,2004,"Victoria, BC",Canada,"6'2""",192,L
+Cameron,Kungle,Merrimack College,17,D,23,2002,"Red Deer, AB",Canada,"6'2""",205,L
+Hunter,Mayo,Merrimack College,8,D,21,2004,"Martensville, SK",Canada,"6'1""",196,R
+Filip,Nordberg,Merrimack College,3,D,21,2004,Stockholm,Sweden,"6'5""",212,L
+Austin,Oravetz,Merrimack College,24,D,22,2003,"Canonsburg, PA",USA,"5'9""",192,R
+Seamus,Powell,Merrimack College,4,D,21,2004,"Marcellus, NY",USA,"6'0""",165,L
+Daniel,Astapovich,Merrimack College,6,F,20,2005,"Birmingham, MI",USA,"6'3""",198,R
+Caden,Cranston,Merrimack College,21,F,21,2004,"Rochester, NY",USA,"5'10""",174,R
+Ty,Daneault,Merrimack College,16,F,21,2004,"Red Deer, AB",Canada,"5'11""",192,R
+Michael,Emerson,Merrimack College,26,F,22,2003,"Yorktown Heights, NY",USA,"6'1""",201,R
+Caelan,Fitzpatrick,Merrimack College,29,F,22,2003,"Moose Jaw, SK",Canada,"5'11""",185,L
+Nolan,Flamand,Merrimack College,20,F,22,2004,"Saskatoon, SK",Canada,"5'9""",181,L
+Justin,Gill,Merrimack College,23,F,23,2003,"St-Joseph-du-Lac, QC",Canada,"6'1""",190,L
+Joseph,Henneberry,Merrimack College,13,F,21,2004,"Halifax, NS",Canada,"6'2""",192,L
+Mark,Hillier,Merrimack College,19,F,23,2002,"Labrador City, NL",Canada,"6'1""",181,L
+Trevor,Hoskin,Merrimack College,10,F,21,2004,"Belleville, ON",Canada,"6'1""",174,R
+Parker,Lalonde,Merrimack College,12,F,22,2004,"Aberdeen, SK",Canada,"6'1""",176,R
+Ryan,O'Connell,Merrimack College,28,F,22,2003,"Moorestown, NJ",USA,"5'10""",187,L
+Nick,Pierre,Merrimack College,11,F,21,2004,"Cottage Grove, MN",USA,"5'9""",165,L
+Jack,Richard,Merrimack College,9,F,23,2002,"Stoney Creek, ON",Canada,"6'4""",181,L
+Ben,Yurchuk,Merrimack College,27,F,21,2005,"Montréal, QC",USA,"5'8""",170,L
+Matteo,Drobac,Miami Univ. (Ohio),45,G,22,2003,"Oakville, ON",Canada,"6'2""",201,L
+Mathis,Langevin,Miami Univ. (Ohio),31,G,19,2006,"St-Zotique, QC",Canada,"6'4""",201,L
+Benjamin,Motew,Miami Univ. (Ohio),35,G,21,2004,"Glencoe, IL",USA,"6'0""",185,L
+Kyle,Aucoin,Miami Univ. (Ohio),9,D,23,2002,"Ottawa, ON",Canada,"6'0""",185,L
+Nick,Donato,Miami Univ. (Ohio),3,D,23,2002,"Lake Forest, IL",USA,"6'0""",194,R
+Owen,Lalonde,Miami Univ. (Ohio),12,D,26,2000,"Windsor, ON",Canada,"6'1""",194,R
+Vladislav,Lukashevich,Miami Univ. (Ohio),71,D,22,2003,Magadan,Russia,"6'1""",187,L
+Shaun,McEwen,Miami Univ. (Ohio),2,D,22,2004,"Hadley, MA",USA,"6'0""",192,L
+Michael,Phelan,Miami Univ. (Ohio),73,D,19,2006,"Hinsdale, IL",USA,"6'0""",176,R
+Michael,Quinn,Miami Univ. (Ohio),6,D,22,2003,"St. Louis, MO",USA,"5'11""",176,R
+Ryder,Thompson,Miami Univ. (Ohio),43,D,21,2004,"Russell, MB",Canada,"5'11""",183,L
+Kocha,Delic,Miami Univ. (Ohio),13,F,21,2004,"Ottawa, ON",Canada,"5'11""",198,L
+David,Deputy,Miami Univ. (Ohio),20,F,21,2004,"Gurnee, IL",USA,"5'9""",185,R
+John,Emmons,Miami Univ. (Ohio),8,F,22,2004,"Washington, MI",USA,"6'0""",185,L
+Matteo,Giampa,Miami Univ. (Ohio),91,F,22,2003,"Virgil, ON",Canada,"6'0""",176,R
+Doug,Grimes,Miami Univ. (Ohio),19,F,23,2002,"Brookline, MA",USA,"6'3""",201,R
+David,Grosek,Miami Univ. (Ohio),81,F,22,2003,"Queens, NY",USA,"5'11""",187,L
+Ethan,Hay,Miami Univ. (Ohio),68,F,21,2005,"Waterloo, ON",Canada,"6'1""",194,L
+Max,Helgeson,Miami Univ. (Ohio),17,F,25,2000,"Anchorage, AK",USA,"6'1""",185,R
+Blake,Mesenburg,Miami Univ. (Ohio),26,F,23,2002,"Orono, MN",USA,"5'11""",181,L
+Nicholas,Mikan,Miami Univ. (Ohio),10,F,21,2004,"Edina, MN",USA,"6'4""",229,R
+Ilia,Morozov,Miami Univ. (Ohio),18,F,17,2008,Moskva,Russia,"6'3""",205,L
+Brayden,Morrison,Miami Univ. (Ohio),23,F,23,2002,"Calgary, AB",Canada,"6'0""",185,L
+Casper,Nässén,Miami Univ. (Ohio),33,F,21,2004,Norrtälje,Sweden,"6'4""",214,R
+Ryan,Smith,Miami Univ. (Ohio),14,F,20,2005,"Pendleton, NY",USA,"5'9""",179,R
+Justin,Stupka,Miami Univ. (Ohio),11,F,20,2005,"Pittsburgh, PA",USA,"6'2""",214,R
+Bradley,Walker,Miami Univ. (Ohio),21,F,21,2004,"Orono, MN",USA,"6'1""",194,R
+Trey,Augustine,Michigan State Univ.,1,G,21,2005,"South Lyon, MI",USA,"6'1""",194,L
+Dolan,Gilbert,Michigan State Univ.,30,G,24,2001,"South Bend, IN",USA,"6'2""",190,L
+Melvin,Strahl,Michigan State Univ.,32,G,20,2005,Sollefteå,Sweden,"6'3""",170,L
+Sean,Barnhill,Michigan State Univ.,3,D,19,2007,"Scottsdale, AZ",USA,"6'6""",214,R
+Matt,Basgall,Michigan State Univ.,9,D,23,2002,"Lake Forest, IL",USA,"5'10""",190,R
+Patrick,Geary,Michigan State Univ.,2,D,22,2004,"Hamburg, NY",USA,"6'1""",192,L
+Matthew,Lahey,Michigan State Univ.,14,D,19,2006,"Victoria, BC",Canada,"6'6""",209,L
+Colin,Ralph,Michigan State Univ.,4,D,20,2005,"Maple Grove, MN",USA,"6'4""",229,L
+Travis,Shoudy,Michigan State Univ.,5,D,23,2002,"Marysville, MI",USA,"5'10""",181,L
+Maxim,Strbak,Michigan State Univ.,8,D,20,2005,Kosice,Slovakia,"6'2""",203,R
+Cole,Ward,Michigan State Univ.,6,D,20,2005,"Rochester Hills, MI",USA,"6'6""",209,R
+Owen,West,Michigan State Univ.,11,D,21,2004,"Pittsboro, IN",USA,"5'11""",194,L
+Austin,Baker,Michigan State Univ.,19,F,20,2006,"White Lake Township, MI",USA,"6'0""",190,L
+Cole,Burke,Michigan State Univ.,25,F,22,2004,"Trenton, MI",USA,"6'2""",181,R
+Griffin,Jurecki,Michigan State Univ.,12,F,22,2003,"Grosse Ile, MI",USA,"5'10""",183,L
+Ryker,Lee,Michigan State Univ.,18,F,19,2006,"Wilmette, IL",USA,"6'1""",185,R
+Cayden,Lindstrom,Michigan State Univ.,28,F,20,2006,"Chetwynd, BC",Canada,"6'3""",220,L
+Nathan,Mackie,Michigan State Univ.,24,F,21,2004,"Prince George, BC",Canada,"5'11""",194,R
+Porter,Martone,Michigan State Univ.,22,F,19,2006,"Peterborough, ON",Canada,"6'3""",209,R
+Tommi,Männistö,Michigan State Univ.,10,F,22,2004,Riihimäki,Finland,"6'0""",205,L
+Eric,Nilson,Michigan State Univ.,26,F,18,2007,"Calgary, AB",Sweden,"6'0""",170,R
+Gavin,O'Connell,Michigan State Univ.,29,F,22,2004,"Wayzata, MN",USA,"6'0""",194,R
+Anthony,Romani,Michigan State Univ.,21,F,20,2005,"Pickering, ON",Canada,"6'1""",194,R
+Daniel,Russell,Michigan State Univ.,20,F,24,2001,"Williamsburg, MI",USA,"5'10""",161,L
+Tiernan,Shoudy,Michigan State Univ.,13,F,23,2002,"St. Clair, MI",USA,"5'9""",179,L
+Charlie,Stramel,Michigan State Univ.,15,F,21,2004,"Rosemount, MN",USA,"6'3""",216,R
+Shane,Vansaghi,Michigan State Univ.,23,F,19,2006,"St. Louis, MO",USA,"6'2""",216,R
+Owen,Bartoszkiewicz,Michigan Tech,35,G,22,2003,"Northville, MI",USA,"6'2""",198,L
+Bryant,Lee,Michigan Tech,31,G,19,2006,"Madison, WI",USA,"6'0""",181,L
+Ryan,Manzella,Michigan Tech,37,G,21,2004,"Eagan, MN",USA,"6'0""",174,L
+Jack,Anderson,Michigan Tech,4,D,23,2002,"St. Louis, MO",USA,"6'6""",225,L
+Reid,Andresen,Michigan Tech,21,D,20,2005,"Saskatoon, SK",Canada,"5'9""",165,L
+Rylan,Brown,Michigan Tech,3,D,21,2005,"Sherwood Park, AB",Canada,"6'0""",161,L
+Luca,Fasciano,Michigan Tech,26,D,22,2003,"Toronto, ON",Canada,"6'4""",209,R
+Max,Matthews,Michigan Tech,5,D,21,2004,"Arlington Heights, IL",USA,"6'1""",190,R
+Tyler,Miller,Michigan Tech,13,D,21,2004,"Medicine Hat, AB",Canada,"6'0""",176,L
+Kalem,Parker,Michigan Tech,8,D,21,2004,"Clavet, SK",Canada,"6'0""",187,R
+Braden,Pietila,Michigan Tech,25,D,21,2004,"Howell, MI",USA,"6'1""",185,L
+Joe,Prouty,Michigan Tech,20,D,24,2001,"Apple Valley, MN",USA,"6'1""",203,R
+Kasper,Vähärautio,Michigan Tech,7,D,23,2002,Helsinki,Finland,"6'0""",187,L
+Ryan,Abraham,Michigan Tech,12,F,21,2004,"Troy, MI",USA,"5'8""",170,L
+Owen,Baker,Michigan Tech,11,F,22,2004,"Howell, MI",USA,"5'10""",185,R
+Carson,Birnie,Michigan Tech,15,F,21,2005,"Arcola, SK",Canada,"6'1""",187,L
+Brayden,Boehm,Michigan Tech,6,F,22,2004,"Nanaimo, BC",Canada,"6'0""",187,L
+Michael,Cicek,Michigan Tech,19,F,22,2004,"Winnipeg, MB",Canada,"6'1""",190,R
+Reid,Daavettila,Michigan Tech,17,F,20,2005,"Howell, MI",USA,"6'2""",198,R
+Isaac,Gordon,Michigan Tech,16,F,22,2004,"Landmark, MB",Canada,"6'0""",187,R
+Elias,Jansson,Michigan Tech,10,F,20,2005,Oulu,Finland,"6'0""",196,L
+Max,Koskipirtti,Michigan Tech,14,F,21,2004,Espoo,Finland,"6'1""",190,L
+Trevor,Kukkonen,Michigan Tech,23,F,25,2001,"Maple Grove, MN",USA,"5'10""",181,L
+Carson,Latimer,Michigan Tech,9,F,23,2003,"White Rock, BC",Canada,"6'1""",192,R
+Tom,Leppä,Michigan Tech,2,F,20,2005,Kauniainen,Finland,"6'0""",183,L
+Ryder,Matter,Michigan Tech,29,F,21,2004,"Beaumont, AB",Canada,"6'0""",185,R
+Lauri,Raiman,Michigan Tech,27,F,22,2004,Vantaa,Finland,"5'11""",179,L
+Noah,Reinhart,Michigan Tech,18,F,21,2004,"Dundas, ON",Canada,"6'1""",201,R
+Stiven,Sardaryan,Michigan Tech,77,F,23,2003,St. Petersburg,Russia,"6'2""",187,L
+Teydon,Trembecky,Michigan Tech,28,F,20,2005,"Strathcona, AB",Canada,"5'11""",181,L
+Matthew,Van Blaricom,Michigan Tech,22,F,19,2006,"Southey, SK",Canada,"5'11""",174,R
+Max,Beckford,Minnesota State Univ. (Mankato),35,G,23,2003,"London, ON",Canada,"6'2""",205,L
+Matthew,Syverson,Minnesota State Univ. (Mankato),31,G,22,2003,"Apple Valley, MN",USA,"6'4""",185,L
+Alexander,Tracy,Minnesota State Univ. (Mankato),33,G,24,2001,"Chicago, IL",USA,"6'0""",187,L
+Ralfs,Bergmanis,Minnesota State Univ. (Mankato),39,D,23,2002,Liepaja,Latvia,"5'10""",174,L
+Rylan,Bonkowski,Minnesota State Univ. (Mankato),26,D,19,2006,"Richmond, BC",Canada,"5'11""",170,R
+Campbell,Cichosz,Minnesota State Univ. (Mankato),8,D,24,2001,"Albert Lea, MN",USA,"6'1""",185,R
+Jacob,Conrad,Minnesota State Univ. (Mankato),4,D,23,2002,"Green Bay, WI",USA,"5'10""",170,L
+Easton,Hewson,Minnesota State Univ. (Mankato),28,D,20,2005,"Edmonton, AB",Canada,"6'4""",220,L
+Liam,Hupka,Minnesota State Univ. (Mankato),22,D,20,2005,"Minneapolis, MN",USA,"6'3""",190,R
+Evan,Murr,Minnesota State Univ. (Mankato),10,D,23,2003,"Stillwater, MN",USA,"5'11""",179,R
+Jakob,Stender,Minnesota State Univ. (Mankato),18,D,23,2002,"Alexandria, MN",USA,"6'1""",185,L
+Bryce,Strand,Minnesota State Univ. (Mankato),7,D,22,2004,"Green Bay, WI",USA,"5'9""",165,L
+Mason,Wheeler,Minnesota State Univ. (Mankato),5,D,24,2001,"Inver Grove Heights, MN",USA,"6'1""",194,L
+Luigi,Benincasa,Minnesota State Univ. (Mankato),9,F,23,2002,"Edmonton, AB",Canada,"5'9""",157,R
+Jacob,Bonkowski,Minnesota State Univ. (Mankato),16,F,22,2003,"Richmond, BC",Canada,"6'1""",170,L
+Felikss,Gavars,Minnesota State Univ. (Mankato),25,F,23,2002,Riga,Latvia,"5'11""",183,L
+Mason,LeBel,Minnesota State Univ. (Mankato),14,F,21,2004,"South Bend, IN",USA,"6'3""",194,L
+Tristan,Lemyre,Minnesota State Univ. (Mankato),13,F,25,2001,"Mirabel, QC",Canada,"5'9""",170,R
+Charlie,Lurie,Minnesota State Univ. (Mankato),24,F,22,2003,"Minnetonka, MN",USA,"5'11""",187,L
+Reid,Morich,Minnesota State Univ. (Mankato),44,F,20,2005,"Scottsdale, AZ",USA,"6'2""",214,R
+Jordan,Ronn,Minnesota State Univ. (Mankato),11,F,20,2005,"Champlin Park, MN",USA,"5'10""",176,L
+Sawyer,Scholl,Minnesota State Univ. (Mankato),23,F,24,2002,"Green Bay, WI",USA,"6'2""",190,L
+Jack,Smith,Minnesota State Univ. (Mankato),20,F,23,2002,"St. Cloud, MN",USA,"6'0""",190,L
+Ean,Somoza,Minnesota State Univ. (Mankato),17,F,23,2003,"Thousand Oaks, CA",USA,"6'3""",205,R
+Liam,Watkins,Minnesota State Univ. (Mankato),27,F,21,2004,"Okotoks, AB",Canada,"6'1""",201,L
+Finlay,Williams,Minnesota State Univ. (Mankato),21,F,22,2003,"North Vancouver, BC",Canada,"6'1""",185,R
+Alexander,Zetterberg,Minnesota State Univ. (Mankato),12,F,19,2006,Sundsvall,Sweden,"5'8""",163,R
+Tomas,Anderson,Niagara Univ.,31,G,21,2004,"Stillwater, MN",USA,"6'3""",201,L
+Mitchell,Day,Niagara Univ.,30,G,24,2002,MO,USA,"5'10""",174,L
+Deivs,Rolovs,Niagara Univ.,1,G,21,2004,Riga,Latvia,"6'2""",183,L
+Mitchell,Becker,Niagara Univ.,3,D,24,2001,"Rogers, MN",USA,"6'4""",223,R
+Lane,Brockhoff,Niagara Univ.,22,D,25,2000,"Edberg, AB",Canada,"6'1""",207,L
+Cameron,Eke,Niagara Univ.,8,D,20,2005,"St. Catharines, ON",Canada,"6'2""",198,L
+Ethan,Lund,Niagara Univ.,28,D,24,2001,"Calgary, AB",Canada,"5'10""",185,L
+Ray,Murakami,Niagara Univ.,27,D,22,2003,Tomakomai,Japan,"6'0""",176,L
+Nathan,Oickle,Niagara Univ.,9,D,23,2003,"Peterborough, ON",Canada,"6'0""",185,R
+Ross,Roloson,Niagara Univ.,12,D,23,2003,"Woodbury, MN",Canada,"5'11""",174,R
+Jonathan,Ziskie,Niagara Univ.,2,D,24,2001,"Macomb, MI",USA,"6'3""",187,L
+Davis,Codd,Niagara Univ.,29,F,22,2003,"Brighton, MI",USA,"5'10""",174,R
+Grayson,Dietrich,Niagara Univ.,13,F,24,2001,"Calgary, AB",Canada,"6'2""",201,L
+Marshall,Finnie,Niagara Univ.,14,F,22,2004,"Lethbridge, AB",Canada,"6'2""",194,R
+Noah,Hackett,Niagara Univ.,34,F,24,2001,"Ponoka, AB",Canada,"6'1""",174,R
+Aidan,Litke,Niagara Univ.,17,F,22,2003,"Winnipeg, MB",Canada,"6'1""",192,L
+Jacob,Maillet,Niagara Univ.,26,F,22,2003,"Dundas, ON",Canada,"6'1""",205,R
+Declan,McDonnell,Niagara Univ.,25,F,24,2002,"Buffalo, NY",USA,"5'10""",190,R
+Dallon,Melin,Niagara Univ.,21,F,23,2002,"Camrose, AB",Canada,"6'4""",220,L
+Maxim,Muranov,Niagara Univ.,15,F,21,2004,Moskva,Russia,"6'2""",185,L
+Nicholas,Niemo,Niagara Univ.,24,F,24,2001,"Middlebury, VT",USA,"5'10""",181,R
+Glebs,Prohorenkovs,Niagara Univ.,4,F,24,2001,Riga,Latvia,"6'2""",187,L
+Andy,Reist,Niagara Univ.,16,F,21,2004,"Waterloo, ON",Canada,"6'0""",174,L
+Drew,Vieten,Niagara Univ.,19,F,25,2001,"Calabasas, CA",USA,"6'1""",190,L
+Hunter,Wallace,Niagara Univ.,10,F,22,2003,"Oak Lake, MB",Canada,"5'8""",165,L
+Spencer,Young,Niagara Univ.,18,F,22,2003,"Elmira, ON",Canada,"6'0""",174,R
+Tyson,Zimmer,Niagara Univ.,20,F,21,2004,"Russell, MB",Canada,"6'0""",192,R
+Matthew,DellaRusso,Northeastern Univ.,35,G,21,2004,"Darien, CT",USA,"6'3""",187,L
+Quentin,Sigurdson,Northeastern Univ.,1,G,22,2003,"Sartell, MN",USA,"6'2""",174,L
+Lawton,Zacher,Northeastern Univ.,47,G,22,2003,"Buffalo, NY",USA,"6'2""",179,L
+Vincent,Borgesi,Northeastern Univ.,22,D,21,2004,"Philadelphia, PA",USA,"5'8""",174,R
+Dylan,Compton,Northeastern Univ.,4,D,21,2005,"Victoria, BC",Canada,"6'0""",187,R
+Dylan,Finlay,Northeastern Univ.,26,D,24,2001,"L'Île-Bizard, QC",Canada,"6'2""",192,L
+Jack,Henry,Northeastern Univ.,5,D,22,2004,"Skaneateles, NY",USA,"6'0""",190,R
+Noah,Jones,Northeastern Univ.,9,D,22,2004,"Bridgewater, NJ",USA,"6'5""",212,R
+Joaquim,Lemay,Northeastern Univ.,2,D,23,2002,"St-Pierre-les-Becquets, QC",Canada,"6'1""",185,L
+Austen,May,Northeastern Univ.,24,D,22,2003,"Woodhaven, MI",USA,"5'11""",170,R
+Grayson,Badger,Northeastern Univ.,6,F,21,2004,"Hyde Park, MA",USA,"6'2""",187,R
+Joe,Connor,Northeastern Univ.,14,F,20,2005,"Amherst, NH",USA,"5'10""",174,L
+Griffin,Erdman,Northeastern Univ.,17,F,21,2005,"Wilmington, DE",USA,"5'10""",187,L
+James,Fisher,Northeastern Univ.,8,F,21,2004,"Burlington, MA",USA,"6'2""",190,R
+Ethan,Fredericks,Northeastern Univ.,10,F,21,2004,"Sandy Springs, GA",USA,"6'2""",201,R
+Tyler,Fukakusa,Northeastern Univ.,91,F,23,2002,"Toronto, ON",Canada,"5'11""",181,L
+Amine,Hajibi,Northeastern Univ.,33,F,20,2005,"Montréal, QC",Canada,"6'1""",185,L
+Dylan,Hryckowian,Northeastern Univ.,13,F,21,2004,"L'Île-Bizard, QC",Canada,"5'10""",170,R
+Marc,Lund,Northeastern Univ.,19,F,22,2003,"Edina, MN",USA,"6'4""",205,R
+Matthew,Maltais,Northeastern Univ.,92,F,21,2004,"St-Basile-le-Grand, QC",Canada,"6'2""",183,L
+Giacomo,Martino,Northeastern Univ.,15,F,20,2005,"Toronto, ON",Canada,"5'11""",185,L
+Jacob,Mathieu,Northeastern Univ.,81,F,21,2004,"St-Odilon-de-Cranbourne, QC",Canada,"5'11""",192,L
+Andy,Moore,Northeastern Univ.,7,F,24,2002,"Cumberland, ME",USA,"5'11""",194,R
+Jack,Pechar,Northeastern Univ.,21,F,20,2005,"Niskayuna, NY",USA,"6'1""",198,R
+Matthew,Perkins,Northeastern Univ.,51,F,22,2004,"Balgonie, SK",Canada,"5'11""",174,L
+Eli,Sebastian,Northeastern Univ.,11,F,21,2004,"Burlington, ON",Canada,"6'0""",192,L
+Oliver,Auyeung-Ashton,Northern Michigan Univ.,30,G,20,2005,"Coquitlam, BC",Canada,"5'10""",172,L
+Jackson,Fuller,Northern Michigan Univ.,31,G,21,2004,"Centerville, MN",USA,"6'0""",170,L
+William,Gramme,Northern Michigan Univ.,1,G,23,2002,Stockholm,Sweden,"6'4""",201,L
+Max,Weilandt,Northern Michigan Univ.,32,G,20,2005,"Northbrook, IL",USA,"6'1""",190,L
+Nicolas,Ardanaz,Northern Michigan Univ.,3,D,23,2002,"Surrey, BC",Canada,"5'10""",185,L
+Olivier,Beaulieu,Northern Michigan Univ.,8,D,21,2005,"Terrebonne, QC",Canada,"5'10""",152,L
+Warren,Clark,Northern Michigan Univ.,4,D,21,2004,"Riverside, ON",Canada,"6'3""",194,R
+Anthony,Cliche,Northern Michigan Univ.,20,D,22,2003,"Vallée-Jonction, QC",Canada,"6'4""",216,R
+David,Côté,Northern Michigan Univ.,,D,22,2003,"St-Bruno-de-Montarville, QC",Canada,"6'4""",201,L
+Grayden,Daul,Northern Michigan Univ.,5,D,23,2003,"Chicago, IL",USA,"6'0""",181,R
+Zane,Demsey,Northern Michigan Univ.,9,D,24,2001,"Harrison Township, MI",USA,"6'2""",190,L
+Tynan,Ewart,Northern Michigan Univ.,6,D,24,2002,"Duncan, BC",Canada,"6'2""",187,L
+Evan,Johnson,Northern Michigan Univ.,23,D,21,2004,"Trenton, MI",USA,"5'11""",185,R
+Cade,Mason,Northern Michigan Univ.,8,D,24,2001,"Red Deer, AB",Canada,"5'11""",176,L
+Joe,Schiller,Northern Michigan Univ.,2,D,21,2004,"Moorhead, MN",USA,"6'0""",194,L
+Jakub,Altrichter,Northern Michigan Univ.,14,F,22,2003,Praha,Czechia,"5'10""",154,L
+Matthew,Argentina,Northern Michigan Univ.,28,F,23,2003,"Philadelphia, PA",USA,"5'11""",194,R
+Kyle,Bettens,Northern Michigan Univ.,24,F,24,2001,"Winnipeg, MB",Canada,"6'3""",216,R
+Médrick,Bolduc,Northern Michigan Univ.,13,F,22,2003,"Val-d'Or, QC",Canada,"5'9""",183,R
+Michael,Burchill,Northern Michigan Univ.,18,F,20,2005,"Mundelein, IL",USA,"5'10""",163,R
+Danny,Ciccarello,Northern Michigan Univ.,27,F,24,2001,"Kirkland, QC",Canada,"5'11""",201,R
+Peter,Cisar,Northern Michigan Univ.,12,F,20,2005,Bratislava,Slovakia,"6'0""",176,L
+Caiden,Gault,Northern Michigan Univ.,16,F,23,2002,"Oakbank, MB",Canada,"6'1""",179,L
+Aidyn,Hutchinson,Northern Michigan Univ.,29,F,22,2003,"St. Albert, AB",Canada,"6'1""",185,R
+Landon,MacDonald,Northern Michigan Univ.,22,F,21,2004,"Brighton, MI",USA,"6'2""",203,L
+Tobias,Pitka,Northern Michigan Univ.,19,F,19,2006,Poprad,Slovakia,"6'4""",225,R
+Girts,Silkalns,Northern Michigan Univ.,17,F,22,2003,Talsi,Latvia,"6'2""",198,R
+Grayden,Slipec,Northern Michigan Univ.,15,F,20,2005,"Surrey, BC",Canada,"5'10""",190,L
+Tyler,Stern,Northern Michigan Univ.,21,F,21,2004,"Plainview, NY",USA,"5'10""",174,R
+Mathew,Ward,Northern Michigan Univ.,10,F,22,2004,"Kamloops, BC",Canada,"5'9""",168,L
+Kristoffer,Eberly,Ohio State Univ.,60,G,23,2002,"Pinckney, MI",USA,"6'4""",207,L
+Sam,Hillebrandt,Ohio State Univ.,30,G,21,2005,"Port Huron, MI",USA,"6'1""",170,L
+Dawson,Labre,Ohio State Univ.,1,G,21,2004,"Les Cèdres, QC",Canada,"6'3""",185,L
+Chris,Able,Ohio State Univ.,2,D,21,2004,"Libertyville, IL",USA,"6'1""",198,R
+Bryce,Ingles,Ohio State Univ.,21,D,20,2005,"Clyde, MI",USA,"5'9""",181,R
+Nathan,McBrayer,Ohio State Univ.,8,D,21,2004,"Columbus, OH",USA,"6'0""",194,L
+Samuel,McGinley,Ohio State Univ.,27,D,23,2002,"Calgary, AB",Canada,"6'3""",165,L
+Chris,Romaine,Ohio State Univ.,7,D,22,2004,"Boston, MA",USA,"6'0""",196,R
+Broten,Sabo,Ohio State Univ.,73,D,23,2002,"Rosemount, MN",USA,"6'3""",207,L
+William,Smith,Ohio State Univ.,28,D,22,2003,"Toronto, ON",Canada,"6'1""",194,L
+Ethan,Straky,Ohio State Univ.,5,D,22,2003,"Walnut Creek, CA",USA,"6'0""",187,R
+Davis,Burnside,Ohio State Univ.,23,F,22,2003,"La Grange, IL",USA,"6'0""",181,R
+Félix,Caron,Ohio State Univ.,13,F,21,2004,"Terrebonne, QC",Canada,"6'0""",168,R
+Niall,Crocker,Ohio State Univ.,24,F,21,2004,"Delta, BC",Canada,"6'4""",196,R
+Samuel,Deckhut,Ohio State Univ.,25,F,23,2002,"San Diego, CA",USA,"5'11""",194,L
+Jake,Dunlap,Ohio State Univ.,91,F,24,2001,"Windham, NH",USA,"5'9""",174,L
+Adam,Eisele,Ohio State Univ.,15,F,24,2001,"Lake Elmo, MN",USA,"6'2""",209,R
+Ryan,Gordon,Ohio State Univ.,29,F,23,2002,"Duluth, GA",USA,"6'0""",185,R
+Landen,Gunderson,Ohio State Univ.,17,F,21,2004,"Plymouth, MN",USA,"6'1""",190,R
+James,Hong,Ohio State Univ.,19,F,21,2004,Seoul,South Korea,"5'10""",176,L
+Jake,Karabela,Ohio State Univ.,49,F,21,2004,"Guelph, ON",Canada,"5'11""",187,L
+Nathan,Lewis,Ohio State Univ.,63,F,21,2004,"Chicago, IL",USA,"6'6""",209,R
+Max,Montes,Ohio State Univ.,16,F,22,2003,"Waukesha, WI",USA,"5'9""",168,L
+Jake,Rozzi,Ohio State Univ.,11,F,22,2004,"Kirkland, QC",Canada,"6'0""",183,L
+Riley,Thompson,Ohio State Univ.,9,F,23,2002,"Orleans, ON",Canada,"6'4""",216,L
+Thomas,Weis,Ohio State Univ.,10,F,24,2002,"Madison, WI",USA,"5'10""",181,R
+Josh,Fleming,Penn State Univ.,34,G,21,2004,"Montréal, QC",Canada,"6'2""",172,L
+Chris,McFayden,Penn State Univ.,30,G,23,2002,"Mars, PA",USA,"6'3""",212,L
+Kevin,Reidler,Penn State Univ.,35,G,21,2004,Gävle,Sweden,"6'6""",203,L
+John,Seifarth,Penn State Univ.,30,G,22,2003,"Pittsburgh, PA",USA,"6'3""",194,L
+Casey,Aman,Penn State Univ.,3,D,23,2003,"Johnstown, PA",USA,"6'0""",185,R
+Cade,Christenson,Penn State Univ.,27,D,21,2004,"Edmonton, AB",Canada,"6'3""",183,L
+Nolan,Collins,Penn State Univ.,77,D,21,2004,"Whitby, ON",Canada,"6'4""",216,R
+Jarod,Crespo,Penn State Univ.,24,D,23,2002,"Easthampton Township, NJ",USA,"6'0""",190,R
+Nicholas,Fascia,Penn State Univ.,10,D,20,2005,"Blackwood, NJ",USA,"6'1""",183,L
+Mac,Gadowsky,Penn State Univ.,4,D,24,2002,"Fairbanks, AK",USA,"6'3""",190,L
+Carter,Schade,Penn State Univ.,2,D,22,2003,"Mars, PA",USA,"5'11""",185,L
+Jackson,Smith,Penn State Univ.,7,D,18,2007,"Calgary, AB",Canada,"6'4""",205,L
+Charlie,Cerrato,Penn State Univ.,15,F,20,2005,"Fallston, MD",USA,"6'0""",194,L
+Nicholas,Degraves,Penn State Univ.,71,F,22,2003,"Edmonton, AB",Canada,"6'0""",172,R
+Matthew,DiMarsico,Penn State Univ.,14,F,22,2004,"Wexford, PA",USA,"6'0""",181,L
+Dane,Dowiak,Penn State Univ.,19,F,23,2002,"Wexford, PA",USA,"5'10""",181,L
+Aiden,Fink,Penn State Univ.,18,F,21,2004,"Calgary, AB",Canada,"5'10""",161,R
+Braedon,Ford,Penn State Univ.,21,F,22,2004,"Pittsburgh, PA",USA,"5'9""",168,L
+Lev,Katzin,Penn State Univ.,33,F,18,2007,"Thornhill, ON",Canada,"5'8""",176,L
+Reese,Laubach,Penn State Univ.,29,F,22,2003,"San Jose, CA",USA,"6'0""",170,R
+Gavin,McKenna,Penn State Univ.,72,F,18,2007,"Whitehorse, YT",Canada,"6'0""",170,L
+Luke,Misa,Penn State Univ.,11,F,20,2005,"Oakville, ON",Canada,"5'10""",176,L
+Keaton,Peters,Penn State Univ.,9,F,21,2004,"Sussex, WI",USA,"5'10""",187,R
+Ben,Schoen,Penn State Univ.,12,F,23,2002,"Toldeo, OH",USA,"5'8""",165,R
+Alexander,Servagno,Penn State Univ.,8,F,23,2002,"Gibsonia, PA",USA,"5'9""",172,L
+Shea,Van Olm,Penn State Univ.,93,F,21,2004,"Calgary, AB",Canada,"6'1""",198,L
+J.J.,Wiebusch,Penn State Univ.,86,F,22,2004,"River Falls, WI",USA,"6'0""",176,R
+Conor,Callaghan,Princeton Univ.,30,G,22,2003,"Upper Saddle River, NJ",USA,"6'0""",181,L
+Daniel,Moor,Princeton Univ.,35,G,20,2006,"Omaha, NE",USA,"6'2""",190,L
+Brady,Morris,Princeton Univ.,31,G,20,2006,,USA,"5'10""",174,L
+Arthur,Smith,Princeton Univ.,1,G,21,2004,"Farmington, CT",USA,"6'4""",209,L
+Ian,Devlin,Princeton Univ.,6,D,24,2002,"Memphis, TN",Canada,"6'2""",209,L
+Kai,Greaves,Princeton Univ.,23,D,22,2003,"Cambridge, ON",Canada,"6'2""",205,R
+David,Ma,Princeton Univ.,4,D,23,2002,"Manhattan, NY",USA,"5'11""",181,L
+Nick,Marciano,Princeton Univ.,25,D,23,2002,"Greenwich, CT",USA,"6'2""",201,L
+Patrick,Reilly,Princeton Univ.,3,D,21,2004,"Avon, NJ",USA,"6'1""",201,R
+Chris,Reiniger,Princeton Univ.,33,D,19,2006,"Annapolis, MD",USA,"5'8""",170,R
+Tyler,Rubin,Princeton Univ.,8,D,23,2003,"Wayland, MA",USA,"5'10""",174,L
+Brendan,Wang,Princeton Univ.,28,D,24,2002,"Burnaby, BC",Canada,"5'11""",185,L
+Kevin,Anderson,Princeton Univ.,20,F,22,2003,"Regina, SK",Canada,"6'0""",181,L
+Carson,Buydens,Princeton Univ.,14,F,21,2004,"Gladstone, MB",Canada,"6'3""",201,R
+Kai,Daniells,Princeton Univ.,7,F,22,2003,"Whistler, BC",Canada,"6'0""",185,L
+Jaxson,Ezman,Princeton Univ.,27,F,23,2002,"Middleton, WI",USA,"6'1""",190,L
+Julian,Facchinelli,Princeton Univ.,15,F,21,2004,"Woodbridge, ON",Canada,"6'0""",181,R
+Drew,Garzone,Princeton Univ.,13,F,21,2004,"Dover, MA",USA,"6'1""",194,R
+Brendan,Gorman,Princeton Univ.,16,F,23,2003,"Arlington, MA",USA,"6'0""",174,R
+Malcolm,Green,Princeton Univ.,10,F,20,2005,"Bedford, NS",Canada,"6'6""",220,R
+Miles,Gunty,Princeton Univ.,17,F,22,2004,"Bethesda, MD",USA,"5'11""",185,R
+David,Jacobs,Princeton Univ.,24,F,24,2001,"Needham, MA",USA,"5'11""",201,R
+Josh,Karnish,Princeton Univ.,18,F,22,2003,"Marlton, NJ",USA,"6'0""",185,R
+Seamus,Latta,Princeton Univ.,19,F,20,2005,"Bozeman, MT",USA,"6'0""",201,L
+Jake,Manfre,Princeton Univ.,12,F,21,2004,"Smithtown, NY",USA,"6'0""",205,L
+Luc,Pelletier,Princeton Univ.,26,F,22,2003,"Courtenay, BC",Canada,"6'4""",205,L
+Jayden,Sison,Princeton Univ.,11,F,23,2003,"Paoli, PA",USA,"5'10""",190,R
+Matthew,Souliere,Princeton Univ.,22,F,19,2006,"London, ON",Canada,"6'3""",190,L
+Hans,Martin Ulvebne,Princeton Univ.,9,F,21,2004,Oslo,Norway,"6'0""",194,L
+Michael,Young,Princeton Univ.,21,F,23,2002,"Kings Park, NY",USA,"5'11""",190,L
+Aaron,Matthews,Providence College,33,G,21,2004,"Newton, MA",USA,"5'11""",170,L
+John,Parsons,Providence College,30,G,20,2006,"Ithaca, NY",USA,"6'4""",194,L
+Michael,Simpson,Providence College,31,G,23,2003,"London, ON",Canada,"6'1""",198,L
+Philip,Svedebäck,Providence College,35,G,23,2002,Stockholm,Sweden,"6'4""",209,L
+Alexander,Bales,Providence College,6,D,19,2006,"East Amherst, NY",USA,"5'10""",181,L
+Andrew,Centrella,Providence College,23,D,22,2004,"Philadelphia, PA",USA,"5'9""",176,L
+Tomas,Machu,Providence College,2,D,22,2003,Ostrava,Czechia,"6'4""",194,R
+Quinn,Mantei,Providence College,24,D,20,2005,"Weyburn, SK",Canada,"6'0""",187,L
+Martin,Masa,Providence College,28,D,20,2005,Brno,Czechia,"6'2""",194,L
+Kale,McCallum,Providence College,20,D,24,2002,"Fredericton, NB",Canada,"5'11""",183,L
+Donovan,McCoy,Providence College,10,D,21,2004,"Belleville, ON",Canada,"6'1""",205,R
+Alexander,Rybakov,Providence College,27,D,21,2005,Chelyabinsk,Russia,"6'2""",190,L
+Tanner,Adams,Providence College,19,F,20,2005,"Northport, NY",USA,"5'11""",185,R
+Will,Elger,Providence College,15,F,21,2004,"Westerville, OH",USA,"6'2""",174,R
+Jonathan,Fauchon,Providence College,16,F,22,2004,"Ste-Claire-de-Bellechasse, QC",Canada,"5'11""",176,L
+Graham,Gamache,Providence College,11,F,23,2002,"Edmonton, AB",Canada,"5'11""",183,R
+Beau,Jelsma,Providence College,17,F,21,2004,"London, ON",Canada,"5'10""",181,L
+Aleksi,Kivioja,Providence College,14,F,22,2003,Helsinki,Finland,"6'5""",220,R
+Clint,Levens,Providence College,22,F,22,2003,"Windermere, FL",USA,"6'3""",185,R
+Hudson,Malinoski,Providence College,9,F,21,2004,"Saskatoon, SK",Canada,"6'1""",174,L
+Geno,McEnery,Providence College,13,F,22,2003,"Geneva, IL",USA,"6'0""",190,L
+Roger,McQueen,Providence College,29,F,19,2006,"Saskatoon, SK",Canada,"6'6""",198,R
+John,Mustard,Providence College,21,F,19,2006,"Newmarket, ON",Canada,"6'1""",185,L
+Brendan,Ross,Providence College,18,F,22,2003,"Calgary, AB",Canada,"6'3""",194,R
+Logan,Sawyer,Providence College,34,F,19,2006,"Orangeville, ON",Canada,"6'1""",174,L
+Julius,Sumpf,Providence College,26,F,21,2005,München,Germany,"6'2""",198,L
+Matej,Marinov,Quinnipiac Univ.,33,G,22,2003,Nitra,Slovakia,"6'0""",157,L
+Sam,Scopa,Quinnipiac Univ.,31,G,21,2005,"Lexington, MA",USA,"6'0""",181,L
+Dylan,Silverstein,Quinnipiac Univ.,29,G,22,2004,"Calabasas, CA",USA,"6'0""",179,L
+Braden,Blace,Quinnipiac Univ.,22,D,22,2003,"Duncan, BC",Canada,"6'3""",190,R
+Will,Gilson,Quinnipiac Univ.,3,D,24,2001,"Old Greenwich, CT",USA,"6'0""",170,R
+Elliott,Groenewold,Quinnipiac Univ.,7,D,20,2006,"Bellows Falls, VT",USA,"6'4""",216,L
+Charlie,Leddy,Quinnipiac Univ.,6,D,22,2004,"Fairfield, CT",USA,"6'2""",185,R
+Logan,McCutcheon,Quinnipiac Univ.,4,D,22,2004,"Saskatoon, SK",Canada,"5'9""",161,R
+Brady,Schultz,Quinnipiac Univ.,5,D,21,2004,"Monroe, CT",USA,"5'11""",194,L
+Graham,Sward,Quinnipiac Univ.,15,D,22,2003,"Langley, BC",Canada,"6'4""",192,L
+Nate,Tivey,Quinnipiac Univ.,25,D,21,2004,"Burlington, ON",Canada,"6'5""",205,L
+Tyler,Borgula,Quinnipiac Univ.,10,F,20,2005,"Livonia, MI",USA,"5'9""",170,R
+Andon,Cerbone,Quinnipiac Univ.,27,F,21,2004,"Stamford, CT",USA,"5'9""",163,L
+Anthony,Cipollone,Quinnipiac Univ.,18,F,23,2002,"Purchase, NY",USA,"5'6""",165,L
+Victor,Czerneckianair,Quinnipiac Univ.,14,F,24,2002,"Southington, CT",USA,"5'11""",174,L
+Matthew,Lansing,Quinnipiac Univ.,26,F,19,2007,"Tonawanda, NY",USA,"6'1""",185,L
+Mason,Marcellus,Quinnipiac Univ.,20,F,23,2002,"Greely, ON",Canada,"5'9""",165,L
+Matthew,McGroarty,Quinnipiac Univ.,8,F,23,2003,"Westport, CT",USA,"5'10""",172,R
+Christopher,Pelosi,Quinnipiac Univ.,28,F,20,2005,"Sewell, NJ",USA,"6'2""",196,L
+Alex,Power,Quinnipiac Univ.,24,F,24,2002,"St. John's, NL",Canada,"6'1""",185,L
+Ben,Riche,Quinnipiac Univ.,17,F,20,2005,"Bethune, SK",Canada,"5'11""",181,L
+Aaron,Schwartz,Quinnipiac Univ.,11,F,21,2004,"Parkland, FL",USA,"5'11""",174,R
+Antonin,Verreault,Quinnipiac Univ.,23,F,21,2004,"Mirabel, QC",Canada,"5'8""",170,L
+Markus,Vidicek,Quinnipiac Univ.,12,F,21,2004,"Montréal, QC",Canada,"5'10""",172,L
+Jeremy,Wilmer,Quinnipiac Univ.,16,F,22,2003,"Rockville Centre, NY",USA,"5'8""",154,L
+Ethan,Wyttenbach,Quinnipiac Univ.,19,F,19,2007,"Roslyn, NY",USA,"5'10""",181,R
+Trent,Burnham,RIT (Rochester Inst. of Tech.),32,G,25,2000,"Eagle River, AK",USA,"6'0""",163,L
+Jakub,Krbecek,RIT (Rochester Inst. of Tech.),1,G,23,2003,Praha,Czechia,"6'2""",198,L
+Collin,MacKenzie,RIT (Rochester Inst. of Tech.),33,G,21,2004,"Elora, ON",Canada,"6'0""",181,L
+Tristan,Allen,RIT (Rochester Inst. of Tech.),17,D,22,2003,"Kamloops, BC",Canada,"6'0""",183,R
+Gustav,Blom,RIT (Rochester Inst. of Tech.),5,D,25,2001,Stockholm,Sweden,"6'1""",185,R
+Mason,Croucher,RIT (Rochester Inst. of Tech.),24,D,21,2004,"Victoria, BC",Canada,"6'2""",185,L
+Xavier,Lapointe,RIT (Rochester Inst. of Tech.),28,D,24,2002,"Québec, QC",Canada,"6'0""",190,L
+Brock,Reinhart,RIT (Rochester Inst. of Tech.),2,D,21,2004,"Elora, ON",Canada,"6'3""",201,R
+Ben,Roger,RIT (Rochester Inst. of Tech.),20,D,23,2002,"Markham, ON",Canada,"6'5""",205,R
+Kevin,Scott,RIT (Rochester Inst. of Tech.),18,D,22,2003,"Ashburn, VA",USA,"6'3""",216,R
+Crossley,Stewart,RIT (Rochester Inst. of Tech.),27,D,23,2002,"Prince Rupert, BC",Canada,"6'3""",190,L
+Ryan,Williams,RIT (Rochester Inst. of Tech.),3,D,22,2003,"Pleasantville, OH",USA,"6'4""",205,L
+Camden,Bajzer,RIT (Rochester Inst. of Tech.),19,F,21,2004,"Cleveland, OH",USA,"5'11""",183,R
+Austin,Brimmer,RIT (Rochester Inst. of Tech.),7,F,24,2001,"Markham, ON",Canada,"6'4""",223,R
+Christian,Catalano,RIT (Rochester Inst. of Tech.),23,F,22,2003,"Mississauga, ON",Canada,"6'1""",190,R
+Alex,Christopoulos,RIT (Rochester Inst. of Tech.),25,F,22,2003,"Richmond Hill, ON",Canada,"6'0""",196,R
+Mathieu,Cobetto-Roy,RIT (Rochester Inst. of Tech.),21,F,22,2003,"Outremont, QC",Canada,"5'11""",174,L
+Caleb,Elfering,RIT (Rochester Inst. of Tech.),11,F,21,2004,"Richland, WA",USA,"5'9""",170,R
+Simon,Isabelle,RIT (Rochester Inst. of Tech.),12,F,25,2001,"Whitehorse, YT",Canada,"5'10""",174,R
+Philippe,Jacques,RIT (Rochester Inst. of Tech.),10,F,23,2002,"Québec, QC",Canada,"6'4""",205,L
+Adam,Jeffery,RIT (Rochester Inst. of Tech.),15,F,24,2001,"Leamington, ON",Canada,"6'6""",205,L
+Evan,Konyen,RIT (Rochester Inst. of Tech.),26,F,22,2004,"Newmarket, ON",Canada,"6'0""",181,R
+Tyler,Mahan,RIT (Rochester Inst. of Tech.),14,F,24,2001,"Calgary, AB",Canada,"6'0""",190,L
+Will,Moore,RIT (Rochester Inst. of Tech.),22,F,21,2004,"Westfield, IN",USA,"5'11""",185,L
+Boris,Skalos,RIT (Rochester Inst. of Tech.),6,F,23,2003,"Clifton, NJ",USA,"5'11""",185,R
+Ty,Whyte,RIT (Rochester Inst. of Tech.),16,F,22,2003,"Richmond, ON",Canada,"6'1""",185,L
+Zach,Wigle,RIT (Rochester Inst. of Tech.),8,F,22,2004,"Oakville, ON",Canada,"6'0""",194,L
+Croix,Kochendorfer,Robert Morris Univ.,1,G,22,2003,"St. Paul, MN",USA,"6'4""",209,L
+Lucas,Massie,Robert Morris Univ.,30,G,22,2003,"Claremont, CA",USA,"6'1""",190,L
+Charlie,Schenkel,Robert Morris Univ.,31,G,21,2004,"Toronto, ON",Canada,"6'5""",205,R
+J.R.,Ashmead,Robert Morris Univ.,10,D,22,2003,"Calgary, AB",Canada,"6'2""",192,L
+John,Babcock,Robert Morris Univ.,7,D,21,2004,"North Vancouver, BC",Canada,"6'2""",205,L
+Michael,Craig,Robert Morris Univ.,2,D,23,2002,"St. Catharines, ON",Canada,"5'11""",187,R
+Dominic,Elliott,Robert Morris Univ.,3,D,22,2004,"Allendale, MI",USA,"5'10""",176,R
+Greg,Japchen,Robert Morris Univ.,4,D,24,2001,"Doylestown, PA",USA,"6'4""",203,L
+Rasmus,Larsson,Robert Morris Univ.,6,D,22,2004,Hässelby,Sweden,"6'3""",203,L
+Gabriel,Lunn,Robert Morris Univ.,8,D,22,2003,"Lockport, NY",USA,"6'0""",190,L
+Luke,van Why,Robert Morris Univ.,5,D,23,2003,"Hatfield, PA",USA,"5'10""",172,R
+Max,Wattvil,Robert Morris Univ.,9,D,23,2002,Stockholm,Sweden,"6'2""",192,R
+Julian,Beaumont,Robert Morris Univ.,14,F,22,2004,"Allen, TX",USA,"5'8""",161,L
+Dario,Beljo,Robert Morris Univ.,11,F,23,2002,"Sudbury, ON",Canada,"6'3""",190,L
+Lee,Chiang,Robert Morris Univ.,33,F,23,2002,"Toronto, ON",Canada,"5'9""",172,L
+Michael,Felsing,Robert Morris Univ.,29,F,23,2003,"Pittsburgh, PA",USA,"5'11""",181,R
+Cameron,Garvey,Robert Morris Univ.,21,F,23,2002,"Oakville, ON",Canada,"6'0""",181,L
+Connor,Gourley,Robert Morris Univ.,15,F,21,2004,"Calgary, AB",Canada,"6'2""",170,L
+McKay,Hayes,Robert Morris Univ.,20,F,24,2002,"Ancaster, ON",Canada,"6'3""",212,L
+Patrick,Johnson,Robert Morris Univ.,17,F,22,2003,"Chesterfield, MO",USA,"5'8""",187,L
+Tanner,Klimpke,Robert Morris Univ.,19,F,23,2002,"Calgary, AB",Canada,"6'2""",183,L
+George,Krotiris,Robert Morris Univ.,16,F,23,2002,"Markham, ON",Canada,"5'11""",176,L
+Bruce,McDonald,Robert Morris Univ.,18,F,21,2004,"Ottawa, ON",Canada,"6'0""",176,L
+Zeke,Nicholson,Robert Morris Univ.,23,F,21,2004,"Vancouver, BC",Canada,"6'0""",181,L
+Luca,Primerano,Robert Morris Univ.,44,F,20,2005,"North Vancouver, BC",Canada,"6'2""",190,L
+Jackson,Reineke,Robert Morris Univ.,12,F,23,2002,"Faribault, MN",USA,"5'10""",174,R
+Braden,Rourke,Robert Morris Univ.,26,F,21,2004,"Des Moines, IA",USA,"6'0""",172,R
+Ryan,Taylor,Robert Morris Univ.,22,F,24,2001,"St. Louis, MO",USA,"6'3""",207,R
+Trent,Wilson,Robert Morris Univ.,27,F,21,2004,"Tsawwassen, BC",Canada,"6'1""",187,L
+Bruno,Bruveris,RPI (Rensselaer Polytech. Inst.),33,G,23,2002,Riga,Latvia,"6'1""",170,L
+Carson,Dorfman,RPI (Rensselaer Polytech. Inst.),32,G,22,2003,"Hermitage, TN",USA,"6'0""",179,L
+Nathan,Krawchuk,RPI (Rensselaer Polytech. Inst.),30,G,20,2005,"Thunder Bay, ON",Canada,"6'3""",190,L
+James,Goffredo,RPI (Rensselaer Polytech. Inst.),2,D,22,2003,"Mount Laurel, NJ",USA,"5'11""",185,R
+Landen,Hilditch,RPI (Rensselaer Polytech. Inst.),22,D,20,2005,"Surrey, BC",Canada,"6'4""",201,R
+Matthew,Jovanovic,RPI (Rensselaer Polytech. Inst.),4,D,21,2004,"Toronto, ON",Canada,"6'2""",201,L
+Thomas,Klassek,RPI (Rensselaer Polytech. Inst.),6,D,21,2005,Klagenfurt,Austria,"6'0""",183,L
+Lucas,Lemieux,RPI (Rensselaer Polytech. Inst.),16,D,20,2005,"Edmonton, AB",Canada,"6'4""",201,L
+Lucas,Matta,RPI (Rensselaer Polytech. Inst.),61,D,23,2002,"Kleinburg, ON",Canada,"6'2""",201,L
+Gustavs,Ozolins,RPI (Rensselaer Polytech. Inst.),10,D,22,2003,Riga,Latvia,"5'10""",181,L
+Trevor,Russell,RPI (Rensselaer Polytech. Inst.),14,D,26,2000,"Old Hickory, TN",USA,"6'2""",205,R
+Kazimier,Sobieski,RPI (Rensselaer Polytech. Inst.),5,D,21,2004,"Deerfield, MA",USA,"6'1""",181,R
+Gunnar,VanDamme,RPI (Rensselaer Polytech. Inst.),8,D,23,2002,"Pittsford, NY",USA,"6'0""",190,L
+Ethan,Bono,RPI (Rensselaer Polytech. Inst.),9,F,22,2004,"Port McNeill, BC",Canada,"6'3""",201,L
+Mathieu,Bourgault,RPI (Rensselaer Polytech. Inst.),82,F,22,2003,"St-Bruno-de-Montarville, QC",Canada,"6'2""",176,L
+Matthew,Buckley,RPI (Rensselaer Polytech. Inst.),21,F,20,2005,"Oakville, ON",Canada,"5'11""",183,R
+Cole,Gordon,RPI (Rensselaer Polytech. Inst.),27,F,23,2002,"Windsor, CO",USA,"6'2""",198,L
+Jack,Gorton,RPI (Rensselaer Polytech. Inst.),24,F,24,2002,"Granite Springs, NY",USA,"6'3""",201,R
+Jackson,Kyrkostas,RPI (Rensselaer Polytech. Inst.),19,F,21,2004,"Windham, NH",USA,"6'0""",170,R
+Alfred,Lindberg,RPI (Rensselaer Polytech. Inst.),86,F,24,2002,Hallsberg,Sweden,"5'11""",187,L
+Brad,McNeil,RPI (Rensselaer Polytech. Inst.),43,F,23,2002,"Royal Oak, MI",USA,"6'1""",181,L
+Rainers,Rullers,RPI (Rensselaer Polytech. Inst.),11,F,21,2004,Riga,Latvia,"6'4""",194,L
+Ian,Scherzer,RPI (Rensselaer Polytech. Inst.),91,F,20,2005,Villach,Austria,"6'0""",192,L
+Filip,Sitar,RPI (Rensselaer Polytech. Inst.),49,F,20,2005,Ljubljana,Slovenia,"6'0""",187,R
+Jagger,Tapper,RPI (Rensselaer Polytech. Inst.),72,F,21,2004,"Calgary, AB",Canada,"6'0""",185,R
+Dovar,Tinling,RPI (Rensselaer Polytech. Inst.),25,F,22,2003,"Pointe-Claire, QC",Canada,"5'11""",185,L
+Tyler,Wallace,RPI (Rensselaer Polytech. Inst.),18,F,23,2002,"Calgary, AB",Canada,"6'2""",187,L
+Luc,Wilson,RPI (Rensselaer Polytech. Inst.),93,F,24,2001,"Duncan, BC",Canada,"6'0""",181,L
+Ajeetpal,Gundarah,Sacred Heart Univ.,1,G,22,2003,"Richmond, BC",Canada,"6'0""",185,L
+Teagan,Kendrick,Sacred Heart Univ.,33,G,22,2004,"St. Albert, AB",Canada,"6'4""",201,L
+Connor,Smith,Sacred Heart Univ.,72,G,23,2003,"West Haven, CT",USA,"5'8""",150,L
+Jack,Spicer,Sacred Heart Univ.,30,G,21,2004,"Rockville, MD",USA,"6'1""",185,L
+Mikey,Adamson,Sacred Heart Univ.,6,D,24,2001,"Quincy, MA",USA,"5'9""",174,L
+Luke,Amell,Sacred Heart Univ.,5,D,22,2003,"Mars, PA",USA,"6'4""",205,R
+David,Brandes,Sacred Heart Univ.,20,D,22,2004,"Toronto, ON",Canada,"5'10""",179,L
+John,Driscoll,Sacred Heart Univ.,4,D,24,2001,"Eagle, ID",USA,"6'4""",218,R
+Noah,Ellis,Sacred Heart Univ.,21,D,24,2002,"Urbandale, IA",USA,"6'3""",201,R
+Liam,Lesakowski,Sacred Heart Univ.,10,D,22,2003,"Buffalo, NY",USA,"6'5""",225,L
+Chase,Ramsay,Sacred Heart Univ.,8,D,22,2003,"Granite Springs, NY",USA,"6'0""",181,R
+Michael,Rubin,Sacred Heart Univ.,24,D,22,2003,"Blauvelt, NY",USA,"6'1""",194,R
+Noah,Van Vliet,Sacred Heart Univ.,22,D,22,2004,"Toronto, ON",Canada,"6'2""",225,L
+Aiden,VanRooyan,Sacred Heart Univ.,2,D,22,2003,"Dakota Dunes, SD",USA,"6'2""",201,L
+Joshua,Barnes,Sacred Heart Univ.,9,F,23,2002,"Cornwall, ON",Canada,"5'10""",185,L
+Jake,Bongo,Sacred Heart Univ.,19,F,23,2003,"Ridgefield, CT",USA,"5'10""",170,R
+Gavin,Bryant,Sacred Heart Univ.,13,F,21,2004,"Ingersoll, ON",Canada,"5'11""",187,L
+Ray,Fust,Sacred Heart Univ.,23,F,23,2002,Bellinzona,Switzerland,"6'4""",209,L
+Cole,Galata,Sacred Heart Univ.,27,F,23,2002,"Barrie, ON",Canada,"6'0""",185,R
+Jacob,Hewitt,Sacred Heart Univ.,11,F,23,2002,"Ashburnham, MA",USA,"5'11""",190,R
+Jack,Hillier,Sacred Heart Univ.,14,F,21,2004,"Petawawa, ON",Canada,"6'2""",181,R
+Stéphane,Huard,Sacred Heart Univ.,71,F,24,2002,"Blainville, QC",Canada,"5'8""",179,L
+Marcus,Joughin,Sacred Heart Univ.,28,F,24,2001,"Tecumseh, ON",Canada,"5'11""",181,L
+Vitaly,Levyy,Sacred Heart Univ.,17,F,22,2003,"Old Brookville, NY",USA,"5'11""",174,R
+Paul,Minnehan,Sacred Heart Univ.,3,F,22,2003,"Cypress, CA",USA,"6'2""",181,L
+Reid,Pabich,Sacred Heart Univ.,91,F,24,2001,"Verona, WI",USA,"5'11""",181,R
+Charles-Edward,Tardif,Sacred Heart Univ.,86,F,22,2003,"Québec, QC",Canada,"6'0""",201,L
+Jérémi,Tremblay,Sacred Heart Univ.,25,F,23,2003,"Québec, QC",Canada,"6'1""",205,R
+Félix,Trudeau,Sacred Heart Univ.,77,F,23,2002,"Terrebonne, QC",Canada,"6'2""",190,L
+Ethan,Wolthers,Sacred Heart Univ.,98,F,24,2001,"Valencia, CA",USA,"5'9""",181,R
+Patriks,Berzins,St. Cloud State Univ.,39,G,22,2003,Sabile,Latvia,"6'1""",174,L
+James,Gray,St. Cloud State Univ.,33,G,23,2002,"Toronto, ON",Canada,"6'3""",201,L
+Yan,Shostak,St. Cloud State Univ.,1,G,21,2004,Minsk,Belarus,"6'0""",185,L
+Joe,Belisle,St. Cloud State Univ.,3,D,20,2005,"Hugo, MN",USA,"6'0""",176,L
+Thor,Byfuglien,St. Cloud State Univ.,25,D,22,2003,"Roseau, MN",USA,"5'11""",174,L
+Tanner,Henricks,St. Cloud State Univ.,5,D,19,2006,"Mission Viejo, CA",USA,"6'4""",205,R
+Finn,Loftus,St. Cloud State Univ.,4,D,22,2004,"Blaine, MN",USA,"6'1""",185,L
+Mason,Reiners,St. Cloud State Univ.,6,D,24,2001,"Edina, MN",USA,"6'2""",201,R
+Max,Smolinski,St. Cloud State Univ.,21,D,22,2003,"Bloomfield Hills, MI",USA,"6'0""",185,R
+Cooper,Wylie,St. Cloud State Univ.,26,D,24,2001,"Stillwater, MN",USA,"6'1""",201,L
+Josh,Zinger,St. Cloud State Univ.,14,D,24,2001,"Red Deer, AB",Canada,"6'0""",185,R
+Grant,Ahcan,St. Cloud State Univ.,11,F,23,2002,"Savage, MN",USA,"5'11""",174,L
+Ethan,Aucoin,St. Cloud State Univ.,17,F,23,2002,"Calgary, AB",Canada,"6'2""",190,L
+Austin,Burnevik,St. Cloud State Univ.,23,F,21,2005,"Ham Lake, MN",USA,"6'4""",201,L
+Daimon,Gardner,St. Cloud State Univ.,81,F,22,2004,"Eagle Lake, ON",Canada,"6'4""",205,L
+Tyson,Gross,St. Cloud State Univ.,13,F,23,2002,"Calgary, AB",Canada,"6'3""",194,R
+Barrett,Hall,St. Cloud State Univ.,15,F,22,2003,"Apple Valley, MN",USA,"6'0""",185,L
+Adam,Ingram,St. Cloud State Univ.,34,F,22,2003,"Winnipeg, MB",Canada,"6'3""",174,L
+Verner,Miettinen,St. Cloud State Univ.,19,F,22,2003,Espoo,Finland,"6'0""",174,L
+Jack,Reimann,St. Cloud State Univ.,7,F,23,2002,"Ham Lake, MN",USA,"6'0""",201,R
+Nolan,Roed,St. Cloud State Univ.,22,F,20,2005,"White Bear Lake, MN",USA,"5'11""",185,L
+Jack,Rogers,St. Cloud State Univ.,20,F,23,2002,"East Northport, NY",USA,"6'3""",201,R
+Ryan,Rosborough,St. Cloud State Univ.,12,F,25,2000,"Mount Brydges, ON",Canada,"6'3""",194,L
+Gavyn,Thoreson,St. Cloud State Univ.,28,F,21,2004,"Andover, MN",USA,"5'9""",185,L
+Noah,Urness,St. Cloud State Univ.,10,F,20,2005,"Roseau, MN",USA,"5'10""",181,L
+Dana,Wallace,St. Cloud State Univ.,8,F,22,2003,"Boulder, CO",USA,"6'3""",216,R
+Aiden,Welch,St. Cloud State Univ.,18,F,21,2004,"White Bear Lake, MN",USA,"6'2""",209,R
+Mason,Kucenski,St. Lawrence Univ.,32,G,23,2002,"Gill, MA",USA,"6'3""",174,L
+Cameron,Smith,St. Lawrence Univ.,1,G,24,2002,"Westchester, NY",USA,"6'3""",179,L
+Jack,Wieneke,St. Lawrence Univ.,33,G,22,2003,"Plymouth, MN",USA,"6'1""",185,L
+Colin,Winn,St. Lawrence Univ.,31,G,21,2004,"Westford, MA",USA,"6'1""",194,L
+Jack,Babbage,St. Lawrence Univ.,25,D,25,2000,"Tully, NY",USA,"6'1""",192,L
+Isack,Bandu,St. Lawrence Univ.,21,D,24,2001,"Notre-Dame-de-l'Île-Perrot, QC",Canada,"6'2""",201,L
+Andrew,Brown,St. Lawrence Univ.,4,D,20,2005,"Oakville, ON",Canada,"5'11""",187,L
+Sam,Frandina,St. Lawrence Univ.,16,D,21,2004,"Hanover, NH",USA,"5'9""",170,R
+Sam,Hall,St. Lawrence Univ.,7,D,21,2004,"Far Hills, NJ",USA,"6'2""",185,L
+Jake,Lammens,St. Lawrence Univ.,26,D,23,2002,"Norwalk, CT",USA,"6'1""",185,R
+Teddy,Mallgrave,St. Lawrence Univ.,2,D,20,2005,"Summit, NJ",USA,"6'3""",201,L
+Evan,Mitchell,St. Lawrence Univ.,15,D,24,2002,"Kanata, ON",Canada,"5'11""",185,R
+Jan,Olenginski,St. Lawrence Univ.,23,D,22,2003,"Philadelphia, PA",USA,"5'9""",170,R
+Evan,Orloff,St. Lawrence Univ.,3,D,22,2003,"Kensington, MD",USA,"6'3""",194,L
+Luke,Santilli,St. Lawrence Univ.,22,D,21,2004,"Reading, MA",USA,"6'4""",212,R
+Spencer,Bell,St. Lawrence Univ.,24,F,22,2003,"Warman, SK",Canada,"6'0""",190,R
+Nicholas,Beneteau,St. Lawrence Univ.,28,F,22,2003,"Windsor, ON",Canada,"6'3""",192,R
+Jake,Bernadet,St. Lawrence Univ.,19,F,22,2003,"South Burlington, VT",USA,"5'10""",170,R
+Frankie,Carogioiello,St. Lawrence Univ.,20,F,23,2002,"Woodbridge, ON",Canada,"5'10""",187,L
+Cayden,Casey,St. Lawrence Univ.,14,F,21,2004,"Elk River, MN",USA,"6'1""",181,L
+Tyler,Cristall,St. Lawrence Univ.,18,F,23,2002,"North Vancouver, BC",Canada,"5'9""",170,L
+Filip,Juříček,St. Lawrence Univ.,9,F,21,2004,Ostrava,Czechia,"5'10""",170,L
+Jakub,Kopecký,St. Lawrence Univ.,12,F,22,2004,"Grand Rapids, MI",Slovakia,"6'3""",194,L
+Jan,Lasak,St. Lawrence Univ.,34,F,23,2002,Banska Stiavnica,Slovakia,"6'2""",201,L
+Sam,LeDrew,St. Lawrence Univ.,8,F,20,2005,"Stillwater Lake, NS",Canada,"6'1""",181,R
+Cooper,Pierson,St. Lawrence Univ.,13,F,21,2005,"Zionsville, IN",USA,"5'9""",176,R
+Rasmus,Svartström,St. Lawrence Univ.,11,F,20,2005,Helsinki,Finland,"6'5""",201,L
+Gunnar,Thoreson,St. Lawrence Univ.,29,F,23,2002,"Andover, MN",USA,"5'10""",185,L
+Isaac,Tremblay,St. Lawrence Univ.,27,F,21,2004,"Granby, QC",Canada,"6'1""",190,L
+Gabriel,Westling,St. Lawrence Univ.,17,F,22,2003,Mora,Sweden,"6'4""",205,L
+Connor,Androlewicz,Stonehill College,29,G,25,2000,"St. Louis, MO",USA,"6'2""",201,L
+Dylan,Ghaemi,Stonehill College,30,G,24,2001,"Fairport, NY",USA,"6'4""",201,L
+Linards,Lipskis,Stonehill College,31,G,22,2003,Sigulda,Latvia,"6'2""",201,L
+Charlie,Banquier,Stonehill College,4,D,23,2002,"Oakville, ON",Canada,"6'2""",201,R
+Dominick,Campione,Stonehill College,55,D,23,2002,"Kohler, WI",USA,"5'11""",154,R
+Devon,Carlstrom,Stonehill College,21,D,23,2002,"Palm Beach Gardens, FL",USA,"6'3""",212,L
+Ryan,Davies,Stonehill College,5,D,24,2001,"Arlington, MA",USA,"5'11""",179,R
+Justin,Gibson,Stonehill College,6,D,22,2003,"Pittsburgh, PA",USA,"6'1""",190,L
+Adam,Mahler,Stonehill College,2,D,21,2004,"Ancaster, ON",USA,"6'2""",218,R
+Evan,Orr,Stonehill College,26,D,25,2001,"Shelby Township, MI",USA,"5'11""",185,L
+Jordin,Palmer,Stonehill College,22,D,22,2004,"Auburn, NH",USA,"6'2""",194,L
+David,Posma,Stonehill College,20,D,22,2003,"Pomona, NY",USA,"6'0""",170,L
+Matthew,Rafalski,Stonehill College,28,D,21,2004,"Waupaca, WI",USA,"6'1""",190,R
+Zachary,Aben,Stonehill College,12,F,22,2003,"Harvey's Lake, PA",USA,"5'9""",181,L
+Leo,Chambers,Stonehill College,13,F,22,2003,"Toronto, ON",Canada,"6'1""",174,L
+Anthony,Galante,Stonehill College,24,F,23,2002,"Morganville, NJ",USA,"5'11""",174,L
+Joseph,Grainda,Stonehill College,10,F,23,2002,"Carmel, IN",USA,"6'3""",190,L
+Jake,Gutwirth,Stonehill College,18,F,20,2005,"Brooklyn, NY",USA,"5'8""",165,L
+Brady,Hunter,Stonehill College,9,F,23,2002,"Enfield, NS",Canada,"5'8""",174,L
+Frank,Ireland,Stonehill College,19,F,25,2001,"Easton, MA",USA,"5'11""",185,L
+Teddy,Lagerback,Stonehill College,34,F,24,2001,"Minnetonka, MN",USA,"6'1""",194,R
+Joel,Lehtinen,Stonehill College,16,F,22,2003,"Dallas, TX",Finland,"6'4""",209,L
+Cole,Melady,Stonehill College,14,F,22,2003,"Seaforth, ON",Canada,"5'11""",190,L
+Justin,Mexico,Stonehill College,11,F,22,2003,"Madison Heights, MI",USA,"5'10""",165,L
+Patrick,Murphy,Stonehill College,17,F,20,2005,"North Kingstown, RI",USA,"5'11""",190,R
+Zach,Nicolas,Stonehill College,44,F,22,2004,"Airdrie, AB",Canada,"6'5""",203,L
+Billy,Renfrew,Stonehill College,15,F,22,2003,"Fairbanks, AK",USA,"5'11""",181,L
+Matthew,Romer,Stonehill College,71,F,23,2002,"Carpentersville, IL",USA,"5'11""",179,R
+Austin,Elliott,UMass-Lowell,31,G,21,2004,"Strathmore, AB",Canada,"6'2""",185,L
+Nikola,Goich,UMass-Lowell,30,G,21,2004,"Homer Glen, IL",USA,"6'4""",174,R
+Samuel,Richard,UMass-Lowell,33,G,24,2001,"Ste-Catherine, QC",Canada,"6'0""",170,L
+Daniel,Buchbinder,UMass-Lowell,7,D,21,2004,"Buffalo, NY",USA,"6'3""",194,L
+August,Classon,UMass-Lowell,53,D,21,2004,Stockholm,Sweden,"6'0""",185,L
+James,Johnson,UMass-Lowell,6,D,21,2004,"Ajax, ON",Canada,"6'6""",209,R
+Sean,Kilcullen,UMass-Lowell,18,D,23,2002,"Kensington, MD",USA,"6'0""",190,L
+Ryan,Kroll,UMass-Lowell,24,D,19,2006,"Plainfield, IL",USA,"6'1""",194,L
+Tnias,Mathurin,UMass-Lowell,11,D,22,2004,"Ajax, ON",Canada,"6'3""",201,L
+Nate,Misskey,UMass-Lowell,13,D,21,2005,"Melfort, SK",Canada,"6'4""",212,R
+Josh,Mori,UMass-Lowell,22,D,21,2004,"Richmond, BC",Canada,"5'11""",174,L
+Dominic,Payne,UMass-Lowell,27,D,21,2004,"North Vancouver, BC",Canada,"6'1""",176,R
+T.J.,Schweighardt,UMass-Lowell,4,D,24,2001,"Wayne, NJ",USA,"5'11""",181,R
+Luke,Shipley,UMass-Lowell,12,D,21,2004,"Powell River, BC",Canada,"6'0""",187,R
+David,Adaszynski,UMass-Lowell,15,F,20,2005,"Burnaby, BC",Canada,"5'11""",196,L
+Jason,Ahearn,UMass-Lowell,5,F,24,2001,"Staten Island, NY",USA,"5'11""",170,L
+Dillan,Bentley,UMass-Lowell,19,F,24,2001,"Peoria, IL",USA,"6'4""",194,R
+Diego,Buttazzoni,UMass-Lowell,90,F,20,2006,"Langley, BC",Canada,"5'9""",183,L
+Mirko,Buttazzoni,UMass-Lowell,17,F,21,2004,"Langley, BC",Canada,"5'11""",190,L
+Jack,Collins,UMass-Lowell,9,F,24,2001,"Canton, NY",USA,"6'4""",220,L
+Chris,Delaney,UMass-Lowell,10,F,21,2004,"Hopkinton, MA",USA,"5'7""",154,L
+Connor,Eddy,UMass-Lowell,21,F,23,2002,"Victoria, BC",Canada,"6'1""",216,L
+Cole,Lonsdale,UMass-Lowell,7,F,21,2004,"Mississauga, ON",Canada,"5'11""",170,L
+Jacob,MacDonald,UMass-Lowell,26,F,21,2004,"Fort Worth, TX",USA,"6'2""",190,L
+Jaiden,Moriello,UMass-Lowell,8,F,22,2003,"Saugus, MA",USA,"6'2""",194,R
+Libor,Nemec,UMass-Lowell,20,F,22,2003,Bardejov,Slovakia,"6'3""",196,L
+Lee,Parks,UMass-Lowell,23,F,21,2004,"Stittsville, ON",Canada,"6'2""",209,R
+Dominick,Rivelli,UMass-Lowell,3,F,22,2003,"Highland Park, IL",USA,"5'10""",185,R
+Jak,Vaarwerk,UMass-Lowell,29,F,22,2003,"East Amherst, NY",USA,"6'0""",190,L
+Dalyn,Wakely,UMass-Lowell,14,F,21,2004,"Port Hope, ON",Canada,"6'1""",203,R
+Brayden,Gillespie,Union College,29,G,20,2005,"Oakville, ON",Canada,"5'11""",174,L
+Brendan,Holahan,Union College,30,G,21,2004,"New Canaan, CT",USA,"6'2""",181,L
+Cameron,Korpi,Union College,31,G,21,2004,"South Lyon, MI",USA,"6'4""",172,L
+Olivier,Chessler,Union College,15,D,21,2004,"Watertown, MA",USA,"5'11""",174,L
+Tyler,Dunbar,Union College,21,D,22,2003,"Sault Ste. Marie, MI",USA,"6'1""",194,L
+Will,Felicio,Union College,4,D,19,2006,"Holden, MA",USA,"5'10""",174,L
+D.J.,Hart,Union College,2,D,24,2002,"Stamford, CT",USA,"6'3""",209,R
+Étienne,Lessard,Union College,28,D,21,2004,"Blainville, QC",Canada,"5'9""",168,R
+Cal,Mell,Union College,3,D,25,2001,"Cumming, GA",USA,"5'11""",185,R
+Brendan,Miles,Union College,26,D,24,2001,"Farmington Hills, MI",USA,"5'11""",176,R
+Carter,Rose,Union College,5,D,23,2002,"Brasher Falls, NY",USA,"6'2""",194,L
+Nick,Young,Union College,7,D,24,2001,"Raleigh, NC",USA,"6'3""",220,R
+Ethan,Benz,Union College,10,F,24,2001,"Shakopee, MN",USA,"6'2""",205,L
+Riley,Brueck,Union College,27,F,22,2003,"Chesterfield, MO",USA,"6'2""",194,L
+Brandon,Buhr,Union College,14,F,23,2002,"Burnaby, BC",Canada,"6'2""",205,R
+Luke,Buss,Union College,33,F,23,2003,"Columbus, OH",USA,"5'10""",185,R
+Lucas,Buzziol,Union College,16,F,21,2004,"Mississauga, ON",Canada,"6'1""",205,R
+Nate,Hanley,Union College,24,F,23,2002,"Rocky Point, NY",USA,"5'11""",185,R
+Jacob,Jeannette,Union College,22,F,23,2002,"Duluth, MN",USA,"6'1""",209,L
+Carter,Korpi,Union College,12,F,24,2001,"South Lyon, MI",USA,"6'0""",194,R
+Alex,Laurenza,Union College,9,F,21,2005,"Woodbridge, ON",Canada,"5'10""",165,L
+Parker,Lindauer,Union College,17,F,24,2001,"Madison, WI",USA,"5'11""",181,L
+Colby,MacArthur,Union College,11,F,24,2001,"Summerside, PE",Canada,"6'3""",190,R
+Ben,Muthersbaugh,Union College,18,F,22,2004,"Gilford, NH",USA,"6'1""",194,L
+Troy,Pelton,Union College,6,F,21,2004,"Clifton Park, NY",USA,"6'1""",185,L
+Connor,Smith,Union College,8,F,22,2003,"Hugo, MN",USA,"5'11""",185,R
+Drew,Sutton,Union College,19,F,23,2003,"Hortonville, WI",USA,"5'10""",181,L
+Tyler,Krivtsov,Univ. of Alaska-Anchorage,30,G,22,2003,"Santa Clarita, CA",USA,"6'2""",190,L
+Bryant,Marks,Univ. of Alaska-Anchorage,31,G,21,2004,"Wasilla, AK",USA,"6'0""",174,L
+Gergely,Orosz,Univ. of Alaska-Anchorage,33,G,23,2002,Gyõr,Hungary,"6'3""",187,L
+Logan,Acheson,Univ. of Alaska-Anchorage,10,D,23,2002,"Edmonton, AB",Canada,"5'11""",179,L
+Pavol,Funtek,Univ. of Alaska-Anchorage,5,D,22,2003,Bratislava,Slovakia,"6'7""",216,L
+Nolan,Gagnon,Univ. of Alaska-Anchorage,19,D,22,2003,"Metcalfe, ON",Canada,"5'10""",174,R
+Luke,Helgeson,Univ. of Alaska-Anchorage,13,D,21,2004,"Anchorage, AK",USA,"6'0""",205,L
+David,Jesus,Univ. of Alaska-Anchorage,25,D,23,2002,"Toronto, ON",Canada,"6'4""",187,R
+Isaac,Ménard,Univ. of Alaska-Anchorage,4,D,21,2004,"Trois-Rivières, QC",Canada,"5'10""",174,L
+Joey,Potter,Univ. of Alaska-Anchorage,3,D,22,2003,"Los Angeles, CA",USA,"5'11""",185,R
+Camden,Shasby,Univ. of Alaska-Anchorage,7,D,21,2004,"Anchorage, AK",USA,"5'9""",165,L
+John-Paul,Steele,Univ. of Alaska-Anchorage,12,D,22,2003,"Franklin, MI",USA,"6'2""",201,R
+Ethan,Warrener,Univ. of Alaska-Anchorage,2,D,22,2003,"Calgary, AB",Canada,"6'1""",187,L
+Ben,Anderson,Univ. of Alaska-Anchorage,21,F,23,2002,"Crystal, MN",USA,"6'5""",209,R
+Tanyon,Bajzer,Univ. of Alaska-Anchorage,26,F,23,2002,"Cleveland, OH",USA,"6'0""",185,R
+Henry,Bartle,Univ. of Alaska-Anchorage,14,F,22,2003,"Blaine, MN",USA,"6'2""",183,L
+Conor,Cole,Univ. of Alaska-Anchorage,9,F,24,2001,"St. John's, NL",Canada,"5'10""",183,L
+Dylan,Contreras,Univ. of Alaska-Anchorage,11,F,22,2003,"Yorba Linda, CA",USA,"5'7""",170,R
+Luke,Johnson,Univ. of Alaska-Anchorage,37,F,24,2001,"St. Cloud, MN",USA,"5'10""",165,L
+Ryan,Johnson,Univ. of Alaska-Anchorage,16,F,22,2003,"Calgary, AB",Canada,"5'10""",181,R
+Dimitry,Kebreau,Univ. of Alaska-Anchorage,27,F,22,2003,"Silver Spring, MD",USA,"5'11""",190,L
+Brandon,Lajoie,Univ. of Alaska-Anchorage,6,F,24,2001,"Eagle River, AK",USA,"5'11""",181,L
+Judah,Makway,Univ. of Alaska-Anchorage,18,F,21,2004,"Trail, BC",Canada,"6'3""",190,L
+Karter,McNarland,Univ. of Alaska-Anchorage,43,F,23,2003,"Saskatoon, SK",Canada,"5'11""",190,L
+Bryce,Monrean,Univ. of Alaska-Anchorage,17,F,22,2003,"Anchorage, AK",USA,"6'1""",181,L
+Adam,Parsons,Univ. of Alaska-Anchorage,20,F,22,2003,"Port Moody, BC",Canada,"6'0""",170,
+Aaron,Reierson,Univ. of Alaska-Anchorage,23,F,21,2005,"Moorhead, MN",USA,"6'1""",183,R
+Oren,Shtrom,Univ. of Alaska-Anchorage,8,F,21,2004,"Dollard-des-Ormeaux, QC",Canada,"5'10""",185,L
+Tye,Spencer,Univ. of Alaska-Anchorage,29,F,21,2004,"Saskatoon, SK",Canada,"5'8""",150,R
+Jacob,Terpstra,Univ. of Alaska-Anchorage,15,F,20,2005,"Shelby Township, MI",USA,"6'0""",190,R
+Aiden,Westin,Univ. of Alaska-Anchorage,22,F,24,2002,"Anchorage, AK",USA,"6'1""",185,R
+Zakari,Brice,Univ. of Alaska-Fairbanks,31,G,23,2003,"Fairbanks, AK",USA,"5'11""",181,L
+Lassi,Lehti,Univ. of Alaska-Fairbanks,35,G,24,2001,Espoo,Finland,"6'4""",209,L
+Calvin,Vachon,Univ. of Alaska-Fairbanks,32,G,20,2005,"Redondo Beach, CA",USA,"5'11""",168,L
+Jackson,Anderson,Univ. of Alaska-Fairbanks,7,D,22,2004,"Prior Lake, MN",USA,"6'2""",196,R
+Noah,Barlage,Univ. of Alaska-Fairbanks,4,D,22,2003,"Humboldt, SK",Canada,"6'0""",185,R
+Adam,Cardona,Univ. of Alaska-Fairbanks,12,D,22,2003,"Beaconsfield, QC",Canada,"6'2""",201,R
+Caelum,Dick,Univ. of Alaska-Fairbanks,23,D,22,2003,"Sherwood Park, AB",Canada,"5'10""",183,R
+William,Fleet,Univ. of Alaska-Fairbanks,5,D,21,2004,"Denver, CO",USA,"6'2""",205,R
+Hugo,Marcil,Univ. of Alaska-Fairbanks,38,D,21,2004,"Bourget, ON",Canada,"5'10""",179,R
+Kyle,Miller,Univ. of Alaska-Fairbanks,34,D,21,2004,"San Jose, CA",USA,"5'9""",174,L
+Carson,Reed,Univ. of Alaska-Fairbanks,2,D,21,2004,"Warroad, MN",USA,"6'0""",194,L
+Nathan,Rickey,Univ. of Alaska-Fairbanks,26,D,22,2003,"New Lenox, IL",USA,"6'4""",170,R
+Lucas,Sorace,Univ. of Alaska-Fairbanks,27,D,21,2004,"Port Moody, BC",Canada,"6'1""",181,L
+Cade,Ahrenholz,Univ. of Alaska-Fairbanks,20,F,23,2002,"Lakeville, MN",USA,"6'3""",218,R
+Braden,Birnie,Univ. of Alaska-Fairbanks,8,F,24,2001,"Weyburn, SK",Canada,"6'3""",192,L
+Davis,Borozinskis,Univ. of Alaska-Fairbanks,36,F,21,2004,Liepaja,Latvia,"6'0""",190,R
+Michael,Citara,Univ. of Alaska-Fairbanks,28,F,23,2002,"New Hope, PA",USA,"5'10""",161,R
+Beau,Courtney,Univ. of Alaska-Fairbanks,29,F,22,2004,"Parker, CO",USA,"5'10""",179,R
+Tommy,Cronin,Univ. of Alaska-Fairbanks,14,F,21,2004,"Edina, MN",USA,"5'10""",187,R
+Chase,Dafoe,Univ. of Alaska-Fairbanks,37,F,24,2002,"Beverly, MA",USA,"6'3""",201,L
+Mykhailo,Danylov,Univ. of Alaska-Fairbanks,17,F,21,2004,Kyiv,Ukraine,"5'8""",154,L
+Haden,Kruse,Univ. of Alaska-Fairbanks,11,F,22,2003,"Nisswa, MN",USA,"6'1""",172,L
+Jhett,Larson,Univ. of Alaska-Fairbanks,6,F,22,2004,"Delisle, SK",Canada,"5'9""",176,L
+William,Lawson-Body,Univ. of Alaska-Fairbanks,10,F,23,2002,"Grand Forks, ND",USA,"5'10""",170,R
+Alexander,Malinowski,Univ. of Alaska-Fairbanks,25,F,25,2001,Linköping,Sweden,"5'11""",187,L
+Fyodor,Nikolayenya,Univ. of Alaska-Fairbanks,13,F,22,2003,Minsk,Belarus,"5'11""",179,L
+Trenton,Penner,Univ. of Alaska-Fairbanks,16,F,23,2003,"Winkler, MB",Canada,"6'2""",190,L
+Peyton,Platter,Univ. of Alaska-Fairbanks,24,F,22,2003,"Eau Claire, WI",USA,"6'1""",181,L
+Rylen,Roersma,Univ. of Alaska-Fairbanks,18,F,21,2004,"Lethbridge, AB",Canada,"5'11""",190,L
+Dean,Spak,Univ. of Alaska-Fairbanks,9,F,23,2003,"Calgary, AB",Canada,"5'10""",181,L
+Dylan,Sydor,Univ. of Alaska-Fairbanks,15,F,22,2003,"Kamloops, BC",Canada,"5'10""",170,R
+Kam,Hendrickson,Univ. of Connecticut,1,G,20,2006,"Chanhassen, MN",USA,"6'2""",185,R
+Tyler,Muszelik,Univ. of Connecticut,30,G,21,2004,"Long Valley, NJ",USA,"6'3""",194,L
+Ryan,Sanborn,Univ. of Connecticut,31,G,21,2005,"Brookfield, CT",USA,"6'2""",190,L
+Anthony,Allain-Samaké,Univ. of Connecticut,28,D,18,2007,"Gatineau, QC",Canada,"6'2""",183,L
+Brendan,Dunphy,Univ. of Connecticut,2,D,20,2006,"San Diego, CA",USA,"6'5""",207,L
+Kevin,Fitzgerald,Univ. of Connecticut,3,D,21,2004,"Bath, ON",Canada,"6'0""",181,L
+Viking,Gustafsson Nyberg,Univ. of Connecticut,6,D,22,2003,Stockholm,Sweden,"6'6""",225,L
+Kai,Janviriya,Univ. of Connecticut,11,D,20,2005,"Bloomfield, MI",USA,"5'8""",170,R
+Thomas,Messineo,Univ. of Connecticut,15,D,23,2002,"Westwood, MA",USA,"6'0""",190,L
+Trey,Scott,Univ. of Connecticut,21,D,21,2004,"Lunenburg, MA",USA,"5'10""",181,R
+Owen,Simpson,Univ. of Connecticut,34,D,22,2003,"Toronto, ON",Canada,"6'5""",190,L
+Alexandre,Blais,Univ. of Connecticut,22,F,20,2005,"Longueuil, QC",Canada,"5'10""",176,L
+Carlin,Dezainde,Univ. of Connecticut,24,F,21,2004,"Calgary, AB",Canada,"5'11""",172,L
+Tristan,Fraser,Univ. of Connecticut,10,F,24,2001,"West Vancouver, BC",Canada,"6'0""",181,R
+Ethan,Gardula,Univ. of Connecticut,13,F,20,2005,"Princeton, MA",USA,"5'11""",174,L
+Tabor,Heaslip,Univ. of Connecticut,23,F,24,2001,"Fort Worth, TX",USA,"5'9""",174,L
+Huston,Karpman,Univ. of Connecticut,7,F,25,2001,"Manhattan Beach, CA",USA,"5'11""",198,L
+Joey,Muldowney,Univ. of Connecticut,8,F,21,2004,"Lake View, NY",USA,"5'9""",161,R
+Mike,Murtagh,Univ. of Connecticut,26,F,21,2004,"East Greenbush, NY",USA,"5'11""",187,R
+Joseph,Odyniec,Univ. of Connecticut,27,F,21,2004,"Washington, DC",USA,"6'2""",201,R
+Jake,Percival,Univ. of Connecticut,17,F,24,2002,"Avon, CT",USA,"5'9""",174,L
+Jake,Richard,Univ. of Connecticut,19,F,21,2004,"Jacksonville, FL",USA,"6'1""",194,R
+Kaden,Shahan,Univ. of Connecticut,20,F,20,2005,"Everett, WA",USA,"5'11""",170,R
+Carter,Sproule,Univ. of Connecticut,,F,21,2005,"Grand Forks, ND",USA,"6'3""",207,L
+Ryan,Tattle,Univ. of Connecticut,9,F,24,2001,"Port Moody, BC",Canada,"5'11""",196,L
+Ethan,Whitcomb,Univ. of Connecticut,71,F,21,2004,"St. Catharines, ON",USA,"6'4""",209,L
+Paxton,Geisel,Univ. of Denver,30,G,22,2004,"Estevan, SK",Canada,"6'1""",190,L
+Johnny,Hicks,Univ. of Denver,31,G,20,2005,"Kamloops, BC",Canada,"5'11""",154,L
+Quentin,Miller,Univ. of Denver,29,G,21,2004,"Montréal, QC",Canada,"6'3""",190,L
+Kent,Anderson,Univ. of Denver,21,D,22,2003,"Calgary, AB",Canada,"6'3""",205,R
+Cale,Ashcroft,Univ. of Denver,3,D,21,2004,"St. Albert, AB",Canada,"5'10""",185,L
+Garrett,Brown,Univ. of Denver,5,D,21,2004,"San Jose, CA",USA,"6'3""",190,R
+Boston,Buckberger,Univ. of Denver,9,D,22,2003,"Saskatoon, SK",Canada,"5'11""",172,L
+Eric,Jamieson,Univ. of Denver,15,D,20,2005,"Calgary, AB",Canada,"6'3""",205,L
+Tory,Pitner,Univ. of Denver,2,D,19,2006,"Greenwich, CT",USA,"6'1""",190,R
+Eric,Pohlkamp,Univ. of Denver,23,D,21,2004,"Brainerd, MN",USA,"5'11""",205,R
+Alec,Whipple,Univ. of Denver,6,D,22,2004,"Far Hills, NJ",USA,"6'0""",181,R
+Hagen,Burrows,Univ. of Denver,13,F,20,2005,"Orono, MN",USA,"6'3""",176,R
+Clarke,Caswell,Univ. of Denver,25,F,20,2006,"Brandon, MB",Canada,"6'0""",185,L
+Kieran,Cebrian,Univ. of Denver,24,F,22,2003,"Denver, CO",USA,"6'2""",194,L
+Kyle,Chyzowski,Univ. of Denver,16,F,21,2004,"Surrey, BC",Canada,"5'10""",170,L
+Kristian,Epperson,Univ. of Denver,8,F,19,2006,"Mequon, WI",USA,"6'0""",185,L
+Jake,Fisher,Univ. of Denver,19,F,20,2005,"Woodbury, MN",USA,"6'2""",192,L
+Sam,Harris,Univ. of Denver,12,F,22,2003,"San Diego, CA",USA,"5'11""",185,L
+Peter,Lajoy,Univ. of Denver,17,F,24,2002,"Evergreen, CO",USA,"5'7""",165,L
+Rieger,Lorenz,Univ. of Denver,14,F,21,2004,"Calgary, AB",Canada,"6'2""",194,L
+Brendan,McMorrow,Univ. of Denver,22,F,19,2006,"Lakeville, MN",USA,"6'0""",190,L
+Brady,Milburn,Univ. of Denver,10,F,20,2005,"Kamloops, BC",Canada,"6'1""",194,L
+Payton,Nelson,Univ. of Denver,18,F,21,2005,"Centennial, CO",USA,"5'11""",174,R
+James,Reeder,Univ. of Denver,27,F,20,2005,"Glenview, IL",USA,"5'10""",168,R
+Samu,Salminen,Univ. of Denver,11,F,22,2003,Helsinki,Finland,"6'2""",185,L
+Reid,Varkonyi,Univ. of Denver,28,F,20,2006,"Sherwood Park, AB",Canada,"5'10""",183,L
+Albin,Boija,Univ. of Maine,30,G,22,2003,Sundsvall,Sweden,"6'1""",194,L
+Mathis,Rousseau,Univ. of Maine,32,G,21,2004,"Montréal, QC",Canada,"5'11""",174,L
+Gage,Stewart,Univ. of Maine,35,G,22,2003,"Marathon, ON",Canada,"6'1""",194,L
+Grayson,Arnott,Univ. of Maine,23,D,24,2001,"Toronto, ON",Canada,"5'9""",154,R
+Brandon,Chabrier,Univ. of Maine,15,D,23,2002,"Bayville, NY",USA,"6'0""",185,R
+Luke,Coughlin,Univ. of Maine,10,D,20,2005,"Charlottetown, PE",Canada,"5'10""",183,L
+Frank,Djurasevic,Univ. of Maine,44,D,23,2002,"New Rochelle, NY",USA,"6'2""",201,R
+Brandon,Holt,Univ. of Maine,4,D,24,2001,"Grand Forks, ND",USA,"5'11""",181,L
+Jérémy,Langlois,Univ. of Maine,7,D,22,2003,"Ste-Brigitte-de-Laval, QC",Canada,"6'1""",185,L
+Simon,Motew,Univ. of Maine,18,D,22,2003,"Highland Park, IL",USA,"6'1""",190,R
+Bodie,Nobes,Univ. of Maine,34,D,22,2003,"Kitchener, ON",Canada,"5'10""",190,R
+Lukas,Peterson,Univ. of Maine,2,D,20,2006,"Waldwick, NJ",USA,"5'10""",168,R
+Loic,Usereau,Univ. of Maine,16,D,21,2004,"Saint-Michel, QC",Canada,"6'0""",176,L
+Anthony,Calafiore,Univ. of Maine,28,F,23,2002,"Staten Island, NY",USA,"5'9""",170,R
+Owen,Fowler,Univ. of Maine,12,F,23,2002,"Tewksbury, MA",USA,"5'10""",190,L
+Thomas,Freel,Univ. of Maine,26,F,24,2001,Aberdeen,Canada,"6'0""",190,L
+Will,Gerrior,Univ. of Maine,22,F,21,2004,"Halifax, NS",Canada,"5'10""",179,L
+Brock,James,Univ. of Maine,24,F,21,2004,"Falmouth, ME",USA,"6'2""",201,R
+Oskar,Komarov,Univ. of Maine,38,F,22,2003,Uusikaarlepyy,Finland,"6'0""",201,R
+Jaden,Lipinski,Univ. of Maine,41,F,21,2004,"Scottsdale, AZ",USA,"6'4""",209,R
+Miguel,Marques,Univ. of Maine,43,F,19,2006,"Prince George, BC",Canada,"5'11""",190,R
+Josh,Nadeau,Univ. of Maine,20,F,22,2003,"St-François-de-Madawaska, NB",Canada,"5'9""",170,R
+Nick,Peluso,Univ. of Maine,21,F,22,2004,"Rochester, NY",USA,"5'8""",174,R
+Thomas,Pichette,Univ. of Maine,29,F,22,2003,"Maskinongé, QC",Canada,"5'11""",187,R
+Justin,Poirier,Univ. of Maine,93,F,19,2006,"Salaberry-de-Valleyfield, QC",Canada,"5'8""",185,R
+Charlie,Russell,Univ. of Maine,11,F,22,2003,"Skaneateles, NY",USA,"5'11""",174,R
+Sully,Scholle,Univ. of Maine,14,F,22,2003,"Chaska, MN",USA,"5'10""",185,L
+Max,Scott,Univ. of Maine,27,F,23,2002,"San Jose, CA",USA,"6'0""",185,L
+Michael,Hrabal,Univ. of Massachusetts,30,G,21,2005,Praha,Czechia,"6'7""",216,L
+Jackson,Irving,Univ. of Massachusetts,1,G,22,2004,"Newbury, MA",USA,"6'0""",181,L
+James,Norton,Univ. of Massachusetts,32,G,22,2003,"Scarborough, ON",Canada,"6'4""",216,L
+Francesco,Dell'Elce,Univ. of Massachusetts,23,D,20,2005,"Toronto, ON",Canada,"6'1""",181,L
+Coleson,Hanrahan,Univ. of Massachusetts,2,D,20,2005,"Longmeadow, MA",USA,"5'10""",187,R
+Larry,Keenan,Univ. of Massachusetts,18,D,20,2005,"Barrie, ON",Canada,"6'4""",203,L
+Charlie,Lieberman,Univ. of Massachusetts,21,D,22,2004,"Naperville, IL",USA,"6'5""",225,R
+Owen,Murray,Univ. of Massachusetts,26,D,23,2002,"Decker, MB",Canada,"5'10""",185,R
+Landon,Nycz,Univ. of Massachusetts,13,D,18,2007,"Detroit, MI",USA,"6'3""",205,L
+Kennedy,O'Connor,Univ. of Massachusetts,4,D,24,2001,"Augusta, GA",USA,"6'2""",194,L
+Lucas,Ölvestad,Univ. of Massachusetts,6,D,23,2002,"Tampa, FL",Sweden,"6'1""",201,L
+Bo,Cosman,Univ. of Massachusetts,28,F,24,2002,"Lexington, KY",USA,"6'3""",192,L
+Michael,DeAngelo,Univ. of Massachusetts,19,F,21,2004,"Itasca, IL",USA,"5'11""",183,L
+James,Duerr,Univ. of Massachusetts,20,F,21,2004,"Chicago, IL",USA,"6'3""",216,R
+Cameron,Dunn,Univ. of Massachusetts,25,F,22,2003,"Holland, MI",USA,"6'2""",170,R
+Jack,Galanek,Univ. of Massachusetts,10,F,19,2006,"Hopkinton, MA",USA,"6'0""",187,L
+Daniel,Alexander Jencko,Univ. of Massachusetts,17,F,21,2005,Humenne,Slovakia,"6'0""",183,L
+Justin,Kerr,Univ. of Massachusetts,15,F,22,2004,"Grand Rapids, MN",USA,"6'5""",205,R
+Lukas,Klecka,Univ. of Massachusetts,12,F,20,2005,Bratislava,Slovakia,"5'11""",179,R
+A.J.,Lacroix,Univ. of Massachusetts,14,F,20,2005,"Livingston, NJ",USA,"6'0""",194,L
+Owen,Mehlenbacher,Univ. of Massachusetts,7,F,22,2004,"Fort Erie, ON",Canada,"6'2""",190,L
+Jack,Musa,Univ. of Massachusetts,9,F,22,2003,"Estero, FL",USA,"5'10""",172,L
+Vaclav,Nestrasil,Univ. of Massachusetts,11,F,18,2007,Praha,Czechia,"6'6""",190,R
+Cameron,O'Neill,Univ. of Massachusetts,8,F,22,2004,"Odenton, MD",USA,"6'0""",198,R
+Nicholas,Van Tassell,Univ. of Massachusetts,22,F,21,2004,"Basking Ridge, NJ",USA,"6'4""",201,R
+Matthew,Wilde,Univ. of Massachusetts,29,F,23,2002,"Mississauga, ON",Canada,"6'3""",185,L
+Elias,Zimmerman,Univ. of Massachusetts,24,F,20,2005,Gävle,Sweden,"6'6""",216,L
+Jack,Ivankovic,Univ. of Michigan,72,G,18,2007,"Mississauga, ON",Canada,"5'11""",179,L
+Julian,Molinaro,Univ. of Michigan,34,G,22,2003,"Mississauga, ON",Canada,"5'11""",179,L
+Grant,Neuhardt,Univ. of Michigan,,G,21,2004,"Traverse City, MI",USA,"6'1""",181,L
+Stephen,Peck,Univ. of Michigan,31,G,21,2005,"New York, NY",USA,"6'3""",176,L
+Asher,Barnett,Univ. of Michigan,4,D,18,2007,"Wilmette, IL",USA,"6'1""",201,L
+Tyler,Duke,Univ. of Michigan,5,D,21,2004,"Strongsville, OH",USA,"5'10""",194,L
+Luca,Fantilli,Univ. of Michigan,63,D,23,2002,"Nobleton, ON",Canada,"6'0""",183,L
+Miles,Gust,Univ. of Michigan,23,D,21,2004,"Chicago, IL",USA,"5'10""",174,L
+Hunter,Hady,Univ. of Michigan,3,D,21,2004,"Rochester, MN",USA,"6'4""",205,R
+Matthew,Mania,Univ. of Michigan,93,D,21,2005,"Brandon, FL",USA,"6'1""",190,R
+Henry,Mews,Univ. of Michigan,88,D,19,2006,"Ottawa, ON",Canada,"6'1""",183,R
+Joshua,Orrico,Univ. of Michigan,68,D,22,2003,"Woodbridge, ON",Canada,"5'9""",165,R
+Dakoda,Rhéaume-Mullen,Univ. of Michigan,7,D,19,2006,"Northville, MI",USA,"6'0""",185,L
+Ben,Robertson,Univ. of Michigan,21,D,21,2004,"Potomac Falls, VA",USA,"5'11""",192,L
+Drew,Schock,Univ. of Michigan,10,D,19,2007,"Green Bay, WI",USA,"6'0""",179,L
+Kienan,Draper,Univ. of Michigan,33,F,24,2002,"Royal Oak, MI",Canada,"6'2""",209,R
+Joshua,Eernisse,Univ. of Michigan,6,F,24,2001,"Apple Valley, MN",USA,"6'3""",216,R
+Michael,Hage,Univ. of Michigan,19,F,19,2006,"Mississauga, ON",Canada,"6'1""",198,R
+William,Horcoff,Univ. of Michigan,44,F,19,2007,"Birmingham, MI",USA,"6'5""",203,L
+T.J.,Hughes,Univ. of Michigan,13,F,24,2001,"Hamilton, ON",Canada,"6'0""",185,R
+Cole,McKinney,Univ. of Michigan,11,F,18,2007,"Chicago, IL",USA,"6'0""",201,R
+Nicholas,Moldenhauer,Univ. of Michigan,9,F,21,2004,"Mississauga, ON",Canada,"5'11""",181,R
+Kason,Muscutt,Univ. of Michigan,22,F,21,2005,"Bossier City, LA",USA,"5'11""",176,L
+Aidan,Park,Univ. of Michigan,16,F,20,2006,"Hermosa Beach, CA",USA,"6'1""",187,R
+Jayden,Perron,Univ. of Michigan,18,F,21,2005,"Winnipeg, MB",Canada,"5'9""",174,R
+Garrett,Schifsky,Univ. of Michigan,17,F,22,2003,"Andover, MN",USA,"5'9""",181,R
+Malcolm,Spence,Univ. of Michigan,27,F,19,2006,"Mississauga, ON",Canada,"6'2""",201,L
+Adam,Valentini,Univ. of Michigan,92,F,17,2008,"Toronto, ON",Canada,"5'11""",185,L
+Nathan,Airey,Univ. of Minnesota,29,G,22,2003,"Cochrane, AB",Canada,"6'3""",194,L
+Luca,Di Pasquo,Univ. of Minnesota,31,G,22,2003,"Livonia, MI",USA,"6'1""",194,R
+Zach,Wiese,Univ. of Minnesota,30,G,24,2002,"Owatonna, MN",USA,"5'10""",209,L
+Axel,Begley,Univ. of Minnesota,33,D,22,2003,"Mahtomedi, MN",USA,"6'2""",190,L
+Leo,Gruba,Univ. of Minnesota,55,D,22,2003,"Lake Elmo, MN",USA,"6'2""",194,R
+Finn,McLaughlin,Univ. of Minnesota,24,D,19,2006,"Canmore, AB",USA,"6'2""",207,L
+Luke,Mittelstadt,Univ. of Minnesota,20,D,23,2003,"Eden Prairie, MN",USA,"5'11""",185,L
+Jacob,Rombach,Univ. of Minnesota,5,D,18,2007,"Blaine, MN",USA,"6'6""",209,L
+Max,Rud,Univ. of Minnesota,15,D,22,2003,"St. Cloud, MN",USA,"6'3""",190,L
+Cal,Thomas,Univ. of Minnesota,22,D,22,2003,"Maple Grove, MN",USA,"6'1""",220,L
+John,Whipple,Univ. of Minnesota,4,D,20,2006,"Morristown, NJ",USA,"6'2""",205,L
+Jimmy,Clark,Univ. of Minnesota,23,F,21,2004,"Edina, MN",USA,"6'0""",179,L
+August,Falloon,Univ. of Minnesota,9,F,22,2004,"St. Cloud, MN",USA,"6'2""",201,L
+Graham,Harris,Univ. of Minnesota,34,F,22,2003,"Excelsior, MN",USA,"6'0""",185,L
+Beckett,Hendrickson,Univ. of Minnesota,7,F,20,2005,"Minnetonka, MN",USA,"6'2""",185,L
+Brody,Lamb,Univ. of Minnesota,17,F,22,2003,"Rochester, MN",USA,"6'1""",185,R
+Tanner,Ludtke,Univ. of Minnesota,11,F,21,2004,"Elko, MN",USA,"6'0""",190,L
+John,Mittelstadt,Univ. of Minnesota,19,F,24,2001,"Eden Prairie, MN",USA,"5'9""",185,L
+Mason,Moe,Univ. of Minnesota,79,F,18,2007,"Eden Prairie, MN",USA,"6'2""",192,L
+L.J.,Mooney,Univ. of Minnesota,18,F,18,2007,"West Mifflin, PA",USA,"5'8""",165,R
+Javon,Moore,Univ. of Minnesota,27,F,20,2005,"Minnetonka, MN",USA,"6'4""",209,L
+Tate,Pritchard,Univ. of Minnesota,3,F,21,2004,"Savage, MN",USA,"6'2""",192,R
+Erik,Påhlsson,Univ. of Minnesota,72,F,21,2004,Landskrona,Sweden,"6'1""",185,L
+Teddy,Townsend,Univ. of Minnesota,44,F,20,2005,"Eden Prairie, MN",USA,"5'11""",174,L
+Brodie,Ziemer,Univ. of Minnesota,74,F,20,2006,"Chaska, MN",USA,"5'11""",190,R
+Ethan,Dahlmeir,Univ. of Minnesota-Duluth,35,G,22,2003,"Lakeville, MN",USA,"6'4""",220,L
+Adam,Gajan,Univ. of Minnesota-Duluth,30,G,21,2004,Poprad,Slovakia,"6'3""",187,L
+Cole,Sheffield,Univ. of Minnesota-Duluth,36,G,21,2004,"London, ON",Canada,"6'0""",176,L
+Riley,Bodnarchuk,Univ. of Minnesota-Duluth,20,D,24,2001,"Okotoks, AB",Canada,"6'4""",205,L
+Brady,Cleveland,Univ. of Minnesota-Duluth,5,D,20,2005,"Wausau, WI",USA,"6'5""",220,L
+Ty,Hanson,Univ. of Minnesota-Duluth,2,D,20,2005,"Hermantown, MN",USA,"5'9""",170,R
+Adam,Kleber,Univ. of Minnesota-Duluth,6,D,19,2006,"Chaska, MN",USA,"6'6""",225,R
+Joseph,Pierce,Univ. of Minnesota-Duluth,18,D,23,2002,"Ely, MN",USA,"6'0""",196,R
+Aaron,Pionk,Univ. of Minnesota-Duluth,8,D,23,2003,"Hermantown, MN",USA,"6'1""",172,L
+Grayden,Siepmann,Univ. of Minnesota-Duluth,37,D,21,2004,"Windsor, ON",Canada,"5'11""",181,R
+Jacob,Toll,Univ. of Minnesota-Duluth,3,D,21,2004,"Rosemount, MN",USA,"6'3""",170,L
+Hunter,Anderson,Univ. of Minnesota-Duluth,11,F,20,2005,"Manhattan Beach, CA",USA,"5'10""",185,L
+Callum,Arnott,Univ. of Minnesota-Duluth,25,F,22,2004,"King City, ON",Canada,"6'1""",170,R
+Blake,Bechen,Univ. of Minnesota-Duluth,16,F,21,2005,"Dubuque, IA",USA,"6'0""",187,R
+Harper,Bentz,Univ. of Minnesota-Duluth,19,F,21,2004,"Moorhead, MN",USA,"6'0""",176,R
+Luke,Bibby,Univ. of Minnesota-Duluth,28,F,21,2004,"Brantford, ON",Canada,"6'0""",205,L
+Braden,Fischer,Univ. of Minnesota-Duluth,21,F,23,2002,"Winnipeg, MB",Canada,"6'1""",185,L
+Kyle,Gaffney,Univ. of Minnesota-Duluth,23,F,24,2001,"Plymouth, MI",USA,"6'0""",181,L
+Kyler,Kovich,Univ. of Minnesota-Duluth,38,F,24,2002,"Coquitlam, BC",Canada,"6'2""",181,L
+Max,Plante,Univ. of Minnesota-Duluth,10,F,20,2006,"Hermantown, MN",USA,"5'11""",176,L
+Zam,Plante,Univ. of Minnesota-Duluth,27,F,21,2004,"Hermantown, MN",USA,"5'10""",170,L
+Jayson,Shaugabay,Univ. of Minnesota-Duluth,17,F,20,2005,"Warroad, MN",USA,"5'9""",165,R
+Daniel,Shlaine,Univ. of Minnesota-Duluth,13,F,20,2005,Moskva,Russia,"6'0""",185,L
+Trevor,Stachowiak,Univ. of Minnesota-Duluth,39,F,23,2003,"Dallas, TX",USA,"6'2""",196,R
+Scout,Truman,Univ. of Minnesota-Duluth,24,F,23,2002,"Lethbridge, AB",Canada,"5'10""",181,L
+Ryan,Zaremba,Univ. of Minnesota-Duluth,22,F,19,2006,"Balgonie, SK",Canada,"5'9""",179,L
+Dawson,Cowan,Univ. of Nebraska-Omaha,73,G,20,2005,"Warren, MB",Canada,"6'2""",187,L
+Will,Craig,Univ. of Nebraska-Omaha,1,G,23,2002,"Ennismore, ON",Canada,"6'2""",229,R
+Simon,Latkoczy,Univ. of Nebraska-Omaha,30,G,23,2002,Trencin,Slovakia,"5'11""",176,R
+Marcus,Broberg,Univ. of Nebraska-Omaha,8,D,22,2003,Örebro,Sweden,"6'0""",183,L
+Aidan,De La Gorgendiere,Univ. of Nebraska-Omaha,22,D,24,2002,"Abbotsford, BC",Canada,"6'1""",183,L
+Jacob,Guévin,Univ. of Nebraska-Omaha,10,D,23,2003,"Drummondville, QC",Canada,"5'11""",190,R
+Marc,Lajoie,Univ. of Nebraska-Omaha,24,D,22,2003,"St. Albert, AB",Canada,"6'6""",223,L
+Griffin,Ludtke,Univ. of Nebraska-Omaha,7,D,23,2003,"Elko, MN",USA,"5'10""",176,L
+Ryan,McCleary,Univ. of Nebraska-Omaha,6,D,22,2003,"Swift Current, SK",Canada,"6'3""",194,R
+Hunter,McInnes,Univ. of Nebraska-Omaha,3,D,20,2005,"Nanaimo, BC",Canada,"6'1""",183,R
+Spencer,Sova,Univ. of Nebraska-Omaha,44,D,22,2004,"Windsor, ON",Canada,"6'1""",190,L
+Cameron,Briere,Univ. of Nebraska-Omaha,9,F,20,2005,"Oakville, ON",USA,"5'10""",163,L
+Myles,Hilman,Univ. of Nebraska-Omaha,18,F,22,2003,"Blackfalds, AB",Canada,"5'9""",194,L
+Samuel,Huo,Univ. of Nebraska-Omaha,11,F,24,2001,"Richmond, BC",Canada,"6'5""",209,R
+Brett,Hyland,Univ. of Nebraska-Omaha,71,F,23,2003,"Edmonton, AB",Canada,"5'11""",194,L
+Chase,LaPinta,Univ. of Nebraska-Omaha,26,F,22,2004,"Frisco, TX",USA,"5'9""",170,R
+Jérémy,Loranger,Univ. of Nebraska-Omaha,86,F,18,2007,"Trois-Rivières, QC",Canada,"5'9""",161,R
+Cam,Mitchell,Univ. of Nebraska-Omaha,25,F,24,2001,"Stony Plain, AB",Canada,"5'9""",181,L
+Marcus,Nguyen,Univ. of Nebraska-Omaha,72,F,21,2004,"Calgary, AB",Canada,"5'10""",181,R
+Maxime,Pellerin,Univ. of Nebraska-Omaha,23,F,23,2003,"Victoriaville, QC",Canada,"6'0""",181,R
+Joel,Plante,Univ. of Nebraska-Omaha,27,F,20,2005,"Langley, BC",Canada,"5'11""",161,R
+Tyler,Rollwagen,Univ. of Nebraska-Omaha,21,F,24,2001,"Bloomington, MN",USA,"5'11""",194,L
+Jacob,Slipec,Univ. of Nebraska-Omaha,13,F,24,2001,"White Rock, BC",Canada,"5'11""",187,R
+Sean,Tschigerl,Univ. of Nebraska-Omaha,19,F,22,2003,"Whitecourt, AB",Canada,"6'0""",190,L
+Trevor,Wong,Univ. of Nebraska-Omaha,38,F,22,2003,"Vancouver, BC",Canada,"5'9""",159,L
+Luke,Woodworth,Univ. of Nebraska-Omaha,12,F,21,2004,"Bridgewater, NS",Canada,"5'9""",163,R
+Kyle,Chauvette,Univ. of New Hampshire,36,G,24,2001,"Goffstown, NH",USA,"6'1""",190,R
+Kristian,Coombs,Univ. of New Hampshire,1,G,20,2005,"Calgary, AB",Canada,"6'2""",190,L
+Jared,Whale,Univ. of New Hampshire,41,G,23,2002,"Calgary, AB",Canada,"6'0""",190,L
+Alex,Carr,Univ. of New Hampshire,2,D,21,2004,"Sackville, NS",Canada,"6'0""",194,R
+Reid,Conn,Univ. of New Hampshire,8,D,22,2004,"Centennial, CO",USA,"6'4""",209,R
+Nicholas,De Angelis,Univ. of New Hampshire,95,D,21,2004,"King City, ON",Canada,"6'2""",194,L
+Conner,de Haro,Univ. of New Hampshire,72,D,20,2005,"Raleigh, NC",USA,"5'11""",192,L
+Brendan,Fitzgerald,Univ. of New Hampshire,19,D,22,2003,"North Reading, MA",USA,"6'0""",170,L
+Zach,Hahn,Univ. of New Hampshire,5,D,23,2002,"Huntington, NY",USA,"6'2""",209,L
+Ryan,Philbrick,Univ. of New Hampshire,4,D,21,2004,"Concord, NH",USA,"5'11""",185,L
+Oscar,Plandowski,Univ. of New Hampshire,15,D,22,2003,"Red Deer, AB",Canada,"6'0""",190,R
+Josh,Player,Univ. of New Hampshire,13,D,20,2005,"Thorofare, NJ",USA,"6'0""",190,R
+Jack,Cronin,Univ. of New Hampshire,9,F,24,2001,"Hamilton, MA",USA,"5'11""",190,R
+Connor,DeTurris,Univ. of New Hampshire,11,F,21,2004,"Naperville, IL",USA,"6'1""",190,L
+Félix,Gagnon,Univ. of New Hampshire,22,F,21,2004,"Saguenay, QC",Canada,"6'0""",181,R
+Martins,Lavins,Univ. of New Hampshire,6,F,22,2003,Riga,Latvia,"6'1""",194,R
+Cy,LeClerc,Univ. of New Hampshire,29,F,23,2002,"Brentwood, NH",USA,"5'10""",181,L
+Cameron,MacDonald,Univ. of New Hampshire,61,F,22,2003,"Toronto, ON",Canada,"6'2""",194,L
+Ryan,MacPherson,Univ. of New Hampshire,7,F,20,2005,"Windsor, ON",Canada,"6'1""",185,L
+Jacob,Newcombe,Univ. of New Hampshire,91,F,21,2004,"Halifax, NS",Canada,"6'0""",203,L
+Sam,Oliver,Univ. of New Hampshire,47,F,21,2004,"Quispamsis, NB",Canada,"5'11""",183,L
+Nick,Ring,Univ. of New Hampshire,37,F,22,2003,"Hingham, MA",USA,"5'10""",185,R
+Jason,Siedem,Univ. of New Hampshire,23,F,23,2002,"Madison, NJ",USA,"5'10""",185,R
+Kristaps,Skrastins,Univ. of New Hampshire,17,F,24,2001,Riga,Latvia,"5'10""",179,R
+J.P.,Turner,Univ. of New Hampshire,16,F,23,2003,"East Falmouth, MA",USA,"6'0""",194,R
+Ronan,Walsh,Univ. of New Hampshire,10,F,23,2002,"Andover, NH",USA,"6'4""",209,R
+Morgan,Winters,Univ. of New Hampshire,26,F,24,2001,"Osprey, FL",USA,"5'11""",170,L
+Gibson,Homer,Univ. of North Dakota,31,G,22,2003,"Grand Rapids, MI",USA,"6'5""",209,L
+Zachary,Sandy,Univ. of North Dakota,1,G,23,2002,"Fargo, ND",USA,"6'0""",176,L
+Jan,Spunar,Univ. of North Dakota,35,G,21,2004,Olomouc,Czechia,"6'3""",190,L
+EJ,Emery,Univ. of North Dakota,6,D,19,2006,"Surrey, BC",USA,"6'3""",185,R
+Ian,Engel,Univ. of North Dakota,11,D,21,2004,"Hortonville, WI",USA,"6'0""",185,L
+Jayden,Jubenvill,Univ. of North Dakota,3,D,22,2003,"Gilbert Plains, MB",Canada,"6'0""",190,L
+Sam,Laurila,Univ. of North Dakota,13,D,19,2006,"Moorhead, MN",USA,"6'1""",192,L
+Jake,Livanavage,Univ. of North Dakota,4,D,21,2004,"Gilbert, AZ",USA,"5'10""",174,L
+Andrew,Strathmann,Univ. of North Dakota,16,D,21,2005,"Beach Park, IL",USA,"5'11""",190,L
+Keaton,Verhoeff,Univ. of North Dakota,18,D,17,2008,"Fort Saskatchewan, AB",Canada,"6'4""",212,R
+Abram,Wiebe,Univ. of North Dakota,25,D,22,2003,"Mission, BC",Canada,"6'3""",209,L
+Bennett,Zmolek,Univ. of North Dakota,2,D,23,2002,"Rochester, MN",USA,"6'3""",196,R
+Dalton,Andrew,Univ. of North Dakota,28,F,22,2003,"Brandon, MB",Canada,"6'5""",205,R
+Cody,Croal,Univ. of North Dakota,19,F,22,2003,"North Branch, MN",USA,"5'11""",185,L
+Dylan,James,Univ. of North Dakota,26,F,22,2003,"Calgary, AB",Canada,"6'1""",192,L
+Ollie,Josephson,Univ. of North Dakota,8,F,19,2006,"Victoria, BC",Canada,"6'1""",190,L
+Jack,Kernan,Univ. of North Dakota,15,F,20,2005,"Maple Grove, MN",USA,"6'2""",196,R
+David,Klee,Univ. of North Dakota,22,F,20,2005,"Castle Rock, CO",USA,"6'2""",181,L
+Cade,Littler,Univ. of North Dakota,20,F,21,2004,"East Wenatchee, WA",USA,"6'4""",205,R
+Anthony,Menghini,Univ. of North Dakota,27,F,23,2002,"Brainerd, MN",USA,"5'10""",194,L
+Cole,Reschny,Univ. of North Dakota,17,F,18,2007,"Macklin, SK",Canada,"5'11""",187,L
+Ellis,Rickwood,Univ. of North Dakota,29,F,23,2002,"Brantford, ON",Canada,"6'2""",205,R
+Ben,Strinden,Univ. of North Dakota,21,F,23,2002,"Fargo, ND",USA,"6'1""",205,R
+Mac,Swanson,Univ. of North Dakota,7,F,20,2006,Nürnberg,USA,"5'8""",174,L
+Tyler,Young,Univ. of North Dakota,14,F,24,2001,"Lancaster, MA",USA,"6'1""",179,R
+Joshua,Zakreski,Univ. of North Dakota,24,F,20,2005,"Saskatoon, SK",Canada,"6'0""",196,L
+Will,Zellers,Univ. of North Dakota,9,F,19,2006,"Maple Grove, MN",USA,"6'0""",181,L
+Nicholas,Kempf,Univ. of Notre Dame,31,G,19,2006,"Morton Grove, IL",USA,"6'2""",192,L
+Luke,Pearson,Univ. of Notre Dame,30,G,25,2001,"Whitby, ON",Canada,"6'2""",185,L
+Jack,Williams,Univ. of Notre Dame,29,G,24,2001,"St. Louis, MO",USA,"6'3""",190,L
+Caeden,Carlisle,Univ. of Notre Dame,27,D,22,2004,"Mississauga, ON",Canada,"6'1""",196,L
+Paul,Fischer,Univ. of Notre Dame,16,D,21,2005,"River Forest, IL",USA,"6'0""",203,L
+Jimmy,Jurcev,Univ. of Notre Dame,2,D,22,2003,"Palos Heights, IL",USA,"6'5""",201,R
+Jaedon,Kerr,Univ. of Notre Dame,21,D,22,2003,"Elk River, MN",USA,"6'4""",218,R
+Axel,Kumlin,Univ. of Notre Dame,5,D,24,2002,Stockholm,Sweden,"6'1""",196,R
+Drew,Mackie,Univ. of Notre Dame,6,D,20,2005,"Anchorage, AK",USA,"6'0""",187,L
+Michael,Mastrodomenico,Univ. of Notre Dame,4,D,21,2004,"Kirkland, QC",Canada,"6'0""",209,R
+Henry,Nelson,Univ. of Notre Dame,12,D,22,2003,"Maple Grove, MN",USA,"6'1""",196,L
+Brennan,Ali,Univ. of Notre Dame,13,F,22,2004,"Glencoe, IL",USA,"6'0""",194,L
+William,Belle,Univ. of Notre Dame,8,F,19,2007,Dongguan,USA,"6'4""",236,R
+Cole,Brown,Univ. of Notre Dame,9,F,20,2005,"Aurora, ON",Canada,"6'3""",190,L
+Jayden,Davis,Univ. of Notre Dame,15,F,22,2003,"Calgary, AB",Canada,"5'10""",190,L
+Pano,Fimis,Univ. of Notre Dame,17,F,21,2004,"Richmond Hill, ON",Canada,"5'11""",183,R
+Maddox,Fleming,Univ. of Notre Dame,14,F,22,2004,"Rochester, MN",USA,"5'11""",198,R
+Niko,Jovanovic,Univ. of Notre Dame,20,F,23,2002,"West Vancouver, BC",Canada,"6'3""",223,L
+Cole,Knuble,Univ. of Notre Dame,22,F,21,2004,"Grand Rapids, MI",USA,"5'10""",192,R
+Jack,Larrigan,Univ. of Notre Dame,18,F,21,2004,"St. Louis, MO",USA,"5'10""",179,R
+Sutter,Muzzatti,Univ. of Notre Dame,28,F,22,2003,"Okemos, MI",USA,"6'6""",229,L
+Danny,Nelson,Univ. of Notre Dame,11,F,20,2005,"Maple Grove, MN",USA,"6'3""",216,L
+Dashel,Oliver,Univ. of Notre Dame,24,F,21,2005,"Bloomington, IN",USA,"5'10""",185,R
+Charles,Pardue,Univ. of Notre Dame,3,F,20,2006,"Winnetka, IL",USA,"5'10""",172,R
+Michael,Schermerhorn,Univ. of Notre Dame,23,F,22,2003,"Traverse City, MI",USA,"6'0""",216,L
+Carter,Slaggert,Univ. of Notre Dame,25,F,20,2005,"South Bend, IN",USA,"5'9""",174,L
+Evan,Werner,Univ. of Notre Dame,19,F,23,2003,"Flower Mound, TX",USA,"5'8""",174,R
+Will,Ingemann,Univ. of St. Thomas,1,G,20,2005,"Plymouth, MN",USA,"5'11""",179,L
+Carsen,Musser,Univ. of St. Thomas,32,G,20,2005,"Fairmont, MN",USA,"6'4""",220,L
+Aaron,Trotter,Univ. of St. Thomas,31,G,24,2001,"Victoria, BC",Canada,"6'2""",170,L
+Bauer,Berry,Univ. of St. Thomas,16,D,20,2005,"Grand Forks, ND",USA,"6'4""",218,L
+Chase,Cheslock,Univ. of St. Thomas,26,D,21,2004,"Rogers, MN",USA,"6'3""",205,R
+Hayes,Hundley,Univ. of St. Thomas,5,D,20,2005,"Upper Arlington, OH",USA,"6'3""",207,R
+Colton,Jamieson,Univ. of St. Thomas,2,D,21,2004,"Hudson, WI",USA,"6'0""",198,L
+Cole,Miller,Univ. of St. Thomas,4,D,23,2002,"Littleton, CO",USA,"5'11""",185,R
+Carson,Peters,Univ. of St. Thomas,21,D,23,2002,"Minneapolis, MN",USA,"6'3""",201,L
+Mason,Poolman,Univ. of St. Thomas,10,D,24,2002,"East Grand Forks, MN",USA,"6'1""",190,L
+Jase,Sofo,Univ. of St. Thomas,14,D,23,2002,"Sylvania, OH",USA,"6'4""",190,R
+Nick,Williams,Univ. of St. Thomas,20,D,23,2002,"Edina, MN",USA,"5'9""",174,L
+Jake,Braccini,Univ. of St. Thomas,17,F,24,2001,"Hanover, MN",USA,"5'11""",192,L
+Alex,Gaffney,Univ. of St. Thomas,12,F,23,2002,"West Orange, NJ",USA,"5'9""",176,L
+Joshua,Giuliani,Univ. of St. Thomas,18,F,21,2004,"Plymouth, MN",USA,"6'1""",176,R
+Dylan,Godbout,Univ. of St. Thomas,28,F,21,2004,"Woodbury, MN",USA,"5'11""",185,L
+Casy,Laylin,Univ. of St. Thomas,9,F,22,2004,Sierre,USA,"5'9""",174,R
+Luc,Laylin,Univ. of St. Thomas,19,F,24,2001,Iserlohn,USA,"5'8""",174,R
+Attila,Lippai,Univ. of St. Thomas,25,F,21,2004,"St. Paul, MN",USA,"5'9""",181,L
+Ryan,O'Neill,Univ. of St. Thomas,11,F,25,2001,"Roseville, MN",USA,"5'10""",174,R
+Quinton,Pepper,Univ. of St. Thomas,15,F,24,2002,"London, ON",Canada,"6'3""",187,R
+Nathan,Pilling,Univ. of St. Thomas,29,F,21,2004,"Calgary, AB",Canada,"6'4""",209,L
+Sam,Ranallo,Univ. of St. Thomas,7,F,21,2004,"Rogers, MN",USA,"5'10""",168,L
+Luke,Schelter,Univ. of St. Thomas,27,F,21,2004,"Centennial, CO",USA,"6'2""",196,R
+Charlie,Schoen,Univ. of St. Thomas,82,F,24,2001,"Andover, MN",USA,"5'10""",161,R
+Caige,Sterzer,Univ. of St. Thomas,8,F,25,2000,"Kimberley, BC",Canada,"6'5""",227,L
+Lucas,Van Vliet,Univ. of St. Thomas,13,F,20,2006,"Livonia, MI",USA,"6'2""",181,L
+Lucas,Wahlin,Univ. of St. Thomas,3,F,24,2001,"Woodbury, MN",USA,"6'0""",170,R
+Cullen,DeYoung,Univ. of Vermont,35,G,24,2002,"Canton, MI",USA,"6'0""",170,L
+Axel,Mangbo,Univ. of Vermont,50,G,22,2003,Höganäs,Sweden,"6'3""",190,L
+Jacob,Oster,Univ. of Vermont,39,G,21,2004,"Manotick, ON",Canada,"6'3""",194,L
+Aiden,Wright,Univ. of Vermont,34,G,20,2005,"Wake Forest, NC",USA,"6'1""",185,L
+P.J.,Forgione,Univ. of Vermont,5,D,21,2004,"Burlington, VT",USA,"6'2""",214,L
+Xavier,Henry,Univ. of Vermont,20,D,24,2001,"Scarborough, ON",Canada,"6'5""",216,L
+Caeden,Herrington,Univ. of Vermont,2,D,20,2006,"Manchester, VT",USA,"6'2""",205,R
+Charlie,Kinsman,Univ. of Vermont,6,D,20,2005,"Orchard Park, NY",USA,"5'11""",196,R
+Jack,Malinski,Univ. of Vermont,25,D,23,2002,"Lakeville, MN",USA,"5'10""",170,R
+Duncan,Ramsay,Univ. of Vermont,27,D,22,2004,"Halifax, NS",Canada,"6'5""",212,L
+Philip,Törnqvist,Univ. of Vermont,4,D,24,2001,Göteborg,Sweden,"6'0""",198,L
+Sebastian,Törnqvist,Univ. of Vermont,38,D,22,2003,Everlöv,Sweden,"5'11""",190,R
+Jax,Wismer,Univ. of Vermont,7,D,20,2005,"Newmarket, ON",Canada,"6'0""",176,L
+Jonah,Aegerter,Univ. of Vermont,12,F,22,2004,"Janesville, WI",USA,"5'9""",183,R
+Ethan,Burroughs,Univ. of Vermont,22,F,22,2003,"Oakville, ON",Canada,"5'10""",190,R
+Tyler,Dysart,Univ. of Vermont,16,F,21,2004,"Sunnyvale, CA",USA,"5'10""",170,L
+Zach,Filak,Univ. of Vermont,11,F,22,2004,"Northville, MI",USA,"6'1""",185,L
+Dawson,Good,Univ. of Vermont,14,F,23,2002,"Abbotsford, BC",Canada,"6'1""",214,L
+Cédrick,Guindon,Univ. of Vermont,19,F,21,2004,"Rockland, ON",Canada,"5'11""",185,L
+Colin,Kessler,Univ. of Vermont,17,F,21,2004,"Anchorage, AK",USA,"6'0""",181,L
+Michael,La Starza,Univ. of Vermont,9,F,22,2004,"Montréal, QC",Canada,"5'11""",190,L
+Massimo,Lombardi,Univ. of Vermont,18,F,23,2002,"Beaconsfield, QC",Canada,"5'10""",194,R
+Matteo,Michels,Univ. of Vermont,28,F,20,2005,"Colleyville, TX",USA,"5'11""",170,R
+Jens,Richards,Univ. of Vermont,29,F,23,2002,"Detroit Lakes, MN",USA,"6'2""",194,L
+David,Sacco,Univ. of Vermont,37,F,24,2002,"Middleton, MA",USA,"6'1""",194,R
+Daniel,Sambuco,Univ. of Vermont,21,F,22,2003,"Springfield, PA",USA,"6'0""",207,L
+Thomas,Sinclair,Univ. of Vermont,26,F,23,2002,"Toronto, ON",Canada,"6'3""",216,R
+Blake,Steenerson,Univ. of Vermont,13,F,20,2005,"Maple Grove, MN",USA,"6'4""",209,R
+Max,Strand,Univ. of Vermont,10,F,22,2003,"Roseau, MN",USA,"5'10""",181,R
+Anton,Castro,Univ. of Wisconsin,33,G,23,2003,"Mendota Heights, MN",USA,"6'1""",181,L
+Daniel,Hauser,Univ. of Wisconsin,31,G,22,2004,"Chestermere, AB",Canada,"5'11""",165,L
+Eli,Pulver,Univ. of Wisconsin,30,G,22,2003,"Vancouver, BC",Canada,"6'1""",165,L
+Ben,Dexheimer,Univ. of Wisconsin,4,D,23,2002,"Edina, MN",USA,"5'10""",165,R
+Aiden,Dubinsky,Univ. of Wisconsin,28,D,21,2004,"Highland Park, IL",USA,"6'0""",181,R
+Logan,Hensler,Univ. of Wisconsin,6,D,19,2006,"Woodbury, MN",USA,"6'3""",198,R
+Weston,Knox,Univ. of Wisconsin,26,D,21,2004,"Andover, MN",USA,"6'0""",181,L
+Luke,Osburn,Univ. of Wisconsin,2,D,19,2006,"Plymouth, MI",USA,"6'1""",185,L
+Joe,Palodichuk,Univ. of Wisconsin,14,D,23,2003,"Cottage Grove, MN",USA,"6'0""",174,L
+Jack,Phelan,Univ. of Wisconsin,8,D,21,2004,"Hinsdale, IL",USA,"6'3""",185,R
+Zach,Schulz,Univ. of Wisconsin,5,D,20,2005,"South Lyon, MI",USA,"6'1""",196,L
+Ryan,Botterill,Univ. of Wisconsin,21,F,22,2003,"Portage la Prairie, MB",Canada,"5'11""",176,L
+Finn,Brink,Univ. of Wisconsin,27,F,20,2005,"Maple Grove, MN",USA,"5'10""",185,L
+Grady,Deering,Univ. of Wisconsin,17,F,20,2005,"Des Moines, IA",USA,"6'2""",209,R
+Tyson,Dyck,Univ. of Wisconsin,16,F,22,2004,"Abbotsford, BC",Canada,"6'0""",170,L
+Quinn,Finley,Univ. of Wisconsin,19,F,21,2004,"Valparaiso, IN",USA,"6'0""",179,L
+Christian,Fitzgerald,Univ. of Wisconsin,13,F,23,2002,"Coquitlam, BC",Canada,"6'0""",174,L
+Jack,Horbach,Univ. of Wisconsin,22,F,23,2002,"Naperville, IL",USA,"5'11""",170,R
+Bruno,Idzan,Univ. of Wisconsin,91,F,20,2006,Zagreb,Croatia,"6'0""",165,L
+Kyle,Kukkonen,Univ. of Wisconsin,9,F,23,2002,"Maple Grove, MN",USA,"5'10""",174,R
+Blake,Montgomery,Univ. of Wisconsin,47,F,20,2005,"Annapolis, MD",USA,"6'4""",196,L
+Gavin,Morrissey,Univ. of Wisconsin,7,F,23,2003,"Dayton, OH",USA,"5'11""",181,L
+Adam,Pietila,Univ. of Wisconsin,18,F,23,2003,"Howell, MI",USA,"6'0""",190,R
+Simon,Tassy,Univ. of Wisconsin,11,F,24,2001,"Montréal, QC",Canada,"6'2""",196,R
+Oliver,Tulk,Univ. of Wisconsin,55,F,21,2005,"Gibsons, BC",Canada,"5'8""",174,R
+Vasily,Zelenov,Univ. of Wisconsin,94,F,20,2006,Moskva,Austria,"6'0""",192,L
+Kirk,Laursen,Western Michigan Univ.,1,G,26,2000,"Bloomfield Hills, MI",USA,"6'3""",185,L
+Gavin,Moffatt,Western Michigan Univ.,35,G,21,2004,"Darien, CT",USA,"6'0""",183,L
+Hampton,Slukynsky,Western Michigan Univ.,30,G,20,2005,"Warroad, MN",USA,"6'1""",190,L
+Zach,Bookman,Western Michigan Univ.,37,D,23,2002,"Syracuse, NY",USA,"5'11""",185,R
+Alexander,Calbeck,Western Michigan Univ.,15,D,19,2006,"St. Charles, IL",USA,"6'1""",190,L
+Cole,Crusberg-Roseen,Western Michigan Univ.,3,D,23,2002,"Stratham, NH",USA,"6'0""",190,R
+Grady,Gallatin,Western Michigan Univ.,2,D,21,2004,"White Bear Lake, MN",USA,"6'4""",205,L
+Zack,Sharp,Western Michigan Univ.,10,D,20,2005,"Naperville, IL",USA,"6'2""",194,L
+Samuel,Sjölund,Western Michigan Univ.,33,D,24,2001,Stockholm,Sweden,"6'3""",201,L
+Joona,Väisänen,Western Michigan Univ.,27,D,21,2004,Espoo,Finland,"6'0""",176,R
+Theo,Wallberg,Western Michigan Univ.,6,D,22,2003,Stockholm,Sweden,"6'5""",216,L
+Colby,Woogk,Western Michigan Univ.,14,D,21,2004,"Fort Worth, TX",USA,"6'1""",203,L
+Zach,Bade,Western Michigan Univ.,9,F,22,2003,"Rosemount, MN",USA,"6'2""",183,R
+Bobby,Cowan,Western Michigan Univ.,19,F,19,2006,"Edina, MN",USA,"5'11""",181,R
+Iiro,Hakkarainen,Western Michigan Univ.,22,F,21,2004,Helsinki,Finland,"5'11""",172,L
+Ty,Henricks,Western Michigan Univ.,17,F,20,2005,"Mission Viejo, CA",USA,"6'5""",209,L
+Samuel,Huck,Western Michigan Univ.,12,F,21,2004,"Calgary, AB",Canada,"5'8""",154,L
+Ryan,Humphrey,Western Michigan Univ.,28,F,22,2003,"Northville, MI",USA,"5'11""",165,L
+Ryan,Kusler,Western Michigan Univ.,21,F,22,2003,"Battle Creek, MI",USA,"6'0""",187,R
+Tyler,MacKenzie,Western Michigan Univ.,11,F,21,2004,"Red Deer, AB",Canada,"5'11""",190,L
+Owen,Michaels,Western Michigan Univ.,34,F,23,2002,"Detroit, MI",USA,"6'0""",179,R
+Zachary,Nehring,Western Michigan Univ.,8,F,20,2005,"Minot, ND",USA,"6'5""",201,R
+Grant,Slukynsky,Western Michigan Univ.,13,F,23,2002,"Edina, MN",USA,"6'1""",198,L
+Jamison,Sluys,Western Michigan Univ.,26,F,20,2005,"Point Roberts, WA",USA,"5'10""",194,L
+Cole,Spicer,Western Michigan Univ.,25,F,21,2004,"Grand Forks, ND",USA,"5'11""",185,L
+Garrett,Szydlowski,Western Michigan Univ.,24,F,23,2002,"Detroit, MI",USA,"6'0""",190,R
+Liam,Valente,Western Michigan Univ.,23,F,22,2003,Märsta,Sweden,"6'0""",201,L
+William,Whitelaw,Western Michigan Univ.,18,F,21,2005,"Rosemount, MN",USA,"5'9""",174,R
+Zaccharya,Wisdom,Western Michigan Univ.,4,F,21,2004,"Toronto, ON",Canada,"6'0""",185,R
+Jeth,Fogg,Yale Univ.,33,G,21,2004,"Colorado Springs, CO",USA,"6'2""",179,L
+Noah,Pak,Yale Univ.,31,G,22,2003,"Oakville, ON",Canada,"6'0""",170,L
+Jack,Stark,Yale Univ.,1,G,22,2003,"Chaska, MN",USA,"5'10""",165,L
+Rhys,Bentham,Yale Univ.,22,D,23,2002,"Calgary, AB",Canada,"5'10""",181,L
+Joseph,Blackley,Yale Univ.,23,D,22,2003,"Lockport, NY",USA,"5'11""",185,L
+Owen,Forester,Yale Univ.,20,D,22,2003,"Mississauga, ON",Canada,"5'10""",185,R
+Bayard,Hall,Yale Univ.,2,D,23,2002,"Oldwick, NJ",USA,"6'2""",190,R
+Tucker,Hartmann,Yale Univ.,7,D,23,2002,"Southborough, MA",USA,"6'0""",174,R
+Hughie,Hooker,Yale Univ.,11,D,22,2003,"Brandon, MB",Canada,"5'7""",159,L
+Dylan,Hunt,Yale Univ.,4,D,20,2006,"Marlborough, MA",USA,"6'1""",190,L
+Hudson,Miller,Yale Univ.,6,D,20,2005,"New York, NY",USA,"6'4""",205,R
+Joose,Pesonen,Yale Univ.,5,D,20,2005,Kuopio,Finland,"5'11""",176,L
+David,Andreychuk,Yale Univ.,16,F,23,2002,"Los Angeles, CA",USA,"6'1""",205,L
+Elan,Bar-Lev-Wise,Yale Univ.,26,F,25,2001,"Vancouver, BC",Canada,"6'0""",190,R
+Micah,Berger,Yale Univ.,9,F,21,2004,"Bethesda, MD",USA,"5'11""",181,L
+David,Chen,Yale Univ.,24,F,22,2003,"Livingston, NJ",USA,"6'1""",190,R
+Donovan,Frias,Yale Univ.,27,F,21,2004,"Hudson, MA",USA,"6'4""",201,L
+Julian,Frias,Yale Univ.,28,F,21,2004,"Hudson, MA",USA,"6'5""",209,R
+Kurt,Gurkan,Yale Univ.,21,F,22,2004,"Darien, CT",USA,"5'10""",179,L
+Braden,Keeble,Yale Univ.,29,F,21,2004,"Brandon, MB",Canada,"5'10""",170,R
+Tom,Molson,Yale Univ.,14,F,21,2005,"Montréal, QC",Canada,"5'8""",154,L
+Ronan,O'Donnell,Yale Univ.,8,F,22,2004,"Fairfield, CT",USA,"6'2""",174,R
+Iisai,Pesonen,Yale Univ.,13,F,22,2004,Kuopio,Finland,"5'11""",181,L
+Beanie,Richter,Yale Univ.,12,F,21,2004,"Greenwich, CT",USA,"6'2""",181,L
+James,Shannon,Yale Univ.,10,F,21,2004,"New York, NY",USA,"5'10""",179,R
+Kalen,Szeto,Yale Univ.,15,F,23,2002,"Vancouver, BC",Canada,"5'7""",161,R
+Jojo,Tanaka-Campbell,Yale Univ.,19,F,25,2001,"Mill Bay, BC",Canada,"5'11""",174,R
+Seiya,Tanaka-Campbell,Yale Univ.,18,F,23,2003,"Mill Bay, BC",Canada,"5'9""",174,L
+Zachary,Wagnon,Yale Univ.,17,F,21,2004,"Red Bank, NJ",USA,"6'0""",179,R

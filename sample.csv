@@ -1,0 +1,86 @@
+first_name,last_name,team,number,position,age,born,birth_place,country,height,weight,shoots
+Carter,Clafton,Air Force Academy,35,G,23,2002,"Grand Rapids, MN",USA,"6'2""",174,L
+Toby,Hopp,Air Force Academy,37,G,21,2004,"Maple Grove, MN",USA,"6'1""",185,L
+Dylan,Krick,Air Force Academy,39,G,20,2005,"West Chester, PA",USA,"6'2""",146,L
+Zane,Spaniol,Air Force Academy,33,G,21,2004,"Ham Lake, MN",USA,"6'3""",185,L
+Dominik,Wasik,Air Force Academy,30,G,23,2002,"Superior, WI",USA,"6'1""",165,L
+Calvin,Beard,Air Force Academy,19,D,20,2005,"Southborough, MA",USA,"6'2""",179,R
+Nolan,Cunningham,Air Force Academy,20,D,24,2001,"Great Falls, MT",USA,"6'2""",185,R
+Nate,Farrell,Air Force Academy,58,D,22,2004,"Wheaton, IL",USA,"6'0""",185,L
+Chris,Hedden,Air Force Academy,22,D,23,2002,"Kalamazoo, MI",USA,"6'0""",185,L
+Simon,Houge,Air Force Academy,6,D,21,2004,"Woodbury, MN",USA,"5'7""",172,L
+Beau,Janzig,Air Force Academy,2,D,22,2003,"Hermantown, MN",USA,"6'2""",201,R
+Will,Jones,Air Force Academy,4,D,21,2004,"Brentwood, TN",USA,"5'9""",170,R
+Ren,Morque,Air Force Academy,3,D,22,2003,"Grand Rapids, MN",USA,"6'1""",190,L
+Jake,Peterson,Air Force Academy,7,D,22,2003,"Rosemount, MN",USA,"6'2""",190,R
+Will,Staring,Air Force Academy,44,D,22,2003,"Springfield, VA",USA,"6'2""",194,L
+Cole,Christian,Air Force Academy,8,F,21,2004,"Duluth, MN",USA,"5'8""",154,L
+Will,Dawson,Air Force Academy,14,F,22,2003,"Traverse City, MI",USA,"6'0""",183,L
+Owen,DuBois,Air Force Academy,15,F,23,2002,"Madison, WI",USA,"6'4""",201,L
+Oli,Genest,Air Force Academy,10,F,21,2004,"Sanford, ME",USA,"6'1""",194,R
+Brendan,Gibbons,Air Force Academy,64,F,23,2002,"South Kingstown, RI",USA,"6'2""",205,R
+Michael,Kadlecik,Air Force Academy,26,F,21,2004,"Lansing, NY",USA,"6'0""",170,R
+Mason,McCormick,Air Force Academy,13,F,24,2001,"Verona, WI",USA,"6'4""",205,L
+Cade,Moxham,Air Force Academy,12,F,21,2004,"Calgary, AB",Canada,"6'2""",201,L
+Hayden,Nichol,Air Force Academy,21,F,22,2003,"Rochester, NY",USA,"6'1""",190,R
+Holt,Oliphant,Air Force Academy,18,F,24,2001,"Northbrook, IL",USA,"5'10""",190,R
+Charles,Panchisin,Air Force Academy,81,F,21,2004,IL,USA,"5'10""",174,R
+Nicholas,Remissong,Air Force Academy,48,F,23,2002,"Lake Forest, IL",USA,"6'0""",185,L
+Nick,Sajevic,Air Force Academy,23,F,23,2003,"Shoreview, MN",USA,"5'11""",174,R
+Samuel,Stitz,Air Force Academy,27,F,22,2003,"Perry Hall, MD",USA,,,R
+Aidan,Willis,Air Force Academy,72,F,21,2005,"Farmington, MN",USA,"5'11""",185,L
+Anthony,Yu,Air Force Academy,9,F,21,2004,"Baldwin Park, CA",USA,"5'9""",181,R
+Chase,Hamm,Arizona State Univ.,30,G,24,2002,"Saskatoon, SK",Canada,"5'9""",168,L
+Connor,Hasley,Arizona State Univ.,33,G,25,2001,"North Tonawanda, NY",USA,"6'3""",194,R
+Samuel,Urban,Arizona State Univ.,31,G,20,2005,Dolne Kockovce,Slovakia,"6'0""",198,L
+Richard,Baran,Arizona State Univ.,5,D,20,2005,Bratislava,Slovakia,"6'1""",185,L
+Brasen,Boser,Arizona State Univ.,74,D,21,2004,"Minot, ND",USA,"5'11""",176,L
+Sam,Court,Arizona State Univ.,37,D,22,2004,"Winnipeg, MB",Canada,"5'10""",190,R
+Anthony,Dowd,Arizona State Univ.,9,D,22,2003,"Point Pleasant Beach, NJ",USA,"5'7""",152,R
+Justin,Kipkie,Arizona State Univ.,3,D,20,2005,"Calgary, AB",Canada,"6'4""",216,L
+Joel,Kjellberg,Arizona State Univ.,7,D,21,2004,Nacka,Sweden,"6'0""",190,R
+Tucker,Ness,Arizona State Univ.,10,D,23,2002,"Plymouth, MN",USA,"6'3""",218,R
+Tony,Achille,Arizona State Univ.,89,F,24,2002,"Hingham, MA",USA,"6'0""",174,L
+Sam,Alfano,Arizona State Univ.,27,F,22,2004,"Hamilton, ON",Canada,"6'4""",205,R
+Jack,Beck,Arizona State Univ.,2,F,22,2003,"Richmond Hill, ON",Canada,"6'0""",181,L
+Carmelo,Crandell,Arizona State Univ.,14,F,20,2005,"St. Albert, AB",Canada,"5'11""",176,R
+Benjamin,Kevan,Arizona State Univ.,48,F,19,2007,"Fairfield, CA",USA,"6'1""",179,R
+Cruz,Lucius,Arizona State Univ.,51,F,21,2004,"Lawrence, KS",USA,"6'0""",179,R
+Sean,McGurn,Arizona State Univ.,16,F,23,2002,"Ottawa, ON",Canada,"5'10""",170,R
+Logan,Morrell,Arizona State Univ.,19,F,22,2003,"Mesa, AZ",USA,"6'3""",194,R
+Ty,Nash,Arizona State Univ.,22,F,22,2003,"Scottsdale, AZ",USA,"5'11""",179,L
+Cullen,Potter,Arizona State Univ.,12,F,19,2007,"Minneapolis, MN",USA,"5'10""",172,L
+Noah,Powell,Arizona State Univ.,15,F,21,2005,"Northbrook, IL",USA,"6'2""",201,R
+Bennett,Schimek,Arizona State Univ.,23,F,22,2003,"Mendota Heights, MN",USA,"6'0""",187,R
+Kyle,Smolen,Arizona State Univ.,25,F,23,2002,"Crystal Lake, IL",USA,"5'11""",176,R
+Braxton,Whitehead,Arizona State Univ.,49,F,21,2004,"Palmer, AK",USA,"5'10""",163,R
+Jacob,Biron,Army (U.S. Military Academy),1,G,21,2004,"Buffalo, NY",USA,"6'4""",190,L
+J.J.,Cataldo,Army (U.S. Military Academy),30,G,23,2003,"Stuart, FL",USA,"6'0""",183,L
+Ansel,Holt,Army (U.S. Military Academy),33,G,23,2003,"Bowling Green, OH",USA,"6'3""",190,L
+Jon,Bell,Army (U.S. Military Academy),18,D,23,2002,"St. Cloud, MN",USA,"5'10""",201,L
+Jude,Brower,Army (U.S. Military Academy),22,D,24,2001,"Mahopac, NY",USA,"6'1""",181,L
+Liam,Chapman,Army (U.S. Military Academy),7,D,21,2004,"Weare, NH",USA,"6'1""",187,L
+Samuel,Groebner,Army (U.S. Military Academy),12,D,22,2003,"Apple Valley, MN",USA,"6'3""",201,L
+Lukas,McCloskey,Army (U.S. Military Academy),2,D,20,2005,"Newport Beach, CA",USA,"6'3""",216,R
+Owen,Nolan,Army (U.S. Military Academy),14,D,25,2000,"Mahopac, NY",USA,"6'0""",185,L
+Pierce,Patterson,Army (U.S. Military Academy),6,D,24,2002,"Valrico, FL",USA,"5'9""",165,R
+Sean,Vlasich,Army (U.S. Military Academy),20,D,24,2001,"Upper Saddle River, NJ",USA,"5'9""",174,R
+Easton,Zueger,Army (U.S. Military Academy),3,D,22,2003,"Sioux Falls, SD",USA,"5'8""",190,R
+Noah,Alvarez,Army (U.S. Military Academy),17,F,22,2003,"Los Angeles, CA",USA,"5'11""",185,R
+Billy,Batten,Army (U.S. Military Academy),24,F,21,2004,"Phoenixville, PA",USA,"5'9""",174,L
+Joey,Dosan,Army (U.S. Military Academy),26,F,24,2001,"Bloomington, MN",USA,"6'6""",220,L
+Kareem,El-Bashir,Army (U.S. Military Academy),16,F,21,2004,"Reston, VA",USA,"5'10""",176,L
+Nils,Forselius,Army (U.S. Military Academy),9,F,22,2003,"Guilford, CT",USA,"5'9""",181,L
+Nik,Hong,Army (U.S. Military Academy),19,F,23,2002,"Minneapolis, MN",USA,"6'0""",185,R
+Benjamin,Ivey,Army (U.S. Military Academy),4,F,22,2004,"San Diego, CA",USA,"6'4""",220,L
+Jacob,Ivey,Army (U.S. Military Academy),5,F,22,2004,"San Diego, CA",USA,"6'3""",192,R
+Brock,Jones,Army (U.S. Military Academy),11,F,21,2004,"Lake View, NY",USA,"5'11""",183,R
+Lucas,Kanta,Army (U.S. Military Academy),15,F,24,2001,"Grand Forks, ND",USA,"6'2""",205,L
+Brent,Keefer,Army (U.S. Military Academy),28,F,24,2001,"Colorado Springs, CO",USA,"6'0""",170,R
+Jacob,Ligi,Army (U.S. Military Academy),13,F,21,2004,"South Lyon, MI",USA,"5'10""",176,R
+Adam,Marshall,Army (U.S. Military Academy),29,F,22,2003,"Wayzata, MN",USA,"5'10""",181,L
+Vincent,Salice,Army (U.S. Military Academy),8,F,22,2003,"Commerce Township, MI",USA,"5'7""",174,L
+Trevor,Smith,Army (U.S. Military Academy),27,F,24,2001,"Raleigh, NC",USA,"5'9""",185,R
+Dylan,Wegner,Army (U.S. Military Academy),10,F,21,2004,"Nashville, TN",USA,"6'2""",185,R
+Stephen,Willey,Army (U.S. Military Academy),21,F,24,2001,"Shelton, CT",USA,"6'1""",194,R
+Barron,Woodring,Army (U.S. Military Academy),25,F,23,2002,"Chicago, IL",USA,"6'2""",201,R

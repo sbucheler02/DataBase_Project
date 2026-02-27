@@ -1,0 +1,1546 @@
+first_name,last_name,GP,G,A,TP,PIM,+/-,team
+Samuel,Stitz,32,11,20,31,20,9,Air Force Academy
+Chris,Hedden,32,11,19,30,12,6,Air Force Academy
+Nick,Sajevic,32,8,22,30,22,10,Air Force Academy
+Will,Dawson,32,9,14,23,6,13,Air Force Academy
+Brendan,Gibbons,32,6,13,19,12,0,Air Force Academy
+Nolan,Cunningham,32,6,12,18,18,1,Air Force Academy
+Will,Staring,32,5,13,18,35,3,Air Force Academy
+Holt,Oliphant,32,7,8,15,10,4,Air Force Academy
+Mason,McCormick,23,6,9,15,30,0,Air Force Academy
+Jake,Peterson,30,4,9,13,8,6,Air Force Academy
+Ren,Morque,30,3,5,8,10,-2,Air Force Academy
+Aidan,Willis,29,2,6,8,18,-4,Air Force Academy
+Cole,Christian,28,3,4,7,10,-7,Air Force Academy
+Oli,Genest,19,4,1,5,8,-5,Air Force Academy
+Anthony,Yu,29,3,2,5,6,-7,Air Force Academy
+Charles,Panchisin,28,2,3,5,6,-6,Air Force Academy
+Owen,DuBois,24,1,4,5,6,-7,Air Force Academy
+Nicholas,Remissong,19,2,2,4,8,0,Air Force Academy
+Michael,Kadlecik,15,1,3,4,8,2,Air Force Academy
+Beau,Janzig,32,1,3,4,6,-4,Air Force Academy
+Hayden,Nichol,19,2,1,3,6,1,Air Force Academy
+Cade,Moxham,4,0,1,1,0,-3,Air Force Academy
+Will,Jones,1,0,0,0,0,0,Air Force Academy
+Calvin,Beard,4,0,0,0,0,0,Air Force Academy
+Simon,Houge,12,0,0,0,0,0,Air Force Academy
+Cruz,Lucius,34,15,30,45,16,3,Arizona State Univ.
+Bennett,Schimek,33,12,30,42,14,0,Arizona State Univ.
+Cullen,Potter,24,12,14,26,16,-1,Arizona State Univ.
+Kyle,Smolen,33,7,13,20,18,-8,Arizona State Univ.
+Sam,Alfano,33,6,10,16,33,-10,Arizona State Univ.
+Logan,Morrell,34,7,8,15,24,-10,Arizona State Univ.
+Justin,Kipkie,33,4,9,13,14,-9,Arizona State Univ.
+Carmelo,Crandell,32,7,5,12,25,-8,Arizona State Univ.
+Sean,McGurn,30,4,8,12,22,-13,Arizona State Univ.
+Noah,Powell,32,6,4,10,28,-3,Arizona State Univ.
+Ty,Nash,30,5,5,10,8,-7,Arizona State Univ.
+Benjamin,Kevan,32,4,6,10,4,-12,Arizona State Univ.
+Joel,Kjellberg,34,2,8,10,14,0,Arizona State Univ.
+Jack,Beck,10,5,3,8,6,-5,Arizona State Univ.
+John,Waldron,21,1,7,8,10,-7,Arizona State Univ.
+Brasen,Boser,28,2,5,7,6,-2,Arizona State Univ.
+Sam,Court,29,1,5,6,10,-8,Arizona State Univ.
+Richard,Baran,34,0,5,5,22,-7,Arizona State Univ.
+Anthony,Dowd,27,0,4,4,10,0,Arizona State Univ.
+Tucker,Ness,23,2,0,2,22,-5,Arizona State Univ.
+Lincoln,Kuehne,28,1,1,2,20,0,Arizona State Univ.
+Braxton,Whitehead,14,0,1,1,0,-5,Arizona State Univ.
+Justin,Cloutier,4,0,0,0,0,0,Arizona State Univ.
+Austin,Zemlak,5,0,0,0,8,-1,Arizona State Univ.
+Tony,Achille,10,0,0,0,4,0,Arizona State Univ.
+Benjamin,Ivey,30,13,11,24,4,-4,Army (U.S. Military Academy)
+Nils,Forselius,31,5,19,24,20,-5,Army (U.S. Military Academy)
+Jacob,Ivey,32,10,13,23,2,3,Army (U.S. Military Academy)
+Barron,Woodring,32,7,16,23,10,1,Army (U.S. Military Academy)
+Nik,Hong,32,9,10,19,29,-1,Army (U.S. Military Academy)
+Adam,Marshall,32,7,9,16,26,4,Army (U.S. Military Academy)
+Brent,Keefer,32,6,8,14,29,-5,Army (U.S. Military Academy)
+Jude,Brower,31,4,8,12,24,-6,Army (U.S. Military Academy)
+Billy,Batten,32,4,7,11,10,0,Army (U.S. Military Academy)
+Vincent,Salice,32,7,2,9,20,-4,Army (U.S. Military Academy)
+Lukas,McCloskey,24,2,5,7,20,-2,Army (U.S. Military Academy)
+Owen,Nolan,32,2,5,7,35,0,Army (U.S. Military Academy)
+Samuel,Groebner,32,0,7,7,29,1,Army (U.S. Military Academy)
+Easton,Zueger,28,1,5,6,39,6,Army (U.S. Military Academy)
+Pierce,Patterson,17,0,5,5,4,1,Army (U.S. Military Academy)
+Sean,Vlasich,30,1,3,4,24,-7,Army (U.S. Military Academy)
+Stephen,Willey,12,2,0,2,6,2,Army (U.S. Military Academy)
+Brock,Jones,25,1,1,2,10,-5,Army (U.S. Military Academy)
+Liam,Chapman,17,0,2,2,2,2,Army (U.S. Military Academy)
+Dylan,Wegner,17,1,0,1,2,-4,Army (U.S. Military Academy)
+Lucas,Kanta,21,0,1,1,16,-4,Army (U.S. Military Academy)
+Joey,Dosan,1,0,0,0,0,0,Army (U.S. Military Academy)
+Noah,Alvarez,2,0,0,0,0,0,Army (U.S. Military Academy)
+Jon,Bell,11,0,0,0,2,-1,Army (U.S. Military Academy)
+Trevor,Smith,11,0,0,0,2,-1,Army (U.S. Military Academy)
+Jacob,Ligi,12,0,0,0,4,-3,Army (U.S. Military Academy)
+Brett,Meerman,33,13,14,27,10,14,Augustana Univ.
+Leonid,Bulgakov,33,15,8,23,2,3,Augustana Univ.
+Colton,Friesen,34,10,13,23,16,7,Augustana Univ.
+Jacob,Jastrzebski,34,9,13,22,6,16,Augustana Univ.
+Owen,Baumgartner,28,4,16,20,18,10,Augustana Univ.
+Easton,Young,34,6,13,19,10,4,Augustana Univ.
+Cole,Burtch,34,5,14,19,39,-1,Augustana Univ.
+Hunter,Bischoff,28,7,9,16,4,8,Augustana Univ.
+Owen,Bohn,28,7,8,15,4,6,Augustana Univ.
+Joey,DelGreco,34,5,10,15,10,6,Augustana Univ.
+Hayden,Hennen,34,3,11,14,32,13,Augustana Univ.
+Nace,Langus,26,2,8,10,10,-10,Augustana Univ.
+William,Howard,34,4,4,8,12,11,Augustana Univ.
+Ben,Troumbly,25,3,5,8,2,4,Augustana Univ.
+Carter,Theissen,21,1,4,5,4,0,Augustana Univ.
+Tyler,Hennen,24,1,4,5,4,-3,Augustana Univ.
+Maxwell,Chakrabarti,34,1,4,5,8,6,Augustana Univ.
+Callum,Gau,22,0,5,5,4,2,Augustana Univ.
+Landon,Fandel,15,2,2,4,2,3,Augustana Univ.
+Samo,Meritähti,34,2,1,3,18,1,Augustana Univ.
+Quinn,Rudrud,16,1,1,2,8,0,Augustana Univ.
+Garett,Drotts,10,0,1,1,0,0,Augustana Univ.
+Will,Svenddal,31,0,1,1,12,5,Augustana Univ.
+Jeff,Hutchinson,1,0,0,0,0,0,Augustana Univ.
+Oliver,Peer,30,18,13,31,30,7,Bemidji State Univ.
+Adam,Flammang,27,8,20,28,34,2,Bemidji State Univ.
+Kasper,Magnussen,32,10,16,26,6,1,Bemidji State Univ.
+Reilly,Funk,32,10,8,18,12,-6,Bemidji State Univ.
+Hudson,Thornton,32,2,16,18,30,-2,Bemidji State Univ.
+Max,Namestnikov,30,5,10,15,8,3,Bemidji State Univ.
+Connor,McClennon,32,10,4,14,29,-4,Bemidji State Univ.
+Jake,McLean,29,5,7,12,4,0,Bemidji State Univ.
+Vincent,Labelle,26,3,6,9,22,2,Bemidji State Univ.
+Kirklan,Irey,32,0,9,9,14,-5,Bemidji State Univ.
+Vann,Yuhas,24,1,6,7,5,-9,Bemidji State Univ.
+Vincent,Corcoran,28,1,6,7,8,-2,Bemidji State Univ.
+Maxon,Vig,32,5,1,6,22,10,Bemidji State Univ.
+Tory,Lund,20,4,2,6,0,6,Bemidji State Univ.
+Luke,Roelofs,30,2,4,6,12,4,Bemidji State Univ.
+Mitchell,Wolfe,32,2,4,6,14,-7,Bemidji State Univ.
+Noah,Quinn,21,1,5,6,6,-4,Bemidji State Univ.
+Alexi,Sylvestre,19,1,4,5,4,-6,Bemidji State Univ.
+Jaksen,Panzer,28,0,5,5,2,-1,Bemidji State Univ.
+Patrik,Satosaari,14,1,1,2,0,0,Bemidji State Univ.
+Ryan,Henderson,11,0,2,2,6,2,Bemidji State Univ.
+Isa,Parekh,23,0,2,2,10,-1,Bemidji State Univ.
+Benjamin,Vigneault,15,1,0,1,8,4,Bemidji State Univ.
+Oscar,Karlsson,3,0,0,0,0,-1,Bemidji State Univ.
+A.J.,Macaulay,6,0,0,0,0,0,Bemidji State Univ.
+Jake,Black,32,16,17,33,16,16,Bentley Univ.
+Stevie,Castagna,32,11,16,27,23,10,Bentley Univ.
+Michael,Mesic,23,10,14,24,4,8,Bentley Univ.
+Kellan,Hjartarson,32,6,18,24,12,13,Bentley Univ.
+John,Dalton,32,2,15,17,18,8,Bentley Univ.
+Arlo,Merritt,32,5,10,15,14,-9,Bentley Univ.
+Owen,Goodbrand,31,9,5,14,21,7,Bentley Univ.
+David,Helledy,32,3,9,12,22,12,Bentley Univ.
+Chase,Davis,32,6,5,11,12,-1,Bentley Univ.
+Oskar,Kind Bakkevig,22,4,7,11,10,0,Bentley Univ.
+Márton,Nemes,31,4,7,11,4,10,Bentley Univ.
+Ryan,Upson,32,1,10,11,6,1,Bentley Univ.
+Garrett,Horsager,16,3,7,10,10,5,Bentley Univ.
+Dylan,Cook,27,4,5,9,10,3,Bentley Univ.
+Alec,Leonard,31,3,5,8,21,3,Bentley Univ.
+Tobias,Bjercke Larsen,31,0,8,8,20,3,Bentley Univ.
+Colton,Cameron,32,3,3,6,6,6,Bentley Univ.
+Peter,Kramer,17,2,2,4,8,-8,Bentley Univ.
+Oliver,Salo,13,2,1,3,8,1,Bentley Univ.
+Pat,Lawn,20,2,1,3,6,2,Bentley Univ.
+Ryan,Mansfield,5,2,0,2,2,1,Bentley Univ.
+Jimmy,Doyle,5,1,0,1,4,1,Bentley Univ.
+Ryan,Nause,2,0,0,0,0,-2,Bentley Univ.
+Jan,Gaspar,5,0,0,0,0,-1,Bentley Univ.
+Seth,Bernard-Docker,10,0,0,0,4,2,Bentley Univ.
+Kolby,Amici,13,0,0,0,2,-1,Bentley Univ.
+Jack,Farrell,19,0,0,0,2,1,Bentley Univ.
+James,Hagens,28,20,18,38,22,12,Boston College
+Dean,Letourneau,30,18,15,33,22,14,Boston College
+Ryan,Conmy,29,8,15,23,8,0,Boston College
+Will,Vote,30,10,11,21,0,10,Boston College
+Jake,Sondreal,30,7,14,21,10,9,Boston College
+Andre,Gasseau,17,6,14,20,6,4,Boston College
+Teddy,Stiga,25,5,14,19,27,-2,Boston College
+Lukas,Gustafsson,30,5,14,19,43,4,Boston College
+Luka,Radivojevic,28,1,14,15,8,12,Boston College
+Drew,Fortescue,30,4,8,12,43,7,Boston College
+Aram,Minnetian,30,2,9,11,38,15,Boston College
+William,Moore,27,4,6,10,0,-4,Boston College
+Oscar,Hemming,14,1,7,8,16,1,Boston College
+Brady,Berard,30,5,1,6,10,1,Boston College
+Landan,Resendes,28,3,3,6,22,0,Boston College
+Michael,Hagens,27,0,5,5,6,0,Boston College
+Nolan,Joyce,29,1,2,3,6,3,Boston College
+Gavin,Cornforth,18,0,3,3,6,2,Boston College
+Will,Traeger,18,1,1,2,0,3,Boston College
+Kristian,Kostadinski,28,0,2,2,2,5,Boston College
+Paul,Davey,9,1,0,1,14,-2,Boston College
+Will,Skahan,30,1,0,1,18,3,Boston College
+Oskar,Jellvik,3,0,1,1,0,-2,Boston College
+Tim,Delay,2,0,0,0,0,0,Boston College
+Cole,Hutson,30,9,18,27,20,11,Boston Univ.
+Cole,Eiserman,27,13,7,20,8,-10,Boston Univ.
+Jack,Harvey,31,10,7,17,6,-10,Boston Univ.
+Owen,McLaughlin,29,4,12,16,4,-4,Boston Univ.
+Sacha,Boisvert,22,3,13,16,26,-6,Boston Univ.
+Gavin,McCarthy,31,2,14,16,36,12,Boston Univ.
+Ryder,Ritchie,31,6,9,15,26,-3,Boston Univ.
+Brandon,Svoboda,30,6,8,14,12,8,Boston Univ.
+Jonathan,Morello,31,6,6,12,18,8,Boston Univ.
+Kamil,Bednarik,30,5,7,12,18,-8,Boston Univ.
+Ben,Merrill,28,4,7,11,10,-3,Boston Univ.
+Sascha,Boumedienne,30,2,8,10,12,-12,Boston Univ.
+Jack,Murtagh,30,5,4,9,19,-5,Boston Univ.
+Conrad,Fondrk,24,3,5,8,0,-8,Boston Univ.
+Charlie,Trethewey,29,1,7,8,21,2,Boston Univ.
+Nick,Roukounakis,20,5,2,7,8,4,Boston Univ.
+Aiden,Celebrini,30,0,6,6,12,-1,Boston Univ.
+John,McNelis,17,1,4,5,6,4,Boston Univ.
+Mick,Frechette,27,1,2,3,8,-4,Boston Univ.
+Malte,Vass,19,0,3,3,4,-5,Boston Univ.
+Tynan,Lawrence,13,1,1,2,2,-6,Boston Univ.
+Kyle,Kim,3,0,0,0,0,0,Boston Univ.
+Jay,Feldberg,7,0,0,0,0,1,Boston Univ.
+Carter,Amico,18,0,0,0,12,-7,Boston Univ.
+Quinn,Emerson,32,9,21,30,28,10,Bowling Green State Univ.
+Tyler,Hotson,32,11,16,27,37,12,Bowling Green State Univ.
+Ben,Doran,32,7,20,27,38,9,Bowling Green State Univ.
+Breck,McKinley,32,2,23,25,14,15,Bowling Green State Univ.
+Dominik,Rymon,32,9,10,19,14,1,Bowling Green State Univ.
+Brayden,Crampton,31,3,14,17,29,6,Bowling Green State Univ.
+Noah,Morneau,27,9,5,14,14,1,Bowling Green State Univ.
+Brody,Waters,32,7,7,14,10,4,Bowling Green State Univ.
+Jackson,Niedermayer,28,3,11,14,14,11,Bowling Green State Univ.
+Dalton,Norris,23,1,11,12,14,0,Bowling Green State Univ.
+Jaden,Grant,31,8,3,11,32,4,Bowling Green State Univ.
+Brett,Pfoh,23,6,5,11,12,2,Bowling Green State Univ.
+Jérémie,Minville,29,4,5,9,23,3,Bowling Green State Univ.
+Max,Martin,23,2,6,8,12,1,Bowling Green State Univ.
+Ty,Higgins,17,1,7,8,20,-1,Bowling Green State Univ.
+Gustav,Stjernberg,21,4,3,7,94,5,Bowling Green State Univ.
+Jake,Sloan,29,2,5,7,10,6,Bowling Green State Univ.
+Connor,Levis,27,4,1,5,6,-3,Bowling Green State Univ.
+Brandon,Whynott,24,2,2,4,4,-3,Bowling Green State Univ.
+Ivan,Korodiuk,26,1,3,4,25,-2,Bowling Green State Univ.
+Adam,Zlnka,12,1,1,2,2,0,Bowling Green State Univ.
+Jack,Blake,16,0,2,2,4,-2,Bowling Green State Univ.
+Rihards,Simanovics,24,1,0,1,0,-2,Bowling Green State Univ.
+Tanner,Scott,4,0,0,0,0,-1,Bowling Green State Univ.
+Brian,Lonergan,4,0,0,0,2,-3,Bowling Green State Univ.
+Ivan,Zadvernyuk,28,8,14,22,60,-6,Brown Univ.
+Benjamin,Poitras,28,10,8,18,32,-9,Brown Univ.
+Ryan,St. Louis,27,8,7,15,25,-12,Brown Univ.
+Brian,Nicholas,28,5,7,12,20,-16,Brown Univ.
+Charlie,Gollob,27,4,8,12,16,-2,Brown Univ.
+Andrew,King,17,5,6,11,12,2,Brown Univ.
+Matthew,Desiderio,28,4,7,11,20,-15,Brown Univ.
+Michael,Salandra,22,3,6,9,10,-9,Brown Univ.
+Tanner,Hartman,25,3,6,9,12,1,Brown Univ.
+Alex,Pineau,28,1,8,9,19,-9,Brown Univ.
+Michael,Cataldo,28,3,4,7,2,-4,Brown Univ.
+Ethan,Mistry,28,0,6,6,12,2,Brown Univ.
+Matthew,Cataldo,28,3,2,5,23,-6,Brown Univ.
+Ryan,Shostak,23,2,3,5,8,-4,Brown Univ.
+Owen,Dyer,26,0,5,5,8,-13,Brown Univ.
+Zackary,Tonelli,25,1,2,3,8,-6,Brown Univ.
+Leo,Schwartz,15,0,3,3,4,0,Brown Univ.
+Brendan,Tighe,19,1,1,2,8,-6,Brown Univ.
+Nick,Traggio,26,0,2,2,10,-3,Brown Univ.
+Ashton,Bynum,17,1,0,1,4,-3,Brown Univ.
+Dean,Bauchiero,13,0,1,1,2,-1,Brown Univ.
+Trip,Pendy,1,0,0,0,0,-1,Brown Univ.
+Tristan,Zarsky,5,0,0,0,0,-2,Brown Univ.
+Matthew,Brille,7,0,0,0,0,-1,Brown Univ.
+Jack,Hewitt,15,0,0,0,2,1,Brown Univ.
+Grant,Porter,32,11,20,31,12,-1,Canisius College
+Walter,Zacher,29,18,8,26,20,-6,Canisius College
+Killian,Kiecker-Olson,32,7,16,23,20,0,Canisius College
+Oliver,Tarr,32,8,12,20,6,2,Canisius College
+Rhys,Chiddenton,32,10,9,19,10,-3,Canisius College
+François-James,Buteau,28,5,11,16,20,-11,Canisius College
+Hunter,Price,24,7,6,13,2,-3,Canisius College
+Carter,Anderson,25,5,8,13,6,3,Canisius College
+Robert,Kincaid,30,4,9,13,4,7,Canisius College
+Alton,McDermott,14,5,6,11,0,1,Canisius College
+Hunter,Andrew,27,3,7,10,8,1,Canisius College
+Jason,Gallucci,32,1,8,9,34,6,Canisius College
+Stefano,Bottini,29,4,4,8,8,-1,Canisius College
+Carter,Patterson,32,2,6,8,28,7,Canisius College
+Kash,Rasmussen,30,2,5,7,10,-2,Canisius College
+Kyan,Haldenby,17,2,4,6,2,5,Canisius College
+Jack,Pascucci,32,0,6,6,24,-9,Canisius College
+Trey,Funk,31,2,2,4,18,-6,Canisius College
+Luke,Marshall,24,0,4,4,4,3,Canisius College
+Cole,Miller,24,2,1,3,2,-6,Canisius College
+Brice,Cooke,11,0,2,2,4,1,Canisius College
+Ryan,Gillespie,4,0,1,1,0,1,Canisius College
+Christian,MacDougall,9,0,1,1,10,-1,Canisius College
+Joseph,Messina,12,0,1,1,2,0,Canisius College
+Nick,Strom,5,0,0,0,0,-2,Canisius College
+David,Elmy,5,0,0,0,2,1,Canisius College
+Josh,Phillips,7,0,0,0,4,1,Canisius College
+Ryan,Bottrill,32,9,26,35,16,5,Clarkson Univ.
+Owen,Van Steensel,32,12,13,25,14,-1,Clarkson Univ.
+Rémi,Gélinas,32,7,13,20,22,4,Clarkson Univ.
+Jared,Mangan,32,7,11,18,14,0,Clarkson Univ.
+Talon,Sigurdson,32,8,9,17,14,2,Clarkson Univ.
+Erik,Bargholtz,32,6,11,17,26,5,Clarkson Univ.
+Tate,Taylor,31,6,10,16,14,-5,Clarkson Univ.
+Justin,Côté,32,8,7,15,10,-2,Clarkson Univ.
+Ty,Brassington,32,4,10,14,38,-4,Clarkson Univ.
+Tristan,Sarsland,32,5,8,13,22,-2,Clarkson Univ.
+Luka,Sukovic,30,3,10,13,44,1,Clarkson Univ.
+Jace,Letourneau,21,7,5,12,16,5,Clarkson Univ.
+Matthew,Mayich,28,6,5,11,26,10,Clarkson Univ.
+Maël,St-Denis,26,2,6,8,30,-2,Clarkson Univ.
+Bryce,Sookro,32,0,7,7,35,-1,Clarkson Univ.
+William-Charles,Bishop,25,1,4,5,20,-3,Clarkson Univ.
+Adrian,Misaljevic,6,2,2,4,2,-1,Clarkson Univ.
+Shawn,O'Donnell,29,2,2,4,10,-8,Clarkson Univ.
+Conyr,Hellyer,30,0,4,4,18,-13,Clarkson Univ.
+Luke,Pakulak,24,2,1,3,4,-11,Clarkson Univ.
+Jack,Sparkes,31,0,2,2,40,1,Clarkson Univ.
+Noah,Houle,6,0,0,0,4,-2,Clarkson Univ.
+Simon,Labelle,32,11,14,25,23,-1,Colgate Univ.
+Ryan,Sullivan,31,7,18,25,51,2,Colgate Univ.
+Isaiah,Norlin,32,7,18,25,16,-9,Colgate Univ.
+Max,Nagel,22,11,13,24,4,3,Colgate Univ.
+Michael,Neumeier,32,5,13,18,12,-28,Colgate Univ.
+Jack,Brandt,29,7,9,16,30,-8,Colgate Univ.
+Daniel,Panetta,32,3,8,11,14,-18,Colgate Univ.
+Joshua,Niedermayer,25,2,8,10,6,-4,Colgate Univ.
+Jacob,Napier,30,3,6,9,16,10,Colgate Univ.
+Tyson,Doucette,30,4,4,8,10,-16,Colgate Univ.
+Easton,Wainwright,31,4,4,8,16,-7,Colgate Univ.
+Robby,Newton,31,4,3,7,10,2,Colgate Univ.
+Ryan,Spinale,25,3,4,7,28,-7,Colgate Univ.
+Brett,Merner,18,2,5,7,2,-9,Colgate Univ.
+Jake,Schneider,32,4,2,6,35,-9,Colgate Univ.
+Luke,Malboeuf,31,0,6,6,6,1,Colgate Univ.
+Antonio,Fernandez,29,3,2,5,22,-1,Colgate Univ.
+Bobby,Metz,25,3,1,4,2,4,Colgate Univ.
+Simone,Dadiè,32,2,2,4,18,-10,Colgate Univ.
+Owen,Neuharth,28,1,3,4,4,0,Colgate Univ.
+Nicholas,Rexine,14,0,2,2,4,0,Colgate Univ.
+Davide,Patella,15,0,1,1,20,-5,Colgate Univ.
+Jack,Stockfish,32,9,16,25,28,-2,College of the Holy Cross
+Matt,DeBoer,28,12,9,21,24,7,College of the Holy Cross
+Michael,Abgrall,31,11,10,21,54,4,College of the Holy Cross
+Noah,Eyre,29,7,12,19,22,12,College of the Holy Cross
+Matt,Kursonis,25,5,12,17,24,-9,College of the Holy Cross
+William,Elias,32,1,15,16,6,1,College of the Holy Cross
+Ty,Gagno,31,6,8,14,20,-6,College of the Holy Cross
+Mack,Oliphant,32,5,9,14,8,0,College of the Holy Cross
+Connor,Welsh,30,7,6,13,13,-2,College of the Holy Cross
+Jack,Seymour,32,7,6,13,41,13,College of the Holy Cross
+Timothy,Heinke,32,4,9,13,48,-2,College of the Holy Cross
+Owen,Kim,30,5,7,12,18,-1,College of the Holy Cross
+Owain,Johnston,32,2,8,10,78,6,College of the Holy Cross
+Devin,Phillips,17,3,6,9,0,-5,College of the Holy Cross
+Brody,Gagno,31,1,7,8,12,0,College of the Holy Cross
+Quinn,McCall,32,4,3,7,28,-5,College of the Holy Cross
+David,Hymovitch,27,3,4,7,6,-2,College of the Holy Cross
+Dax,Williams,29,2,5,7,4,3,College of the Holy Cross
+Lachlan,Getz,26,0,5,5,50,9,College of the Holy Cross
+Jarrod,Smith,18,1,2,3,8,1,College of the Holy Cross
+Anthony,Carone,7,1,1,2,0,-2,College of the Holy Cross
+Anthony,Biakabutuka,13,0,2,2,0,-4,College of the Holy Cross
+Joe,Solimine,13,0,2,2,27,-3,College of the Holy Cross
+Will,Troutwine,1,0,0,0,0,-1,College of the Holy Cross
+Ryan,Buckley,1,0,0,0,0,0,College of the Holy Cross
+Ben,LeFranc,1,0,0,0,0,0,College of the Holy Cross
+Klavs,Veinbergs,32,10,10,20,30,-3,Colorado College
+Owen,Beckner,26,6,13,19,4,6,Colorado College
+Gavin,Lindberg,32,6,13,19,6,7,Colorado College
+Bret,Link,32,6,10,16,8,6,Colorado College
+Connor,Hvidston,32,4,12,16,4,6,Colorado College
+Drew,Montgomery,30,7,7,14,14,0,Colorado College
+Ryan,Alexander,30,4,10,14,9,8,Colorado College
+Fisher,Scott,32,2,12,14,30,4,Colorado College
+Brandon,Lisowsky,27,5,8,13,6,4,Colorado College
+Wilson,Björck,27,5,8,13,16,1,Colorado College
+Philippe,Blais-Savoie,24,7,4,11,27,6,Colorado College
+Tomas,Mrsic,32,5,5,10,14,-7,Colorado College
+Colton,Roberts,26,3,7,10,16,-3,Colorado College
+Mats,Lindgren,14,5,4,9,8,2,Colorado College
+Brayden,Schuurman,32,4,5,9,12,-3,Colorado College
+Riley,Stuart,31,4,4,8,2,-6,Colorado College
+Seth,Constance,32,2,6,8,14,-3,Colorado College
+Ryan,Koering,32,1,5,6,12,5,Colorado College
+Matteo,Mann,25,0,2,2,23,4,Colorado College
+Nick,Baer,17,0,1,1,2,1,Colorado College
+Mateo,Mrsic,19,0,1,1,4,1,Colorado College
+Max,Burkholder,4,0,0,0,2,-1,Colorado College
+Merril,Steenari,16,0,0,0,2,1,Colorado College
+Jonathan,Castagna,27,14,17,31,27,24,Cornell Univ.
+Caton,Ryan,27,9,15,24,8,19,Cornell Univ.
+Ryan,Walsh,26,7,16,23,31,3,Cornell Univ.
+Xavier,Veilleux,27,5,18,23,8,8,Cornell Univ.
+Charlie,Major,25,10,12,22,2,3,Cornell Univ.
+Aiden,Long,27,9,11,20,16,18,Cornell Univ.
+George,Fegaras,27,3,12,15,28,11,Cornell Univ.
+Giovanni,DiGiulian,27,9,5,14,24,5,Cornell Univ.
+Jacob,Kraft,27,6,6,12,8,6,Cornell Univ.
+Hoyt,Stanley,27,1,11,12,12,4,Cornell Univ.
+Reegan,Hiscock,27,5,4,9,18,0,Cornell Univ.
+Chase,Pirtle,21,3,5,8,4,2,Cornell Univ.
+Luke,Ashton,27,2,6,8,4,14,Cornell Univ.
+Michael,Fisher,26,0,6,6,10,9,Cornell Univ.
+Luke,Devlin,19,3,2,5,8,3,Cornell Univ.
+Jack,O'Brien,27,0,5,5,4,10,Cornell Univ.
+Nick,DeSantis,26,2,2,4,8,10,Cornell Univ.
+Tyler,Catalano,27,2,1,3,8,1,Cornell Univ.
+Connor,Arsenault,11,0,2,2,6,2,Cornell Univ.
+Donovan,Hamilton,3,0,1,1,0,1,Cornell Univ.
+Luke,McCrady,1,0,0,0,2,0,Cornell Univ.
+Nicholas,Wolfenberg,3,0,0,0,0,2,Cornell Univ.
+Parker,Murray,6,0,0,0,0,0,Cornell Univ.
+Hudson,Gorski,6,0,0,0,2,4,Cornell Univ.
+Winter,Wallace,17,0,0,0,8,-4,Cornell Univ.
+Hayden,Stavroff,28,26,15,41,22,13,Dartmouth College
+Hank,Cleaves,28,12,20,32,33,16,Dartmouth College
+Nikita,Nikora,28,6,16,22,2,5,Dartmouth College
+Cameron,MacDonald,27,5,14,19,12,21,Dartmouth College
+Colin,Grable,28,5,11,16,16,24,Dartmouth College
+C.J.,Foley,28,3,13,16,8,2,Dartmouth College
+Eric,Charpentier,28,4,9,13,8,22,Dartmouth College
+Nathan,Morin,22,7,5,12,6,8,Dartmouth College
+Cooper,Cleaves,23,4,6,10,2,5,Dartmouth College
+Jack,Silverberg,28,4,6,10,4,7,Dartmouth College
+Jason,Stefanek,21,2,8,10,2,6,Dartmouth College
+Andrew,Clarke,27,1,9,10,6,7,Dartmouth College
+Ryan,Schelling,26,5,4,9,4,5,Dartmouth College
+Brock,Cummings,28,4,4,8,2,6,Dartmouth College
+Alexander,Krause,28,3,5,8,10,5,Dartmouth College
+Tim,Busconi,28,1,6,7,6,18,Dartmouth College
+Matthew,Fusco,25,4,2,6,0,0,Dartmouth College
+Joshua,Schenk,24,3,2,5,10,-1,Dartmouth College
+Brock,Devlin,10,1,2,3,2,5,Dartmouth College
+Austin,Salani,13,1,1,2,0,-1,Dartmouth College
+Tucker,McRae,26,0,2,2,8,-2,Dartmouth College
+Oskari,Vuorio,4,0,1,1,2,-2,Dartmouth College
+Tyler,Grahme,4,0,0,0,0,-2,Dartmouth College
+Gavin,Best,33,12,13,25,18,-11,Ferris State Univ.
+Carter,Rapalje,33,11,8,19,6,-17,Ferris State Univ.
+Josh,Zary,33,11,7,18,28,-4,Ferris State Univ.
+Max,Itagaki,28,6,12,18,14,-4,Ferris State Univ.
+Tyler,Schleppe,32,6,10,16,33,2,Ferris State Univ.
+Christopher,Lie,33,1,15,16,6,-5,Ferris State Univ.
+Xavier,Alexandre Jean-Louis,33,4,10,14,23,-5,Ferris State Univ.
+Caden,Brown,27,4,7,11,2,0,Ferris State Univ.
+Max,Dukovac,33,6,4,10,18,-6,Ferris State Univ.
+John,Lundy,23,4,6,10,21,-4,Ferris State Univ.
+Jack,Mesic,33,2,7,9,18,-14,Ferris State Univ.
+Riley,Wallack,23,5,3,8,8,-19,Ferris State Univ.
+Connor,McGrath,27,2,6,8,14,-11,Ferris State Univ.
+Valtteri,Piironen,27,1,6,7,14,-6,Ferris State Univ.
+Holden,Doell,21,3,3,6,10,-9,Ferris State Univ.
+Trevor,Taulien,33,1,5,6,60,-9,Ferris State Univ.
+Jack,Silich,21,3,2,5,8,-2,Ferris State Univ.
+Emerson,Goode,14,2,2,4,6,-5,Ferris State Univ.
+Nic,Belpedio,25,0,4,4,8,-9,Ferris State Univ.
+Logan,Heroux,28,0,4,4,20,-1,Ferris State Univ.
+Jacob,Badal,19,1,2,3,6,-3,Ferris State Univ.
+Tanner,Rowe,25,1,2,3,12,-2,Ferris State Univ.
+Kade,Turner,10,0,1,1,8,1,Ferris State Univ.
+Conner,Brown,2,0,0,0,0,0,Ferris State Univ.
+Luke,Lisko,2,0,0,0,0,-2,Ferris State Univ.
+Brian,Morse,10,0,0,0,4,-5,Ferris State Univ.
+Mick,Thompson,27,7,17,24,8,-3,Harvard Univ.
+Philip,Tresca,27,8,11,19,10,4,Harvard Univ.
+Casey,Severo,28,9,8,17,0,-3,Harvard Univ.
+Richard,Gallant,28,8,7,15,19,-9,Harvard Univ.
+Matthew,Morden,28,4,10,14,23,1,Harvard Univ.
+Heikki,Ruohonen,22,3,10,13,18,-3,Harvard Univ.
+Joe,Miller,28,6,6,12,6,-5,Harvard Univ.
+Aidan,Lane,28,5,6,11,14,-3,Harvard Univ.
+Ryan,Healey,28,4,6,10,24,0,Harvard Univ.
+William,Hughes,26,3,7,10,12,4,Harvard Univ.
+Justin,Solovey,23,2,7,9,4,4,Harvard Univ.
+Mason,Langenbrunner,26,1,8,9,12,-6,Harvard Univ.
+Lucas,St-Louis,27,0,9,9,14,-2,Harvard Univ.
+Ben,MacDonald,19,4,4,8,8,-1,Harvard Univ.
+Marek,Hejduk,26,2,5,7,4,-1,Harvard Univ.
+Drake,Murray,23,0,5,5,2,1,Harvard Univ.
+Salvatore,Guzzo,19,4,0,4,4,-1,Harvard Univ.
+Chase,Stefanek,15,3,1,4,0,2,Harvard Univ.
+Sean,Keohane,28,2,1,3,16,-3,Harvard Univ.
+Ryan,Fine,3,1,1,2,0,-1,Harvard Univ.
+Donato,Bracco,22,1,1,2,2,-2,Harvard Univ.
+Michael,Callow,10,0,2,2,6,-2,Harvard Univ.
+Matthew,Biotti,12,0,1,1,2,1,Harvard Univ.
+James,Mackey,2,0,0,0,0,1,Harvard Univ.
+Cameron,Johnson,3,0,0,0,0,-1,Harvard Univ.
+Will,McDonough,4,0,0,0,2,-1,Harvard Univ.
+William,Ahlrik,33,10,16,26,24,1,Lake Superior State Univ.
+Calem,Mangone,33,12,13,25,30,0,Lake Superior State Univ.
+Ryan,Beck,30,6,13,19,41,3,Lake Superior State Univ.
+Adam,Barone,33,4,15,19,20,-9,Lake Superior State Univ.
+Branden,Piku,32,8,8,16,20,-12,Lake Superior State Univ.
+Connor,Milburn,31,5,11,16,18,-2,Lake Superior State Univ.
+Hunter,Ramos,32,7,8,15,24,-4,Lake Superior State Univ.
+Carter,Batchelder,31,4,8,12,6,-12,Lake Superior State Univ.
+John,Herrington,33,4,8,12,6,-5,Lake Superior State Univ.
+Sasha,Teleguine,33,5,6,11,23,-2,Lake Superior State Univ.
+Evan,Bushy,33,2,9,11,6,-18,Lake Superior State Univ.
+John,Druskinis,31,3,6,9,34,-17,Lake Superior State Univ.
+Wilson,Dahlheimer,30,5,2,7,14,-5,Lake Superior State Univ.
+Bryan,Huggins,26,1,6,7,6,9,Lake Superior State Univ.
+Luke,Levandowski,27,2,4,6,2,-18,Lake Superior State Univ.
+Tyson,Galloway,23,1,5,6,4,-2,Lake Superior State Univ.
+Samuel,Bélanger,30,2,3,5,18,2,Lake Superior State Univ.
+Mike,Brown,30,1,4,5,25,7,Lake Superior State Univ.
+Reagan,Milburn,22,2,2,4,6,-3,Lake Superior State Univ.
+Hadley,Hudak,15,1,0,1,18,-3,Lake Superior State Univ.
+Matheson,Mason,1,0,1,1,0,-1,Lake Superior State Univ.
+Luke,Antonacci,24,0,1,1,0,-4,Lake Superior State Univ.
+Jack,Blanchett,2,0,0,0,0,1,Lake Superior State Univ.
+Everett,Pietila,4,0,0,0,0,-1,Lake Superior State Univ.
+Max,Ranström,5,0,0,0,0,-2,Lake Superior State Univ.
+Blake,Humphrey,6,0,0,0,2,-2,Lake Superior State Univ.
+Giovanni,Morneau,28,10,20,30,6,-3,Lindenwood Univ.
+Olivier,Houde,28,12,15,27,26,14,Lindenwood Univ.
+Charles,Savoie,21,9,17,26,54,10,Lindenwood Univ.
+Jacob,Fletcher,26,12,10,22,8,10,Lindenwood Univ.
+Nolan,Seed,28,3,19,22,16,6,Lindenwood Univ.
+Jake,Southgate,28,8,13,21,16,-1,Lindenwood Univ.
+Louis-Philippe,Fontaine,28,9,10,19,12,-4,Lindenwood Univ.
+Ethan,Elias,28,1,13,14,24,-1,Lindenwood Univ.
+Michael,Bevilacqua,24,6,7,13,4,4,Lindenwood Univ.
+Adam,Raesler,25,5,5,10,17,-5,Lindenwood Univ.
+Anselmo,Rego,23,6,3,9,2,1,Lindenwood Univ.
+Ethan,Zielke,25,1,8,9,16,0,Lindenwood Univ.
+Drew,Kuzma,27,4,4,8,16,-10,Lindenwood Univ.
+Jaeden,Mercier,27,2,5,7,4,-8,Lindenwood Univ.
+Tyler,Loughman,27,0,7,7,26,-10,Lindenwood Univ.
+Jacob,Delaney,22,2,4,6,12,0,Lindenwood Univ.
+Brady,McIsaac,19,2,3,5,4,-3,Lindenwood Univ.
+Connor,Gengle,28,2,3,5,6,-7,Lindenwood Univ.
+Brody,Mortensen,20,2,2,4,23,1,Lindenwood Univ.
+Ty,Hipkin,17,1,2,3,8,0,Lindenwood Univ.
+Brady,Yakesh,20,0,2,2,4,-8,Lindenwood Univ.
+John,Evans,3,0,0,0,0,-1,Lindenwood Univ.
+Jonathan,Wong,5,0,0,0,0,-1,Lindenwood Univ.
+Patrick,Schmiedlin,6,0,0,0,0,1,Lindenwood Univ.
+Brett,Rylance,29,11,13,24,10,4,Long Island Univ.
+Noah,Serdachny,30,9,15,24,31,-2,Long Island Univ.
+Sixten,Jennersjö,30,7,17,24,2,-7,Long Island Univ.
+J.R.,Perdion,30,9,12,21,27,-1,Long Island Univ.
+Dylan,Kinch,30,8,13,21,6,-4,Long Island Univ.
+Nicholas,Bernardo,27,8,8,16,14,2,Long Island Univ.
+Trevor,Griebel,27,2,14,16,16,0,Long Island Univ.
+Isaac,Lambert,29,8,4,12,22,-6,Long Island Univ.
+Anthony,Lucarelli,28,5,6,11,10,1,Long Island Univ.
+Trenton,Powell,30,1,10,11,16,-2,Long Island Univ.
+Onni,Leppänen,24,4,6,10,35,1,Long Island Univ.
+Casey,McDonald,28,4,6,10,22,5,Long Island Univ.
+Jaden,Dyke,30,3,7,10,6,-8,Long Island Univ.
+Nate,Benoit,28,4,5,9,25,-1,Long Island Univ.
+Luca,Leighton,17,3,2,5,18,-1,Long Island Univ.
+Garrett,Valk,28,1,4,5,30,-6,Long Island Univ.
+Brennan,Nelson,24,2,2,4,10,0,Long Island Univ.
+Daniel,Baldassarra,13,2,1,3,4,0,Long Island Univ.
+Chad,Muller,11,1,2,3,16,0,Long Island Univ.
+Blake,Matheson,21,0,3,3,2,-7,Long Island Univ.
+Blake,Dangos,29,0,3,3,33,-5,Long Island Univ.
+Johnny,McMahon,5,1,0,1,0,0,Long Island Univ.
+Jack,Darby,13,0,1,1,0,-3,Long Island Univ.
+Heath,Armstrong,10,0,0,0,0,-4,Long Island Univ.
+Dominik,Bartecko,31,7,7,14,22,-14,Mercyhurst Univ.
+Jacob,LeBlanc,31,0,14,14,28,-8,Mercyhurst Univ.
+Will,Schumacher,20,8,5,13,17,-3,Mercyhurst Univ.
+Sean,James,25,6,4,10,12,-9,Mercyhurst Univ.
+Andrew,LeBlanc,20,4,6,10,20,-8,Mercyhurst Univ.
+Brendan,Lamb,31,5,4,9,8,-22,Mercyhurst Univ.
+Ryan,Coughlin,32,2,7,9,2,-12,Mercyhurst Univ.
+Lukas,Klemm,26,1,7,8,8,-7,Mercyhurst Univ.
+Christian,Kocsis,32,4,3,7,6,-22,Mercyhurst Univ.
+Tyler,DesRochers,29,2,4,6,18,-15,Mercyhurst Univ.
+Alexander,Dimitriadis,23,3,1,4,4,-3,Mercyhurst Univ.
+Francesco,Iasenza,24,1,3,4,22,-12,Mercyhurst Univ.
+Matteo,Disipio,29,1,3,4,0,-12,Mercyhurst Univ.
+John,Larkin,31,1,3,4,28,-19,Mercyhurst Univ.
+Caleb,Price,29,0,4,4,8,-16,Mercyhurst Univ.
+Riley,Fitzgerald,15,3,0,3,29,-6,Mercyhurst Univ.
+Spencer,Smith,14,1,2,3,2,-9,Mercyhurst Univ.
+Connor,Pelc,21,1,2,3,20,-6,Mercyhurst Univ.
+Trent,Sambrook,16,0,3,3,2,-8,Mercyhurst Univ.
+Barrett,Brooks,29,2,0,2,8,-13,Mercyhurst Univ.
+Noah,Sedore,16,0,2,2,14,-11,Mercyhurst Univ.
+Tyler,Nasca,20,1,0,1,2,-3,Mercyhurst Univ.
+Tyler,Haskins,2,0,0,0,0,-1,Mercyhurst Univ.
+Jaryd,Sych,22,0,0,0,4,-5,Mercyhurst Univ.
+Kaden,Muir,25,0,0,0,32,-15,Mercyhurst Univ.
+Justin,Gill,28,14,16,30,61,6,Merrimack College
+Parker,Lalonde,30,10,17,27,12,7,Merrimack College
+Trevor,Hoskin,26,8,19,27,10,1,Merrimack College
+Nick,Pierre,31,12,8,20,25,-8,Merrimack College
+Caelan,Fitzpatrick,30,9,10,19,20,-1,Merrimack College
+Seamus,Powell,31,3,14,17,2,-10,Merrimack College
+Caden,Cranston,30,4,12,16,8,-10,Merrimack College
+Nolan,Flamand,31,5,10,15,16,-6,Merrimack College
+Austin,Oravetz,31,1,9,10,4,0,Merrimack College
+Mark,Hillier,29,6,3,9,8,4,Merrimack College
+Michael,Emerson,29,4,5,9,6,-2,Merrimack College
+Daniel,Astapovich,29,2,6,8,2,-4,Merrimack College
+Ethan,Beyer,30,1,6,7,8,-1,Merrimack College
+Filip,Nordberg,30,0,7,7,52,-1,Merrimack College
+Ty,Daneault,15,2,4,6,14,-3,Merrimack College
+Hunter,Mayo,14,1,5,6,18,-7,Merrimack College
+Cameron,Kungle,31,1,5,6,30,7,Merrimack College
+Ryan,O'Connell,20,3,2,5,6,2,Merrimack College
+Nathan,King,23,3,2,5,2,11,Merrimack College
+Joseph,Henneberry,17,2,3,5,14,1,Merrimack College
+Jack,Richard,11,2,1,3,0,1,Merrimack College
+Ben,Yurchuk,13,2,0,2,0,-5,Merrimack College
+Matthew,Campbell,21,0,1,1,8,2,Merrimack College
+Trent,Ballentyne,2,0,0,0,0,-1,Merrimack College
+Luke,Weilandt,8,0,0,0,24,-2,Merrimack College
+Kocha,Delic,32,11,12,23,35,5,Miami Univ. (Ohio)
+David,Deputy,27,15,6,21,16,-2,Miami Univ. (Ohio)
+Max,Helgeson,32,10,10,20,12,13,Miami Univ. (Ohio)
+Matteo,Giampa,25,9,11,20,28,7,Miami Univ. (Ohio)
+Ilia,Morozov,32,7,11,18,27,2,Miami Univ. (Ohio)
+Michael,Quinn,32,4,14,18,8,10,Miami Univ. (Ohio)
+Vladislav,Lukashevich,29,2,16,18,18,13,Miami Univ. (Ohio)
+Doug,Grimes,30,9,8,17,24,6,Miami Univ. (Ohio)
+Ryan,Smith,32,9,8,17,24,-3,Miami Univ. (Ohio)
+Casper,Nässén,32,5,12,17,6,-1,Miami Univ. (Ohio)
+Ethan,Hay,31,3,11,14,22,6,Miami Univ. (Ohio)
+Ryder,Thompson,30,1,8,9,10,2,Miami Univ. (Ohio)
+Justin,Stupka,29,3,5,8,4,1,Miami Univ. (Ohio)
+Bradley,Walker,26,3,3,6,35,-1,Miami Univ. (Ohio)
+Michael,Phelan,32,0,5,5,8,3,Miami Univ. (Ohio)
+Shaun,McEwen,31,0,4,4,20,-5,Miami Univ. (Ohio)
+John,Emmons,14,3,0,3,6,-1,Miami Univ. (Ohio)
+Blake,Mesenburg,20,1,1,2,4,1,Miami Univ. (Ohio)
+Owen,Lalonde,9,0,2,2,6,-2,Miami Univ. (Ohio)
+Nicholas,Mikan,25,0,2,2,9,1,Miami Univ. (Ohio)
+Kyle,Aucoin,25,0,1,1,22,-2,Miami Univ. (Ohio)
+Brayden,Morrison,4,0,0,0,0,-1,Miami Univ. (Ohio)
+Charlie,Michaud,6,0,0,0,0,1,Miami Univ. (Ohio)
+Nick,Donato,22,0,0,0,4,-3,Miami Univ. (Ohio)
+Porter,Martone,28,20,21,41,70,27,Michigan State Univ.
+Charlie,Stramel,30,19,21,40,24,30,Michigan State Univ.
+Daniel,Russell,30,10,27,37,28,29,Michigan State Univ.
+Anthony,Romani,30,12,12,24,10,6,Michigan State Univ.
+Ryker,Lee,28,11,13,24,22,5,Michigan State Univ.
+Tommi,Männistö,30,11,8,19,6,14,Michigan State Univ.
+Maxim,Strbak,30,3,14,17,8,19,Michigan State Univ.
+Matt,Basgall,30,3,13,16,2,22,Michigan State Univ.
+Tiernan,Shoudy,30,5,9,14,29,19,Michigan State Univ.
+Gavin,O'Connell,30,5,7,12,10,1,Michigan State Univ.
+Owen,West,26,4,6,10,8,11,Michigan State Univ.
+Eric,Nilson,28,3,7,10,37,7,Michigan State Univ.
+Colin,Ralph,30,1,9,10,25,24,Michigan State Univ.
+Shane,Vansaghi,28,3,6,9,28,5,Michigan State Univ.
+Patrick,Geary,29,1,8,9,68,15,Michigan State Univ.
+Cayden,Lindstrom,25,1,7,8,90,1,Michigan State Univ.
+Sean,Barnhill,30,0,4,4,14,8,Michigan State Univ.
+Griffin,Jurecki,15,2,1,3,2,4,Michigan State Univ.
+Matthew,Lahey,12,0,3,3,4,3,Michigan State Univ.
+Travis,Shoudy,17,0,3,3,4,5,Michigan State Univ.
+Cole,Burke,2,1,0,1,0,1,Michigan State Univ.
+Austin,Baker,13,0,1,1,15,1,Michigan State Univ.
+Cole,Ward,7,0,0,0,17,0,Michigan State Univ.
+Nathan,Mackie,11,0,0,0,4,1,Michigan State Univ.
+Stiven,Sardaryan,32,11,30,41,26,13,Michigan Tech
+Max,Koskipirtti,34,12,21,33,4,13,Michigan Tech
+Isaac,Gordon,33,6,19,25,10,6,Michigan Tech
+Teydon,Trembecky,31,13,11,24,6,11,Michigan Tech
+Jack,Anderson,34,11,12,23,33,17,Michigan Tech
+Noah,Reinhart,34,8,12,20,6,12,Michigan Tech
+Elias,Jansson,32,7,13,20,8,3,Michigan Tech
+Tom,Leppä,34,5,12,17,10,6,Michigan Tech
+Reid,Andresen,34,4,10,14,4,2,Michigan Tech
+Carson,Latimer,30,6,6,12,4,4,Michigan Tech
+Kalem,Parker,34,4,7,11,14,14,Michigan Tech
+Joe,Prouty,34,2,9,11,22,4,Michigan Tech
+Tyler,Miller,34,3,7,10,16,10,Michigan Tech
+Brayden,Boehm,26,6,3,9,22,1,Michigan Tech
+Matthew,Van Blaricom,23,2,6,8,10,-4,Michigan Tech
+Luca,Fasciano,24,4,3,7,16,3,Michigan Tech
+Carson,Birnie,33,3,4,7,20,3,Michigan Tech
+Michael,Cicek,28,2,5,7,4,0,Michigan Tech
+Reid,Daavettila,28,1,6,7,6,0,Michigan Tech
+Ryan,Abraham,6,1,1,2,2,-2,Michigan Tech
+Lauri,Raiman,8,1,1,2,0,4,Michigan Tech
+Rylan,Gould,6,1,0,1,4,-2,Michigan Tech
+Rylan,Brown,9,0,1,1,8,-3,Michigan Tech
+Max,Matthews,1,0,0,0,0,1,Michigan Tech
+Owen,Baker,4,0,0,0,0,0,Michigan Tech
+Trevor,Kukkonen,4,0,0,0,0,0,Michigan Tech
+Ryder,Matter,4,0,0,0,0,0,Michigan Tech
+Kasper,Vähärautio,11,0,0,0,4,-3,Michigan Tech
+Tristan,Lemyre,32,12,14,26,23,-3,Minnesota State Univ. (Mankato)
+Evan,Murr,32,7,16,23,4,14,Minnesota State Univ. (Mankato)
+Luigi,Benincasa,32,6,16,22,12,5,Minnesota State Univ. (Mankato)
+Jack,Smith,32,9,9,18,18,-10,Minnesota State Univ. (Mankato)
+Liam,Watkins,32,6,11,17,6,12,Minnesota State Univ. (Mankato)
+Ralfs,Bergmanis,32,2,12,14,26,2,Minnesota State Univ. (Mankato)
+Alexander,Zetterberg,31,5,8,13,6,2,Minnesota State Univ. (Mankato)
+Ean,Somoza,17,6,6,12,14,-2,Minnesota State Univ. (Mankato)
+Mason,LeBel,21,4,7,11,2,6,Minnesota State Univ. (Mankato)
+Finlay,Williams,26,3,7,10,0,9,Minnesota State Univ. (Mankato)
+Reid,Morich,30,5,4,9,57,1,Minnesota State Univ. (Mankato)
+Jakob,Stender,32,4,5,9,8,-3,Minnesota State Univ. (Mankato)
+Campbell,Cichosz,32,2,7,9,30,1,Minnesota State Univ. (Mankato)
+Jordan,Ronn,29,4,4,8,28,5,Minnesota State Univ. (Mankato)
+Jacob,Conrad,24,4,3,7,6,3,Minnesota State Univ. (Mankato)
+Mason,Wheeler,32,0,7,7,8,5,Minnesota State Univ. (Mankato)
+Sawyer,Scholl,31,2,3,5,41,0,Minnesota State Univ. (Mankato)
+Charlie,Lurie,13,3,1,4,8,-4,Minnesota State Univ. (Mankato)
+Bryce,Strand,27,1,2,3,21,1,Minnesota State Univ. (Mankato)
+Jacob,Bonkowski,17,0,3,3,4,4,Minnesota State Univ. (Mankato)
+Felikss,Gavars,8,1,0,1,8,-3,Minnesota State Univ. (Mankato)
+Rylan,Bonkowski,15,0,1,1,4,-5,Minnesota State Univ. (Mankato)
+Liam,Hupka,29,0,1,1,2,1,Minnesota State Univ. (Mankato)
+Declan,McDonnell,32,10,12,22,16,-10,Niagara Univ.
+Spencer,Young,32,9,10,19,23,-1,Niagara Univ.
+Maxim,Muranov,28,8,11,19,24,5,Niagara Univ.
+Jacob,Maillet,32,6,13,19,8,6,Niagara Univ.
+Marshall,Finnie,32,10,8,18,53,-1,Niagara Univ.
+Noah,Hackett,32,11,5,16,29,5,Niagara Univ.
+Glebs,Prohorenkovs,31,1,13,14,16,-7,Niagara Univ.
+Lane,Brockhoff,29,3,9,12,27,4,Niagara Univ.
+Nathan,Oickle,29,2,10,12,17,-6,Niagara Univ.
+Jonathan,Ziskie,27,4,7,11,16,-3,Niagara Univ.
+Andy,Reist,30,1,8,9,8,-7,Niagara Univ.
+Dallon,Melin,24,3,5,8,14,-6,Niagara Univ.
+Nicholas,Niemo,19,1,7,8,4,-3,Niagara Univ.
+Mitchell,Becker,32,0,8,8,28,-3,Niagara Univ.
+Ross,Roloson,32,2,5,7,10,-6,Niagara Univ.
+Ethan,Lund,31,2,4,6,14,-9,Niagara Univ.
+Grayson,Dietrich,31,1,4,5,18,-9,Niagara Univ.
+Tyson,Zimmer,14,2,2,4,6,-1,Niagara Univ.
+Hunter,Wallace,25,2,2,4,18,-9,Niagara Univ.
+Davis,Codd,7,2,1,3,2,0,Niagara Univ.
+Ray,Murakami,23,1,2,3,2,-2,Niagara Univ.
+Aidan,Litke,12,1,1,2,26,-2,Niagara Univ.
+Cameron,Eke,23,0,1,1,10,3,Niagara Univ.
+Drew,Vieten,1,0,0,0,0,-1,Niagara Univ.
+Dylan,Hryckowian,25,15,18,33,32,7,Northeastern Univ.
+Jacob,Mathieu,29,9,17,26,6,1,Northeastern Univ.
+Amine,Hajibi,31,5,17,22,20,1,Northeastern Univ.
+Joe,Connor,31,11,10,21,20,-8,Northeastern Univ.
+Giacomo,Martino,31,10,11,21,6,-4,Northeastern Univ.
+Vincent,Borgesi,31,5,14,19,12,-3,Northeastern Univ.
+Tyler,Fukakusa,31,2,16,18,18,-3,Northeastern Univ.
+Griffin,Erdman,31,5,9,14,20,5,Northeastern Univ.
+Dylan,Finlay,31,0,9,9,18,-1,Northeastern Univ.
+Austen,May,31,4,4,8,16,9,Northeastern Univ.
+Eli,Sebastian,31,3,5,8,10,7,Northeastern Univ.
+Dylan,Compton,31,3,5,8,14,2,Northeastern Univ.
+Jack,Pechar,31,2,3,5,0,3,Northeastern Univ.
+Jack,Henry,30,1,4,5,6,-2,Northeastern Univ.
+Matthew,Perkins,24,3,1,4,8,2,Northeastern Univ.
+Andy,Moore,31,2,2,4,14,-4,Northeastern Univ.
+James,Fisher,31,2,1,3,26,0,Northeastern Univ.
+Matthew,Maltais,21,1,2,3,14,-5,Northeastern Univ.
+Noah,Jones,24,1,1,2,22,1,Northeastern Univ.
+Joaquim,Lemay,9,0,1,1,20,2,Northeastern Univ.
+Marc,Lund,2,0,0,0,0,0,Northeastern Univ.
+Anthony,Messuri,4,0,0,0,0,0,Northeastern Univ.
+Grayson,Badger,5,0,0,0,0,0,Northeastern Univ.
+Ethan,Fredericks,12,0,0,0,2,0,Northeastern Univ.
+Caiden,Gault,31,15,2,17,29,-21,Northern Michigan Univ.
+Tobias,Pitka,23,5,6,11,14,-16,Northern Michigan Univ.
+Jakub,Altrichter,27,4,7,11,34,-19,Northern Michigan Univ.
+Matthew,Argentina,32,4,6,10,14,-17,Northern Michigan Univ.
+Kyle,Bettens,29,1,9,10,18,-7,Northern Michigan Univ.
+Tynan,Ewart,32,1,9,10,25,-13,Northern Michigan Univ.
+Peter,Cisar,18,4,5,9,25,-12,Northern Michigan Univ.
+Joe,Schiller,26,3,6,9,4,-23,Northern Michigan Univ.
+Michael,Burchill,31,5,3,8,4,-14,Northern Michigan Univ.
+Mathew,Ward,25,2,6,8,18,-18,Northern Michigan Univ.
+Girts,Silkalns,25,2,5,7,12,-6,Northern Michigan Univ.
+Grayden,Slipec,21,1,6,7,10,-13,Northern Michigan Univ.
+Warren,Clark,31,2,4,6,6,-13,Northern Michigan Univ.
+Médrick,Bolduc,30,2,2,4,20,-10,Northern Michigan Univ.
+Olivier,Beaulieu,12,0,4,4,2,-1,Northern Michigan Univ.
+Landon,MacDonald,19,2,0,2,10,-9,Northern Michigan Univ.
+Danny,Ciccarello,26,1,1,2,18,-11,Northern Michigan Univ.
+Aidyn,Hutchinson,27,0,2,2,13,-12,Northern Michigan Univ.
+Tyler,Stern,18,0,1,1,2,-5,Northern Michigan Univ.
+Nicolas,Ardanaz,29,0,1,1,8,-13,Northern Michigan Univ.
+Zane,Demsey,29,0,1,1,14,-15,Northern Michigan Univ.
+Anthony,Cliche,31,0,1,1,16,-14,Northern Michigan Univ.
+Grayden,Daul,8,0,0,0,0,-2,Northern Michigan Univ.
+Evan,Johnson,15,0,0,0,8,-8,Northern Michigan Univ.
+Davis,Burnside,30,12,13,25,41,7,Ohio State Univ.
+Félix,Caron,30,11,14,25,28,1,Ohio State Univ.
+Jake,Karabela,30,9,16,25,16,1,Ohio State Univ.
+Max,Montes,30,12,10,22,22,4,Ohio State Univ.
+Riley,Thompson,30,9,11,20,45,-5,Ohio State Univ.
+Ryan,Gordon,30,4,14,18,24,-1,Ohio State Univ.
+Broten,Sabo,29,1,16,17,29,-7,Ohio State Univ.
+Adam,Eisele,29,10,5,15,14,-4,Ohio State Univ.
+James,Hong,26,3,8,11,20,-3,Ohio State Univ.
+Jake,Dunlap,24,4,6,10,8,2,Ohio State Univ.
+Nathan,McBrayer,29,4,4,8,8,7,Ohio State Univ.
+William,Smith,30,3,4,7,14,-3,Ohio State Univ.
+Samuel,McGinley,27,1,5,6,14,-4,Ohio State Univ.
+Niall,Crocker,18,1,4,5,4,-1,Ohio State Univ.
+Thomas,Weis,28,1,4,5,12,-4,Ohio State Univ.
+Chris,Able,26,0,5,5,6,1,Ohio State Univ.
+Nathan,Lewis,19,3,1,4,0,-2,Ohio State Univ.
+Ethan,Straky,26,1,3,4,8,-2,Ohio State Univ.
+Samuel,Deckhut,26,2,1,3,4,-9,Ohio State Univ.
+Bryce,Ingles,23,0,3,3,20,-3,Ohio State Univ.
+Landen,Gunderson,6,0,1,1,0,-4,Ohio State Univ.
+Jake,Rozzi,7,0,1,1,0,-8,Ohio State Univ.
+Chris,Romaine,17,0,0,0,6,-9,Ohio State Univ.
+Gavin,McKenna,28,13,30,43,36,0,Penn State Univ.
+Matthew,DiMarsico,30,17,22,39,14,9,Penn State Univ.
+J.J.,Wiebusch,30,16,17,33,59,11,Penn State Univ.
+Aiden,Fink,23,6,23,29,18,1,Penn State Univ.
+Reese,Laubach,30,10,15,25,28,2,Penn State Univ.
+Jackson,Smith,28,11,13,24,36,3,Penn State Univ.
+Charlie,Cerrato,19,6,18,24,20,3,Penn State Univ.
+Dane,Dowiak,27,9,9,18,42,16,Penn State Univ.
+Luke,Misa,30,7,10,17,2,0,Penn State Univ.
+Jarod,Crespo,30,5,9,14,36,12,Penn State Univ.
+Mac,Gadowsky,29,0,12,12,6,-4,Penn State Univ.
+Ben,Schoen,30,2,9,11,23,5,Penn State Univ.
+Shea,Van Olm,26,6,2,8,66,-8,Penn State Univ.
+Nicholas,Degraves,30,3,4,7,32,-8,Penn State Univ.
+Cade,Christenson,14,2,2,4,6,10,Penn State Univ.
+Nicholas,Fascia,25,1,3,4,12,4,Penn State Univ.
+Casey,Aman,24,0,4,4,10,-1,Penn State Univ.
+Carter,Schade,27,0,4,4,34,1,Penn State Univ.
+Lev,Katzin,30,1,2,3,62,-5,Penn State Univ.
+Nolan,Collins,30,0,3,3,38,6,Penn State Univ.
+Braedon,Ford,15,1,0,1,14,-4,Penn State Univ.
+Keaton,Peters,0,0,0,0,0,,Penn State Univ.
+Alexander,Servagno,8,0,0,0,0,-3,Penn State Univ.
+Kai,Daniells,28,15,14,29,8,12,Princeton Univ.
+David,Jacobs,28,8,19,27,16,19,Princeton Univ.
+Jake,Manfre,28,12,11,23,18,17,Princeton Univ.
+Jaxson,Ezman,28,9,14,23,20,-6,Princeton Univ.
+Brendan,Gorman,28,12,8,20,16,0,Princeton Univ.
+Tyler,Rubin,24,2,11,13,8,10,Princeton Univ.
+Kai,Greaves,28,0,13,13,6,5,Princeton Univ.
+Luc,Pelletier,28,5,5,10,24,1,Princeton Univ.
+Nick,Marciano,28,2,8,10,0,-2,Princeton Univ.
+Julian,Facchinelli,26,6,3,9,18,-2,Princeton Univ.
+David,Ma,28,3,4,7,37,-4,Princeton Univ.
+Jayden,Sison,26,2,5,7,4,7,Princeton Univ.
+Chris,Reiniger,16,1,3,4,2,-4,Princeton Univ.
+Seamus,Latta,24,0,4,4,2,2,Princeton Univ.
+Ian,Devlin,28,0,4,4,25,9,Princeton Univ.
+Drew,Garzone,22,2,1,3,6,-4,Princeton Univ.
+Malcolm,Green,28,1,2,3,14,-1,Princeton Univ.
+Kevin,Anderson,27,1,1,2,26,-6,Princeton Univ.
+Carson,Buydens,15,0,2,2,14,-1,Princeton Univ.
+Matthew,Souliere,8,1,0,1,2,-1,Princeton Univ.
+Miles,Gunty,12,1,0,1,14,-2,Princeton Univ.
+Josh,Karnish,14,1,0,1,4,-2,Princeton Univ.
+Brendan,Wang,8,0,1,1,0,1,Princeton Univ.
+Hans,Martin Ulvebne,2,0,0,0,4,0,Princeton Univ.
+Michael,Young,3,0,0,0,0,-2,Princeton Univ.
+Roger,McQueen,31,11,15,26,43,6,Providence College
+Logan,Sawyer,31,12,13,25,16,5,Providence College
+John,Mustard,31,14,10,24,46,5,Providence College
+Tanner,Adams,31,11,11,22,6,5,Providence College
+Will,Elger,31,8,13,21,0,4,Providence College
+Julius,Sumpf,31,3,17,20,6,9,Providence College
+Jonathan,Fauchon,31,8,10,18,14,1,Providence College
+Aleksi,Kivioja,31,7,10,17,30,15,Providence College
+Hudson,Malinoski,31,11,3,14,19,1,Providence College
+Kale,McCallum,26,5,9,14,12,3,Providence College
+Andrew,Centrella,31,3,11,14,18,13,Providence College
+Graham,Gamache,31,1,13,14,0,13,Providence College
+Clint,Levens,30,5,8,13,48,13,Providence College
+Beau,Jelsma,30,3,9,12,20,11,Providence College
+Quinn,Mantei,31,2,7,9,35,20,Providence College
+Donovan,McCoy,28,3,5,8,18,13,Providence College
+Alexander,Rybakov,26,3,2,5,10,8,Providence College
+Tomas,Machu,30,0,4,4,18,3,Providence College
+Martin,Masa,22,0,3,3,0,3,Providence College
+Alexander,Bales,23,0,3,3,12,13,Providence College
+Geno,McEnery,1,0,0,0,0,0,Providence College
+Brendan,Ross,2,0,0,0,0,0,Providence College
+Ethan,Wyttenbach,34,22,32,54,14,19,Quinnipiac Univ.
+Antonin,Verreault,34,13,22,35,14,16,Quinnipiac Univ.
+Markus,Vidicek,34,18,14,32,4,14,Quinnipiac Univ.
+Mason,Marcellus,33,8,24,32,39,23,Quinnipiac Univ.
+Christopher,Pelosi,29,16,15,31,12,11,Quinnipiac Univ.
+Aaron,Schwartz,33,7,21,28,12,8,Quinnipiac Univ.
+Will,Gilson,31,5,21,26,10,11,Quinnipiac Univ.
+Andon,Cerbone,34,9,12,21,4,17,Quinnipiac Univ.
+Elliott,Groenewold,34,6,13,19,18,38,Quinnipiac Univ.
+Matthew,Lansing,34,8,9,17,14,19,Quinnipiac Univ.
+Braden,Blace,27,3,14,17,6,23,Quinnipiac Univ.
+Victor,Czerneckianair,34,6,9,15,16,12,Quinnipiac Univ.
+Jeremy,Wilmer,15,6,7,13,10,8,Quinnipiac Univ.
+Tyler,Borgula,25,4,9,13,16,10,Quinnipiac Univ.
+Graham,Sward,34,4,9,13,12,14,Quinnipiac Univ.
+Anthony,Cipollone,28,3,6,9,0,8,Quinnipiac Univ.
+Nate,Tivey,32,3,5,8,8,10,Quinnipiac Univ.
+Matthew,McGroarty,31,2,3,5,6,3,Quinnipiac Univ.
+Charlie,Leddy,23,1,4,5,10,13,Quinnipiac Univ.
+Ben,Riche,13,1,3,4,4,6,Quinnipiac Univ.
+Alex,Power,10,1,1,2,2,1,Quinnipiac Univ.
+Logan,McCutcheon,8,0,2,2,0,2,Quinnipiac Univ.
+Brady,Schultz,27,0,2,2,2,1,Quinnipiac Univ.
+Drew,Hockley,9,0,0,0,15,0,Quinnipiac Univ.
+Evan,Konyen,31,12,11,23,16,7,RIT (Rochester Inst. of Tech.)
+Austin,Brimmer,32,8,15,23,12,8,RIT (Rochester Inst. of Tech.)
+Zach,Wigle,32,7,16,23,4,5,RIT (Rochester Inst. of Tech.)
+Christian,Catalano,32,10,11,21,50,1,RIT (Rochester Inst. of Tech.)
+Will,Moore,32,9,6,15,16,4,RIT (Rochester Inst. of Tech.)
+Simon,Isabelle,29,5,9,14,20,3,RIT (Rochester Inst. of Tech.)
+Ben,Roger,31,3,11,14,10,1,RIT (Rochester Inst. of Tech.)
+Tristan,Allen,31,1,13,14,30,8,RIT (Rochester Inst. of Tech.)
+Caleb,Elfering,32,7,6,13,10,-2,RIT (Rochester Inst. of Tech.)
+Crossley,Stewart,30,1,11,12,6,-5,RIT (Rochester Inst. of Tech.)
+Tyler,Mahan,24,7,2,9,0,-2,RIT (Rochester Inst. of Tech.)
+Philippe,Jacques,29,4,4,8,12,-1,RIT (Rochester Inst. of Tech.)
+Mason,Croucher,30,2,5,7,18,10,RIT (Rochester Inst. of Tech.)
+Xavier,Lapointe,13,2,4,6,6,-2,RIT (Rochester Inst. of Tech.)
+Boris,Skalos,22,2,4,6,4,-1,RIT (Rochester Inst. of Tech.)
+Mathieu,Cobetto-Roy,18,1,4,5,8,-1,RIT (Rochester Inst. of Tech.)
+Camden,Bajzer,24,2,1,3,6,5,RIT (Rochester Inst. of Tech.)
+Adam,Jeffery,23,0,3,3,0,3,RIT (Rochester Inst. of Tech.)
+Ty,Whyte,22,1,1,2,10,0,RIT (Rochester Inst. of Tech.)
+Ryan,Williams,24,1,1,2,10,10,RIT (Rochester Inst. of Tech.)
+Brock,Reinhart,20,0,2,2,4,-2,RIT (Rochester Inst. of Tech.)
+Kevin,Scott,30,0,2,2,29,2,RIT (Rochester Inst. of Tech.)
+Gustav,Blom,13,0,1,1,2,-3,RIT (Rochester Inst. of Tech.)
+Alex,Christopoulos,5,0,0,0,0,-1,RIT (Rochester Inst. of Tech.)
+Tanner,Klimpke,32,12,12,24,16,-13,Robert Morris Univ.
+Jackson,Reineke,28,10,9,19,21,-7,Robert Morris Univ.
+Cameron,Garvey,32,8,11,19,20,-7,Robert Morris Univ.
+Dominic,Elliott,32,6,10,16,8,-2,Robert Morris Univ.
+Michael,Felsing,31,6,8,14,18,-8,Robert Morris Univ.
+Bruce,McDonald,32,3,11,14,10,-9,Robert Morris Univ.
+Ryan,Taylor,17,4,7,11,4,-1,Robert Morris Univ.
+Trent,Wilson,32,4,7,11,16,-5,Robert Morris Univ.
+George,Krotiris,31,4,6,10,16,-2,Robert Morris Univ.
+Braden,Rourke,30,3,7,10,20,-2,Robert Morris Univ.
+Patrick,Johnson,32,3,7,10,19,-3,Robert Morris Univ.
+Michael,Craig,18,3,6,9,4,-10,Robert Morris Univ.
+Gabriel,Lunn,31,1,7,8,12,-6,Robert Morris Univ.
+Julian,Beaumont,19,3,3,6,4,-1,Robert Morris Univ.
+John,Babcock,32,1,5,6,18,-3,Robert Morris Univ.
+Connor,Gourley,20,2,2,4,8,0,Robert Morris Univ.
+Luke,van Why,23,1,3,4,16,-6,Robert Morris Univ.
+McKay,Hayes,13,0,4,4,2,-2,Robert Morris Univ.
+Dario,Beljo,21,0,3,3,8,-5,Robert Morris Univ.
+Rasmus,Larsson,16,1,1,2,0,-4,Robert Morris Univ.
+Luca,Primerano,18,1,1,2,2,-3,Robert Morris Univ.
+Greg,Japchen,24,1,1,2,12,-5,Robert Morris Univ.
+Lee,Chiang,2,0,1,1,0,3,Robert Morris Univ.
+Zeke,Nicholson,11,0,1,1,2,0,Robert Morris Univ.
+Max,Wattvil,6,0,0,0,6,-2,Robert Morris Univ.
+J.R.,Ashmead,25,0,0,0,8,0,Robert Morris Univ.
+Luc,Wilson,31,6,14,20,21,-14,RPI (Rensselaer Polytech. Inst.)
+Filip,Sitar,32,8,9,17,8,-11,RPI (Rensselaer Polytech. Inst.)
+Tyler,Wallace,32,7,9,16,10,-8,RPI (Rensselaer Polytech. Inst.)
+Rainers,Rullers,32,9,6,15,12,-15,RPI (Rensselaer Polytech. Inst.)
+Thomas,Klassek,31,2,12,14,8,-11,RPI (Rensselaer Polytech. Inst.)
+Dovar,Tinling,32,6,7,13,8,-7,RPI (Rensselaer Polytech. Inst.)
+Jagger,Tapper,32,3,9,12,4,-7,RPI (Rensselaer Polytech. Inst.)
+Matthew,Buckley,31,5,6,11,10,-16,RPI (Rensselaer Polytech. Inst.)
+Kazimier,Sobieski,32,5,6,11,18,-21,RPI (Rensselaer Polytech. Inst.)
+Ethan,Bono,32,4,6,10,8,-9,RPI (Rensselaer Polytech. Inst.)
+Alfred,Lindberg,29,2,7,9,2,-11,RPI (Rensselaer Polytech. Inst.)
+Ian,Scherzer,25,3,4,7,8,-7,RPI (Rensselaer Polytech. Inst.)
+Trevor,Russell,29,3,2,5,18,2,RPI (Rensselaer Polytech. Inst.)
+James,Goffredo,22,1,4,5,27,-6,RPI (Rensselaer Polytech. Inst.)
+Mathieu,Bourgault,13,2,2,4,10,5,RPI (Rensselaer Polytech. Inst.)
+Gunnar,VanDamme,30,0,4,4,14,-17,RPI (Rensselaer Polytech. Inst.)
+Gustavs,Ozolins,31,1,2,3,4,-10,RPI (Rensselaer Polytech. Inst.)
+Cole,Gordon,31,1,2,3,27,-2,RPI (Rensselaer Polytech. Inst.)
+Jack,Gorton,12,2,0,2,2,-1,RPI (Rensselaer Polytech. Inst.)
+Lucas,Lemieux,20,1,1,2,4,1,RPI (Rensselaer Polytech. Inst.)
+Jackson,Kyrkostas,12,0,2,2,2,-2,RPI (Rensselaer Polytech. Inst.)
+Brad,McNeil,21,1,0,1,6,-10,RPI (Rensselaer Polytech. Inst.)
+Matthew,Jovanovic,2,0,0,0,0,0,RPI (Rensselaer Polytech. Inst.)
+Lucas,Matta,2,0,0,0,0,-1,RPI (Rensselaer Polytech. Inst.)
+Landen,Hilditch,14,0,0,0,8,-3,RPI (Rensselaer Polytech. Inst.)
+Félix,Trudeau,31,22,13,35,75,9,Sacred Heart Univ.
+Mikey,Adamson,32,4,24,28,18,-7,Sacred Heart Univ.
+Marcus,Joughin,32,4,22,26,36,6,Sacred Heart Univ.
+Reid,Pabich,32,10,13,23,14,-1,Sacred Heart Univ.
+Ray,Fust,31,8,10,18,4,4,Sacred Heart Univ.
+Stéphane,Huard,27,5,11,16,36,-1,Sacred Heart Univ.
+Noah,Ellis,32,8,7,15,12,0,Sacred Heart Univ.
+Gavin,Bryant,26,7,7,14,8,0,Sacred Heart Univ.
+Aiden,VanRooyan,31,3,10,13,22,5,Sacred Heart Univ.
+Vitaly,Levyy,31,4,7,11,4,3,Sacred Heart Univ.
+John,Driscoll,32,3,7,10,10,1,Sacred Heart Univ.
+Ethan,Wolthers,30,4,5,9,10,0,Sacred Heart Univ.
+Joshua,Barnes,21,3,3,6,2,-3,Sacred Heart Univ.
+Cole,Galata,28,3,3,6,10,2,Sacred Heart Univ.
+Jake,Bongo,29,1,4,5,2,-2,Sacred Heart Univ.
+Michael,Rubin,29,1,3,4,12,-2,Sacred Heart Univ.
+Charles-Edward,Tardif,17,0,4,4,29,0,Sacred Heart Univ.
+Noah,Van Vliet,13,0,3,3,10,4,Sacred Heart Univ.
+Jacob,Hewitt,19,0,3,3,12,-4,Sacred Heart Univ.
+Jérémi,Tremblay,19,0,3,3,14,-1,Sacred Heart Univ.
+Jack,Hillier,15,0,2,2,6,-3,Sacred Heart Univ.
+Paul,Minnehan,4,1,0,1,4,1,Sacred Heart Univ.
+Liam,Lesakowski,26,1,0,1,25,1,Sacred Heart Univ.
+David,Brandes,6,0,1,1,0,4,Sacred Heart Univ.
+Luke,Amell,4,0,0,0,0,0,Sacred Heart Univ.
+Chase,Ramsay,12,0,0,0,2,0,Sacred Heart Univ.
+Tyson,Gross,34,18,23,41,26,-3,St. Cloud State Univ.
+Austin,Burnevik,34,19,18,37,6,-4,St. Cloud State Univ.
+Barrett,Hall,34,10,18,28,20,-5,St. Cloud State Univ.
+Gavyn,Thoreson,34,10,8,18,20,-5,St. Cloud State Univ.
+Max,Smolinski,34,6,12,18,6,-10,St. Cloud State Univ.
+Noah,Urness,34,7,9,16,16,-1,St. Cloud State Univ.
+Finn,Loftus,34,4,12,16,6,7,St. Cloud State Univ.
+Nolan,Roed,34,3,12,15,32,-3,St. Cloud State Univ.
+Adam,Ingram,23,3,10,13,8,-3,St. Cloud State Univ.
+Cooper,Wylie,34,3,10,13,12,-7,St. Cloud State Univ.
+Verner,Miettinen,25,4,8,12,12,-5,St. Cloud State Univ.
+Grant,Ahcan,34,4,5,9,8,-1,St. Cloud State Univ.
+Jack,Reimann,33,2,6,8,18,3,St. Cloud State Univ.
+Mason,Reiners,34,2,6,8,17,9,St. Cloud State Univ.
+Josh,Zinger,34,1,6,7,6,-4,St. Cloud State Univ.
+Tanner,Henricks,12,3,3,6,15,-2,St. Cloud State Univ.
+Ryan,Rosborough,32,2,4,6,2,3,St. Cloud State Univ.
+Thor,Byfuglien,30,1,4,5,0,-4,St. Cloud State Univ.
+Daimon,Gardner,26,2,2,4,19,-1,St. Cloud State Univ.
+Ethan,Aucoin,13,1,2,3,0,1,St. Cloud State Univ.
+Joe,Belisle,17,1,2,3,8,-3,St. Cloud State Univ.
+Aiden,Welch,7,1,0,1,0,0,St. Cloud State Univ.
+Jack,Rogers,15,1,0,1,8,-2,St. Cloud State Univ.
+Dana,Wallace,1,0,0,0,0,0,St. Cloud State Univ.
+Kaleb,Tiessen,5,0,0,0,0,1,St. Cloud State Univ.
+Tyler,Cristall,31,10,20,30,10,-9,St. Lawrence Univ.
+Rasmus,Svartström,31,15,7,22,26,-18,St. Lawrence Univ.
+Cayden,Casey,32,4,18,22,14,-14,St. Lawrence Univ.
+Cooper,Pierson,31,4,14,18,6,-19,St. Lawrence Univ.
+Filip,Juříček,32,9,8,17,16,-17,St. Lawrence Univ.
+Sam,LeDrew,29,8,8,16,10,-12,St. Lawrence Univ.
+Isaac,Tremblay,30,7,8,15,12,-10,St. Lawrence Univ.
+Gabriel,Westling,32,2,8,10,29,-6,St. Lawrence Univ.
+Nicholas,Beneteau,30,5,4,9,6,-16,St. Lawrence Univ.
+Gunnar,Thoreson,30,4,5,9,8,-14,St. Lawrence Univ.
+Sam,Frandina,28,2,5,7,10,-16,St. Lawrence Univ.
+Luke,Santilli,32,2,5,7,44,-12,St. Lawrence Univ.
+Andrew,Brown,31,0,7,7,18,-13,St. Lawrence Univ.
+Frankie,Carogioiello,32,1,4,5,22,-10,St. Lawrence Univ.
+Jack,Babbage,19,0,5,5,2,-5,St. Lawrence Univ.
+Jan,Olenginski,29,1,3,4,14,-9,St. Lawrence Univ.
+Isack,Bandu,29,3,0,3,65,-4,St. Lawrence Univ.
+Jake,Lammens,28,1,2,3,6,-5,St. Lawrence Univ.
+Evan,Orloff,3,0,1,1,0,-1,St. Lawrence Univ.
+Jake,Bernadet,18,0,1,1,2,-4,St. Lawrence Univ.
+Sam,Hall,4,0,0,0,12,-1,St. Lawrence Univ.
+Spencer,Bell,5,0,0,0,8,-2,St. Lawrence Univ.
+Jan,Lasak,6,0,0,0,0,-1,St. Lawrence Univ.
+Evan,Mitchell,9,0,0,0,2,-2,St. Lawrence Univ.
+Teddy,Mallgrave,11,0,0,0,4,-4,St. Lawrence Univ.
+Jakub,Kopecký,17,0,0,0,21,-8,St. Lawrence Univ.
+Matthew,Romer,32,14,5,19,10,-16,Stonehill College
+Evan,Orr,32,5,13,18,8,-13,Stonehill College
+Anthony,Galante,23,5,11,16,12,-2,Stonehill College
+Billy,Renfrew,32,2,14,16,8,-5,Stonehill College
+Cole,Melady,31,6,9,15,12,-4,Stonehill College
+Justin,Mexico,28,5,10,15,8,-5,Stonehill College
+Joseph,Grainda,32,10,4,14,16,-8,Stonehill College
+Patrick,Murphy,32,6,7,13,16,-12,Stonehill College
+Joel,Lehtinen,31,5,8,13,22,-17,Stonehill College
+Teddy,Lagerback,28,4,9,13,14,-4,Stonehill College
+Charlie,Banquier,32,3,8,11,22,-14,Stonehill College
+Frank,Ireland,26,2,7,9,6,-1,Stonehill College
+Justin,Gibson,26,3,5,8,4,-4,Stonehill College
+Leo,Chambers,27,1,7,8,2,0,Stonehill College
+David,Posma,30,1,6,7,22,-1,Stonehill College
+Matthew,Rafalski,30,1,6,7,25,0,Stonehill College
+Brady,Hunter,26,2,4,6,2,0,Stonehill College
+Dominick,Campione,30,1,4,5,8,-1,Stonehill College
+Zach,Nicolas,19,1,3,4,0,-3,Stonehill College
+Zachary,Aben,8,0,2,2,4,-2,Stonehill College
+Jake,Gutwirth,19,1,0,1,6,-6,Stonehill College
+Ryan,Davies,3,0,0,0,0,-1,Stonehill College
+Adam,Mahler,3,0,0,0,2,-1,Stonehill College
+Jordin,Palmer,8,0,0,0,2,-3,Stonehill College
+Devon,Carlstrom,23,0,0,0,4,-10,Stonehill College
+Dillan,Bentley,30,13,9,22,6,-9,UMass-Lowell
+Jak,Vaarwerk,32,6,12,18,21,3,UMass-Lowell
+Dalyn,Wakely,32,6,12,18,34,-13,UMass-Lowell
+Jason,Ahearn,32,11,6,17,14,-8,UMass-Lowell
+Chris,Delaney,32,3,13,16,6,0,UMass-Lowell
+T.J.,Schweighardt,32,4,11,15,4,-6,UMass-Lowell
+Lee,Parks,32,5,8,13,12,-7,UMass-Lowell
+Mirko,Buttazzoni,23,4,9,13,22,-9,UMass-Lowell
+Libor,Nemec,32,3,10,13,50,-11,UMass-Lowell
+Josh,Mori,32,4,8,12,22,-1,UMass-Lowell
+Luke,Shipley,32,2,10,12,35,-15,UMass-Lowell
+Diego,Buttazzoni,26,5,6,11,45,-16,UMass-Lowell
+Nate,Misskey,32,4,4,8,12,-9,UMass-Lowell
+Sean,Kilcullen,31,3,5,8,4,-2,UMass-Lowell
+Connor,Eddy,29,3,4,7,44,4,UMass-Lowell
+Dominic,Payne,32,1,6,7,6,-5,UMass-Lowell
+David,Adaszynski,25,1,3,4,2,-5,UMass-Lowell
+Tnias,Mathurin,9,1,1,2,4,-1,UMass-Lowell
+Dominick,Rivelli,17,1,1,2,2,2,UMass-Lowell
+Jaiden,Moriello,9,1,0,1,4,-4,UMass-Lowell
+Cole,Lonsdale,16,0,1,1,6,-4,UMass-Lowell
+Daniel,Buchbinder,1,0,0,0,0,0,UMass-Lowell
+James,Johnson,4,0,0,0,2,0,UMass-Lowell
+Ryan,Kroll,7,0,0,0,6,0,UMass-Lowell
+August,Classon,8,0,0,0,0,-2,UMass-Lowell
+Jacob,MacDonald,8,0,0,0,6,-1,UMass-Lowell
+Jack,Collins,13,0,0,0,2,-4,UMass-Lowell
+Ben,Muthersbaugh,31,15,15,30,27,-2,Union College
+Tyler,Dunbar,32,12,17,29,35,12,Union College
+Parker,Lindauer,32,7,22,29,14,6,Union College
+Brandon,Buhr,30,17,11,28,10,-4,Union College
+Lucas,Buzziol,32,12,11,23,14,10,Union College
+Colby,MacArthur,30,9,13,22,10,6,Union College
+Nate,Hanley,31,6,13,19,4,-10,Union College
+Étienne,Lessard,32,3,16,19,28,5,Union College
+Alex,Laurenza,27,4,14,18,16,-6,Union College
+Riley,Brueck,31,8,6,14,4,13,Union College
+Will,Felicio,29,2,11,13,10,3,Union College
+Connor,Smith,29,7,5,12,0,4,Union College
+Drew,Sutton,28,3,7,10,0,8,Union College
+Carter,Rose,32,2,7,9,20,-2,Union College
+Troy,Pelton,21,2,5,7,4,0,Union College
+D.J.,Hart,21,1,4,5,22,5,Union College
+Cal,Mell,27,0,5,5,2,1,Union College
+Jacob,Jeannette,13,3,1,4,8,3,Union College
+Nick,Young,32,1,3,4,26,5,Union College
+Carter,Korpi,17,3,0,3,8,1,Union College
+Luke,Buss,15,1,1,2,6,3,Union College
+Brendan,Miles,9,1,0,1,0,-4,Union College
+Olivier,Chessler,10,0,1,1,2,3,Union College
+Ethan,Benz,17,0,1,1,0,0,Union College
+Karter,McNarland,29,4,15,19,6,-11,Univ. of Alaska-Anchorage
+Ryan,Johnson,29,3,11,14,24,-21,Univ. of Alaska-Anchorage
+Tye,Spencer,28,7,4,11,6,-20,Univ. of Alaska-Anchorage
+Joey,Potter,28,4,6,10,33,-22,Univ. of Alaska-Anchorage
+Judah,Makway,29,3,6,9,37,-18,Univ. of Alaska-Anchorage
+Logan,Acheson,29,1,8,9,4,-8,Univ. of Alaska-Anchorage
+Aiden,Westin,29,6,1,7,12,-7,Univ. of Alaska-Anchorage
+Conor,Cole,16,3,4,7,10,-11,Univ. of Alaska-Anchorage
+Oren,Shtrom,28,3,4,7,29,-20,Univ. of Alaska-Anchorage
+Dimitry,Kebreau,15,2,5,7,2,-7,Univ. of Alaska-Anchorage
+Dylan,Contreras,24,3,3,6,0,-5,Univ. of Alaska-Anchorage
+Jacob,Terpstra,15,3,2,5,6,-6,Univ. of Alaska-Anchorage
+Camden,Shasby,27,2,3,5,8,-21,Univ. of Alaska-Anchorage
+Aaron,Reierson,15,1,4,5,10,-9,Univ. of Alaska-Anchorage
+Adam,Parsons,22,1,3,4,0,-5,Univ. of Alaska-Anchorage
+David,Jesus,29,1,3,4,18,-15,Univ. of Alaska-Anchorage
+John-Paul,Steele,29,0,4,4,20,-12,Univ. of Alaska-Anchorage
+Ethan,Warrener,24,3,0,3,8,-14,Univ. of Alaska-Anchorage
+Tanyon,Bajzer,20,0,3,3,0,-9,Univ. of Alaska-Anchorage
+Luke,Johnson,16,2,0,2,6,-9,Univ. of Alaska-Anchorage
+Nolan,Gagnon,16,0,2,2,4,-5,Univ. of Alaska-Anchorage
+Pavol,Funtek,17,0,2,2,4,-13,Univ. of Alaska-Anchorage
+Ben,Anderson,13,1,0,1,23,-2,Univ. of Alaska-Anchorage
+Luke,Helgeson,3,0,0,0,0,-1,Univ. of Alaska-Anchorage
+Brandon,Lajoie,6,0,0,0,0,-2,Univ. of Alaska-Anchorage
+Henry,Bartle,7,0,0,0,6,-4,Univ. of Alaska-Anchorage
+Bryce,Monrean,12,0,0,0,8,-4,Univ. of Alaska-Anchorage
+Michael,Citara,29,13,10,23,18,-6,Univ. of Alaska-Fairbanks
+Rylen,Roersma,27,9,12,21,32,3,Univ. of Alaska-Fairbanks
+Chase,Dafoe,29,11,7,18,22,-7,Univ. of Alaska-Fairbanks
+Peyton,Platter,29,6,12,18,36,-6,Univ. of Alaska-Fairbanks
+Braden,Birnie,29,6,9,15,18,-1,Univ. of Alaska-Fairbanks
+Nathan,Rickey,29,3,12,15,2,3,Univ. of Alaska-Fairbanks
+Alexander,Malinowski,24,8,6,14,6,6,Univ. of Alaska-Fairbanks
+Jhett,Larson,28,5,6,11,16,8,Univ. of Alaska-Fairbanks
+Tommy,Cronin,14,4,6,10,8,4,Univ. of Alaska-Fairbanks
+Mykhailo,Danylov,24,3,6,9,6,-6,Univ. of Alaska-Fairbanks
+Carson,Reed,28,2,6,8,4,-1,Univ. of Alaska-Fairbanks
+Jackson,Anderson,28,2,6,8,12,-3,Univ. of Alaska-Fairbanks
+Dean,Spak,21,1,6,7,20,4,Univ. of Alaska-Fairbanks
+Cade,Ahrenholz,15,2,4,6,6,3,Univ. of Alaska-Fairbanks
+Davis,Borozinskis,27,2,4,6,10,-1,Univ. of Alaska-Fairbanks
+Hugo,Marcil,14,0,6,6,6,7,Univ. of Alaska-Fairbanks
+Adam,Cardona,27,0,6,6,26,-2,Univ. of Alaska-Fairbanks
+William,Fleet,20,2,3,5,29,-4,Univ. of Alaska-Fairbanks
+Caelum,Dick,15,0,4,4,6,0,Univ. of Alaska-Fairbanks
+Noah,Barlage,27,0,4,4,4,4,Univ. of Alaska-Fairbanks
+Lucas,Sorace,7,0,2,2,0,3,Univ. of Alaska-Fairbanks
+Beau,Courtney,7,1,0,1,2,-2,Univ. of Alaska-Fairbanks
+Haden,Kruse,14,1,0,1,4,-6,Univ. of Alaska-Fairbanks
+Kyle,Miller,4,0,1,1,4,-2,Univ. of Alaska-Fairbanks
+Dylan,Sydor,10,0,1,1,6,-2,Univ. of Alaska-Fairbanks
+Trenton,Penner,5,0,0,0,16,0,Univ. of Alaska-Fairbanks
+Fyodor,Nikolayenya,8,0,0,0,4,-2,Univ. of Alaska-Fairbanks
+William,Lawson-Body,13,0,0,0,0,-3,Univ. of Alaska-Fairbanks
+Ryan,Tattle,30,11,16,27,32,10,Univ. of Connecticut
+Joey,Muldowney,26,15,9,24,25,13,Univ. of Connecticut
+Jake,Richard,30,8,16,24,32,6,Univ. of Connecticut
+Kaden,Shahan,30,9,10,19,0,6,Univ. of Connecticut
+Mike,Murtagh,30,6,12,18,12,8,Univ. of Connecticut
+Alexandre,Blais,30,6,12,18,18,7,Univ. of Connecticut
+Ethan,Gardula,30,9,7,16,4,6,Univ. of Connecticut
+Tabor,Heaslip,30,6,10,16,10,8,Univ. of Connecticut
+Carlin,Dezainde,29,8,7,15,18,9,Univ. of Connecticut
+Ethan,Whitcomb,30,4,9,13,14,4,Univ. of Connecticut
+Trey,Scott,22,0,11,11,4,3,Univ. of Connecticut
+Jake,Percival,30,6,4,10,6,1,Univ. of Connecticut
+Tristan,Fraser,30,3,6,9,12,2,Univ. of Connecticut
+Kai,Janviriya,30,0,8,8,8,18,Univ. of Connecticut
+Viking,Gustafsson Nyberg,30,0,8,8,18,16,Univ. of Connecticut
+Thomas,Messineo,30,2,5,7,8,14,Univ. of Connecticut
+Anthony,Allain-Samaké,30,0,6,6,6,0,Univ. of Connecticut
+Brendan,Dunphy,29,2,3,5,14,8,Univ. of Connecticut
+Kevin,Fitzgerald,13,1,2,3,2,-2,Univ. of Connecticut
+Joseph,Odyniec,2,0,1,1,0,2,Univ. of Connecticut
+Huston,Karpman,12,0,0,0,10,-2,Univ. of Connecticut
+Owen,Simpson,17,0,0,0,6,2,Univ. of Connecticut
+Eric,Pohlkamp,33,16,15,31,29,17,Univ. of Denver
+Rieger,Lorenz,33,13,12,25,32,16,Univ. of Denver
+Sam,Harris,33,11,14,25,41,11,Univ. of Denver
+James,Reeder,33,8,16,24,4,10,Univ. of Denver
+Boston,Buckberger,33,8,16,24,14,21,Univ. of Denver
+Clarke,Caswell,33,4,19,23,6,4,Univ. of Denver
+Samu,Salminen,33,5,16,21,21,14,Univ. of Denver
+Kyle,Chyzowski,33,8,11,19,9,-3,Univ. of Denver
+Kristian,Epperson,33,9,7,16,14,4,Univ. of Denver
+Jake,Fisher,33,6,10,16,4,7,Univ. of Denver
+Eric,Jamieson,33,6,9,15,41,8,Univ. of Denver
+Hagen,Burrows,33,5,9,14,16,7,Univ. of Denver
+Kieran,Cebrian,33,3,9,12,34,14,Univ. of Denver
+Garrett,Brown,28,2,7,9,10,3,Univ. of Denver
+Reid,Varkonyi,33,2,6,8,4,4,Univ. of Denver
+Brendan,McMorrow,17,2,5,7,4,6,Univ. of Denver
+Cale,Ashcroft,33,2,5,7,8,8,Univ. of Denver
+Brady,Milburn,33,1,4,5,10,-2,Univ. of Denver
+Kent,Anderson,33,1,2,3,8,5,Univ. of Denver
+Payton,Nelson,9,1,0,1,0,0,Univ. of Denver
+Tory,Pitner,6,0,1,1,5,2,Univ. of Denver
+Alec,Whipple,5,0,0,0,0,0,Univ. of Denver
+Justin,Poirier,27,18,11,29,12,3,Univ. of Maine
+Brandon,Holt,31,5,24,29,6,15,Univ. of Maine
+Josh,Nadeau,26,15,10,25,8,3,Univ. of Maine
+Miguel,Marques,29,9,11,20,14,12,Univ. of Maine
+Owen,Fowler,30,9,10,19,26,15,Univ. of Maine
+Max,Scott,28,5,13,18,16,7,Univ. of Maine
+Sully,Scholle,31,6,9,15,24,11,Univ. of Maine
+Charlie,Russell,31,6,9,15,32,4,Univ. of Maine
+Thomas,Pichette,29,5,8,13,6,2,Univ. of Maine
+Thomas,Freel,30,4,9,13,6,3,Univ. of Maine
+Lukas,Peterson,30,3,9,12,6,14,Univ. of Maine
+Frank,Djurasevic,30,3,9,12,18,5,Univ. of Maine
+Brandon,Chabrier,29,0,12,12,23,8,Univ. of Maine
+Jaden,Lipinski,27,3,8,11,31,4,Univ. of Maine
+Jérémy,Langlois,26,2,7,9,22,12,Univ. of Maine
+Will,Gerrior,31,5,3,8,4,1,Univ. of Maine
+Oskar,Komarov,28,4,2,6,15,-1,Univ. of Maine
+Loic,Usereau,26,2,4,6,6,-1,Univ. of Maine
+Brock,James,13,1,2,3,2,0,Univ. of Maine
+Nick,Peluso,8,0,2,2,2,2,Univ. of Maine
+Luke,Coughlin,10,0,2,2,0,0,Univ. of Maine
+Simon,Motew,10,0,2,2,4,-1,Univ. of Maine
+Grayson,Arnott,8,1,0,1,2,0,Univ. of Maine
+Bodie,Nobes,13,0,1,1,17,-3,Univ. of Maine
+Anthony,Calafiore,9,0,0,0,4,-3,Univ. of Maine
+Jack,Musa,28,14,17,31,8,9,Univ. of Massachusetts
+Vaclav,Nestrasil,28,11,13,24,8,1,Univ. of Massachusetts
+Jack,Galanek,30,4,17,21,18,3,Univ. of Massachusetts
+Francesco,Dell'Elce,30,4,16,20,14,10,Univ. of Massachusetts
+Larry,Keenan,30,6,9,15,10,5,Univ. of Massachusetts
+Lukas,Klecka,30,8,5,13,10,-6,Univ. of Massachusetts
+Daniel,Alexander Jencko,29,4,9,13,4,-3,Univ. of Massachusetts
+Lucas,Ölvestad,30,4,9,13,14,1,Univ. of Massachusetts
+Cameron,O'Neill,25,3,9,12,8,3,Univ. of Massachusetts
+Michael,DeAngelo,27,6,4,10,6,1,Univ. of Massachusetts
+Nicholas,Van Tassell,20,2,8,10,10,-6,Univ. of Massachusetts
+Justin,Kerr,23,5,3,8,14,1,Univ. of Massachusetts
+Owen,Mehlenbacher,26,3,4,7,6,3,Univ. of Massachusetts
+Owen,Murray,28,2,5,7,16,5,Univ. of Massachusetts
+Bo,Cosman,19,3,3,6,10,2,Univ. of Massachusetts
+Cameron,Dunn,16,2,1,3,2,3,Univ. of Massachusetts
+James,Duerr,13,1,2,3,2,-3,Univ. of Massachusetts
+Landon,Nycz,30,1,2,3,2,-3,Univ. of Massachusetts
+Matthew,Wilde,19,0,3,3,4,1,Univ. of Massachusetts
+Charlie,Lieberman,22,0,3,3,2,-3,Univ. of Massachusetts
+Coleson,Hanrahan,24,0,1,1,2,5,Univ. of Massachusetts
+Kennedy,O'Connor,3,0,0,0,0,0,Univ. of Massachusetts
+Elias,Zimmerman,17,0,0,0,2,-1,Univ. of Massachusetts
+A.J.,Lacroix,19,0,0,0,0,0,Univ. of Massachusetts
+T.J.,Hughes,33,17,28,45,20,9,Univ. of Michigan
+Michael,Hage,33,12,32,44,12,11,Univ. of Michigan
+William,Horcoff,33,22,12,34,56,9,Univ. of Michigan
+Jayden,Perron,33,13,19,32,4,13,Univ. of Michigan
+Nicholas,Moldenhauer,33,13,13,26,14,22,Univ. of Michigan
+Adam,Valentini,33,10,15,25,44,4,Univ. of Michigan
+Garrett,Schifsky,33,10,9,19,50,13,Univ. of Michigan
+Ben,Robertson,33,0,19,19,16,17,Univ. of Michigan
+Malcolm,Spence,33,8,9,17,40,14,Univ. of Michigan
+Joshua,Eernisse,31,9,7,16,37,14,Univ. of Michigan
+Dakoda,Rhéaume-Mullen,33,4,12,16,18,10,Univ. of Michigan
+Aidan,Park,33,8,7,15,28,12,Univ. of Michigan
+Cole,McKinney,33,6,9,15,26,1,Univ. of Michigan
+Asher,Barnett,33,4,11,15,12,22,Univ. of Michigan
+Tyler,Duke,33,1,14,15,57,22,Univ. of Michigan
+Kienan,Draper,33,4,10,14,38,17,Univ. of Michigan
+Luca,Fantilli,33,3,11,14,12,25,Univ. of Michigan
+Drew,Schock,31,1,8,9,22,4,Univ. of Michigan
+Henry,Mews,10,0,9,9,6,5,Univ. of Michigan
+Kason,Muscutt,11,1,0,1,4,-2,Univ. of Michigan
+Matthew,Mania,14,1,0,1,18,3,Univ. of Michigan
+Teddy,Spitznagel,0,0,0,0,0,,Univ. of Michigan
+Hunter,Hady,1,0,0,0,0,0,Univ. of Michigan
+Brodie,Ziemer,32,22,12,34,24,-6,Univ. of Minnesota
+Brody,Lamb,32,14,16,30,10,-2,Univ. of Minnesota
+L.J.,Mooney,30,7,21,28,33,-7,Univ. of Minnesota
+Luke,Mittelstadt,32,2,19,21,16,-3,Univ. of Minnesota
+Javon,Moore,32,6,12,18,4,-1,Univ. of Minnesota
+Beckett,Hendrickson,32,5,12,17,18,6,Univ. of Minnesota
+Jimmy,Clark,32,4,10,14,2,-1,Univ. of Minnesota
+Tanner,Ludtke,27,5,7,12,32,-7,Univ. of Minnesota
+Erik,Påhlsson,28,5,6,11,4,-8,Univ. of Minnesota
+Mason,Moe,29,5,5,10,4,4,Univ. of Minnesota
+Tate,Pritchard,30,4,5,9,28,-11,Univ. of Minnesota
+Leo,Gruba,29,2,4,6,14,-2,Univ. of Minnesota
+Cal,Thomas,27,1,4,5,6,-8,Univ. of Minnesota
+Teddy,Townsend,22,3,1,4,6,-6,Univ. of Minnesota
+John,Mittelstadt,32,1,3,4,5,-8,Univ. of Minnesota
+Jacob,Rombach,32,0,3,3,12,2,Univ. of Minnesota
+Max,Rud,21,1,1,2,0,-2,Univ. of Minnesota
+John,Whipple,32,1,1,2,14,-1,Univ. of Minnesota
+Axel,Begley,23,1,0,1,0,-1,Univ. of Minnesota
+August,Falloon,16,0,1,1,10,-9,Univ. of Minnesota
+Finn,McLaughlin,29,0,1,1,6,-11,Univ. of Minnesota
+Graham,Harris,9,0,0,0,2,0,Univ. of Minnesota
+Max,Plante,32,22,22,44,17,15,Univ. of Minnesota-Duluth
+Zam,Plante,32,14,25,39,2,12,Univ. of Minnesota-Duluth
+Jayson,Shaugabay,32,10,29,39,18,13,Univ. of Minnesota-Duluth
+Ty,Hanson,32,8,21,29,14,14,Univ. of Minnesota-Duluth
+Callum,Arnott,32,11,14,25,6,-2,Univ. of Minnesota-Duluth
+Hunter,Anderson,28,5,11,16,18,1,Univ. of Minnesota-Duluth
+Scout,Truman,31,12,3,15,8,-1,Univ. of Minnesota-Duluth
+Grayden,Siepmann,29,5,10,15,2,-2,Univ. of Minnesota-Duluth
+Kyle,Gaffney,32,2,9,11,14,-2,Univ. of Minnesota-Duluth
+Daniel,Shlaine,30,5,5,10,8,3,Univ. of Minnesota-Duluth
+Aaron,Pionk,32,1,9,10,6,-7,Univ. of Minnesota-Duluth
+Adam,Kleber,32,2,7,9,17,12,Univ. of Minnesota-Duluth
+Ryan,Zaremba,23,1,7,8,12,-1,Univ. of Minnesota-Duluth
+Harper,Bentz,19,4,0,4,2,-5,Univ. of Minnesota-Duluth
+Joseph,Pierce,32,3,1,4,10,-6,Univ. of Minnesota-Duluth
+Blake,Bechen,25,0,4,4,20,-5,Univ. of Minnesota-Duluth
+Brady,Cleveland,31,0,2,2,45,5,Univ. of Minnesota-Duluth
+Braden,Fischer,8,1,0,1,0,-6,Univ. of Minnesota-Duluth
+Kyler,Kovich,32,1,0,1,21,-7,Univ. of Minnesota-Duluth
+Trevor,Stachowiak,3,0,1,1,0,-3,Univ. of Minnesota-Duluth
+Jacob,Toll,11,0,0,0,4,-5,Univ. of Minnesota-Duluth
+Riley,Bodnarchuk,25,0,0,0,4,-2,Univ. of Minnesota-Duluth
+Luke,Bibby,25,0,0,0,10,-7,Univ. of Minnesota-Duluth
+Trevor,Wong,30,5,14,19,4,-8,Univ. of Nebraska-Omaha
+Maxime,Pellerin,31,8,10,18,14,-6,Univ. of Nebraska-Omaha
+Luke,Woodworth,32,4,14,18,12,-10,Univ. of Nebraska-Omaha
+Jérémy,Loranger,24,7,9,16,8,-9,Univ. of Nebraska-Omaha
+Griffin,Ludtke,32,0,16,16,20,5,Univ. of Nebraska-Omaha
+Marcus,Nguyen,31,10,5,15,30,-4,Univ. of Nebraska-Omaha
+Brett,Hyland,28,7,8,15,54,-4,Univ. of Nebraska-Omaha
+Samuel,Huo,26,6,7,13,25,-5,Univ. of Nebraska-Omaha
+Marc,Lajoie,32,6,7,13,24,-10,Univ. of Nebraska-Omaha
+Sean,Tschigerl,31,5,8,13,42,-1,Univ. of Nebraska-Omaha
+Aidan,De La Gorgendiere,29,3,9,12,14,-11,Univ. of Nebraska-Omaha
+Tyler,Rollwagen,32,6,5,11,6,-10,Univ. of Nebraska-Omaha
+Spencer,Sova,31,2,7,9,23,-8,Univ. of Nebraska-Omaha
+Myles,Hilman,32,4,3,7,8,-5,Univ. of Nebraska-Omaha
+Jacob,Guévin,28,2,5,7,10,-6,Univ. of Nebraska-Omaha
+Marcus,Broberg,32,1,5,6,6,-8,Univ. of Nebraska-Omaha
+Jacob,Slipec,29,3,2,5,10,-5,Univ. of Nebraska-Omaha
+Cameron,Briere,19,2,3,5,2,-2,Univ. of Nebraska-Omaha
+Cam,Mitchell,30,1,3,4,18,-16,Univ. of Nebraska-Omaha
+Joel,Plante,24,1,1,2,34,-6,Univ. of Nebraska-Omaha
+Ryan,McCleary,8,1,0,1,4,-1,Univ. of Nebraska-Omaha
+Chase,LaPinta,3,0,1,1,2,0,Univ. of Nebraska-Omaha
+Joe,Gramer,13,0,1,1,6,-4,Univ. of Nebraska-Omaha
+Hunter,McInnes,1,0,0,0,0,-1,Univ. of Nebraska-Omaha
+Morgan,Winters,28,11,11,22,25,-7,Univ. of New Hampshire
+Nick,Ring,30,8,12,20,8,-6,Univ. of New Hampshire
+Brendan,Fitzgerald,30,1,13,14,10,-8,Univ. of New Hampshire
+Jacob,Newcombe,30,7,6,13,8,-11,Univ. of New Hampshire
+Cy,LeClerc,29,4,9,13,6,-10,Univ. of New Hampshire
+Cameron,MacDonald,28,6,5,11,25,-7,Univ. of New Hampshire
+Félix,Gagnon,27,5,6,11,14,-5,Univ. of New Hampshire
+Ryan,Philbrick,30,4,4,8,8,0,Univ. of New Hampshire
+Sam,Oliver,27,2,6,8,8,-13,Univ. of New Hampshire
+Conner,de Haro,28,0,8,8,6,-5,Univ. of New Hampshire
+Martins,Lavins,17,3,3,6,4,0,Univ. of New Hampshire
+Kristaps,Skrastins,29,2,4,6,10,-5,Univ. of New Hampshire
+Alex,Carr,30,0,5,5,20,-6,Univ. of New Hampshire
+J.P.,Turner,30,3,1,4,12,-9,Univ. of New Hampshire
+Ryan,MacPherson,25,2,1,3,8,-2,Univ. of New Hampshire
+Nicholas,De Angelis,25,0,3,3,2,-8,Univ. of New Hampshire
+Jason,Siedem,28,0,3,3,4,-7,Univ. of New Hampshire
+Josh,Player,22,1,1,2,2,-6,Univ. of New Hampshire
+Oscar,Plandowski,28,0,2,2,12,-11,Univ. of New Hampshire
+Jack,Cronin,8,0,1,1,2,-3,Univ. of New Hampshire
+Connor,DeTurris,21,0,1,1,2,-6,Univ. of New Hampshire
+Zach,Hahn,3,0,0,0,0,0,Univ. of New Hampshire
+Reid,Conn,6,0,0,0,9,-1,Univ. of New Hampshire
+Ronan,Walsh,12,0,0,0,12,0,Univ. of New Hampshire
+Ellis,Rickwood,27,8,23,31,17,13,Univ. of North Dakota
+Ben,Strinden,32,14,16,30,8,13,Univ. of North Dakota
+Cole,Reschny,28,4,24,28,14,9,Univ. of North Dakota
+Dylan,James,32,17,10,27,8,14,Univ. of North Dakota
+Will,Zellers,31,16,10,26,12,2,Univ. of North Dakota
+Abram,Wiebe,32,5,20,25,6,9,Univ. of North Dakota
+Jake,Livanavage,32,5,19,24,10,16,Univ. of North Dakota
+Mac,Swanson,32,7,15,22,2,3,Univ. of North Dakota
+Keaton,Verhoeff,28,6,12,18,27,7,Univ. of North Dakota
+Jack,Kernan,29,8,6,14,12,7,Univ. of North Dakota
+Ollie,Josephson,32,4,10,14,10,9,Univ. of North Dakota
+Cade,Littler,29,4,7,11,26,4,Univ. of North Dakota
+Cody,Croal,27,7,3,10,14,14,Univ. of North Dakota
+Anthony,Menghini,30,5,5,10,8,7,Univ. of North Dakota
+Tyler,Young,24,4,5,9,2,2,Univ. of North Dakota
+EJ,Emery,30,3,5,8,30,14,Univ. of North Dakota
+Sam,Laurila,28,0,8,8,23,6,Univ. of North Dakota
+David,Klee,20,2,3,5,14,3,Univ. of North Dakota
+Andrew,Strathmann,30,1,4,5,46,8,Univ. of North Dakota
+Joshua,Zakreski,8,2,2,4,6,2,Univ. of North Dakota
+Bennett,Zmolek,26,1,2,3,28,14,Univ. of North Dakota
+Jayden,Jubenvill,14,0,2,2,18,4,Univ. of North Dakota
+Ian,Engel,2,0,0,0,0,0,Univ. of North Dakota
+Dalton,Andrew,3,0,0,0,2,0,Univ. of North Dakota
+Evan,Werner,32,15,13,28,12,-14,Univ. of Notre Dame
+Sutter,Muzzatti,32,11,16,27,40,-19,Univ. of Notre Dame
+Cole,Knuble,31,7,18,25,28,-20,Univ. of Notre Dame
+Danny,Nelson,31,11,13,24,30,-14,Univ. of Notre Dame
+Cole,Brown,30,6,13,19,75,-9,Univ. of Notre Dame
+Paul,Fischer,28,5,14,19,39,-18,Univ. of Notre Dame
+Axel,Kumlin,32,2,13,15,29,-18,Univ. of Notre Dame
+Pano,Fimis,32,5,9,14,8,-19,Univ. of Notre Dame
+Brennan,Ali,30,7,6,13,23,-10,Univ. of Notre Dame
+Michael,Mastrodomenico,30,5,7,12,32,-12,Univ. of Notre Dame
+Henry,Nelson,32,3,8,11,18,-10,Univ. of Notre Dame
+Carter,Slaggert,32,2,4,6,24,-14,Univ. of Notre Dame
+Maddox,Fleming,25,1,4,5,4,-9,Univ. of Notre Dame
+Jimmy,Jurcev,32,0,5,5,12,-15,Univ. of Notre Dame
+Jaedon,Kerr,32,0,5,5,24,-8,Univ. of Notre Dame
+Jayden,Davis,17,2,2,4,14,-3,Univ. of Notre Dame
+Dashel,Oliver,32,1,3,4,12,-11,Univ. of Notre Dame
+Caeden,Carlisle,16,1,2,3,50,-5,Univ. of Notre Dame
+William,Belle,29,0,3,3,27,-4,Univ. of Notre Dame
+Niko,Jovanovic,14,2,0,2,4,-1,Univ. of Notre Dame
+Drew,Mackie,10,0,1,1,2,-1,Univ. of Notre Dame
+Michael,Schermerhorn,19,0,1,1,6,-8,Univ. of Notre Dame
+Charles,Pardue,1,0,0,0,0,-2,Univ. of Notre Dame
+Jack,Larrigan,7,0,0,0,0,-1,Univ. of Notre Dame
+Alex,Gaffney,32,17,19,36,4,9,Univ. of St. Thomas
+Lucas,Wahlin,30,19,15,34,35,10,Univ. of St. Thomas
+Lucas,Van Vliet,31,11,21,32,21,2,Univ. of St. Thomas
+Nathan,Pilling,32,14,14,28,46,10,Univ. of St. Thomas
+Ryan,O'Neill,28,4,20,24,20,7,Univ. of St. Thomas
+Jake,Braccini,30,14,8,22,16,2,Univ. of St. Thomas
+Chase,Cheslock,32,0,21,21,22,5,Univ. of St. Thomas
+Nick,Williams,31,6,11,17,6,7,Univ. of St. Thomas
+Charlie,Schoen,25,3,14,17,4,8,Univ. of St. Thomas
+Hayes,Hundley,32,6,6,12,10,12,Univ. of St. Thomas
+Dylan,Godbout,23,3,8,11,2,5,Univ. of St. Thomas
+Caige,Sterzer,28,2,9,11,16,-1,Univ. of St. Thomas
+Bauer,Berry,31,2,8,10,16,5,Univ. of St. Thomas
+Quinton,Pepper,27,3,6,9,14,1,Univ. of St. Thomas
+Luc,Laylin,32,4,2,6,8,1,Univ. of St. Thomas
+Casy,Laylin,17,1,5,6,6,-7,Univ. of St. Thomas
+Mason,Poolman,32,1,4,5,8,9,Univ. of St. Thomas
+Cole,Miller,32,0,5,5,28,1,Univ. of St. Thomas
+Joshua,Giuliani,14,3,1,4,4,-5,Univ. of St. Thomas
+Attila,Lippai,25,3,1,4,10,-2,Univ. of St. Thomas
+Luke,Schelter,7,0,1,1,0,0,Univ. of St. Thomas
+Colton,Jamieson,16,0,1,1,4,-2,Univ. of St. Thomas
+Sam,Ranallo,4,0,0,0,0,-1,Univ. of St. Thomas
+Carson,Peters,17,0,0,0,0,0,Univ. of St. Thomas
+Colin,Kessler,30,6,14,20,12,0,Univ. of Vermont
+Sebastian,Törnqvist,31,5,8,13,10,-4,Univ. of Vermont
+Jens,Richards,30,5,7,12,18,5,Univ. of Vermont
+Jonah,Aegerter,28,6,5,11,6,3,Univ. of Vermont
+Matteo,Michels,30,3,7,10,10,1,Univ. of Vermont
+Massimo,Lombardi,24,5,4,9,8,-6,Univ. of Vermont
+Thomas,Sinclair,30,3,6,9,8,-9,Univ. of Vermont
+Blake,Steenerson,28,4,4,8,4,-3,Univ. of Vermont
+Philip,Törnqvist,28,2,6,8,12,-3,Univ. of Vermont
+Cédrick,Guindon,28,1,7,8,21,-16,Univ. of Vermont
+Caeden,Herrington,30,1,7,8,14,-14,Univ. of Vermont
+Ethan,Burroughs,25,5,2,7,6,-5,Univ. of Vermont
+Jax,Wismer,27,2,5,7,4,-12,Univ. of Vermont
+Jack,Malinski,19,1,6,7,6,1,Univ. of Vermont
+Daniel,Sambuco,26,5,0,5,16,-11,Univ. of Vermont
+Max,Strand,27,4,1,5,6,-22,Univ. of Vermont
+Dawson,Good,31,2,3,5,22,-7,Univ. of Vermont
+Zach,Filak,16,1,2,3,10,-5,Univ. of Vermont
+Duncan,Ramsay,28,0,2,2,8,-4,Univ. of Vermont
+David,Sacco,9,0,1,1,0,-1,Univ. of Vermont
+Tyler,Dysart,11,0,1,1,6,-3,Univ. of Vermont
+Dylan,Gratton,22,0,1,1,2,-6,Univ. of Vermont
+Xavier,Henry,5,0,0,0,0,-1,Univ. of Vermont
+Charlie,Kinsman,13,0,0,0,0,-3,Univ. of Vermont
+P.J.,Forgione,17,0,0,0,6,-4,Univ. of Vermont
+Gavin,Morrissey,29,6,23,29,2,3,Univ. of Wisconsin
+Christian,Fitzgerald,32,15,12,27,22,-5,Univ. of Wisconsin
+Quinn,Finley,30,13,12,25,20,-5,Univ. of Wisconsin
+Ben,Dexheimer,32,6,16,22,6,-4,Univ. of Wisconsin
+Simon,Tassy,32,10,9,19,28,1,Univ. of Wisconsin
+Luke,Osburn,26,5,14,19,14,-1,Univ. of Wisconsin
+Oliver,Tulk,32,5,14,19,16,3,Univ. of Wisconsin
+Ryan,Botterill,30,8,8,16,12,6,Univ. of Wisconsin
+Blake,Montgomery,32,8,7,15,35,-9,Univ. of Wisconsin
+Tyson,Dyck,24,5,10,15,22,1,Univ. of Wisconsin
+Grady,Deering,32,6,8,14,41,6,Univ. of Wisconsin
+Joe,Palodichuk,29,3,11,14,18,12,Univ. of Wisconsin
+Vasily,Zelenov,21,4,9,13,21,5,Univ. of Wisconsin
+Logan,Hensler,23,4,8,12,20,6,Univ. of Wisconsin
+Finn,Brink,20,4,7,11,12,8,Univ. of Wisconsin
+Adam,Pietila,24,6,3,9,28,2,Univ. of Wisconsin
+Kyle,Kukkonen,22,2,4,6,8,-8,Univ. of Wisconsin
+Aiden,Dubinsky,32,2,4,6,12,4,Univ. of Wisconsin
+Jack,Horbach,32,2,4,6,32,5,Univ. of Wisconsin
+Jack,Phelan,30,0,6,6,14,2,Univ. of Wisconsin
+Bruno,Idzan,20,2,3,5,14,3,Univ. of Wisconsin
+Zach,Schulz,12,0,3,3,12,8,Univ. of Wisconsin
+Weston,Knox,13,1,1,2,12,-1,Univ. of Wisconsin
+Grant,Slukynsky,32,8,27,35,6,17,Western Michigan Univ.
+Liam,Valente,32,17,13,30,16,13,Western Michigan Univ.
+William,Whitelaw,32,17,12,29,47,15,Western Michigan Univ.
+Zaccharya,Wisdom,32,15,11,26,19,18,Western Michigan Univ.
+Owen,Michaels,32,10,12,22,4,12,Western Michigan Univ.
+Ty,Henricks,32,9,13,22,41,8,Western Michigan Univ.
+Samuel,Sjölund,32,6,15,21,16,9,Western Michigan Univ.
+Bobby,Cowan,32,5,16,21,23,0,Western Michigan Univ.
+Zack,Sharp,30,5,14,19,18,20,Western Michigan Univ.
+Zachary,Nehring,28,5,12,17,8,9,Western Michigan Univ.
+Iiro,Hakkarainen,31,7,8,15,14,3,Western Michigan Univ.
+Theo,Wallberg,30,1,12,13,20,16,Western Michigan Univ.
+Zach,Bookman,31,2,9,11,16,8,Western Michigan Univ.
+Garrett,Szydlowski,32,3,5,8,6,2,Western Michigan Univ.
+Samuel,Huck,17,3,4,7,2,5,Western Michigan Univ.
+Cole,Crusberg-Roseen,18,0,7,7,8,-1,Western Michigan Univ.
+Joona,Väisänen,7,0,6,6,2,4,Western Michigan Univ.
+Ryan,Kusler,11,0,5,5,2,4,Western Michigan Univ.
+Cole,Spicer,6,2,2,4,2,4,Western Michigan Univ.
+Colby,Woogk,28,1,3,4,12,9,Western Michigan Univ.
+Tyler,MacKenzie,24,0,4,4,4,1,Western Michigan Univ.
+Jamison,Sluys,20,2,1,3,6,-3,Western Michigan Univ.
+Alexander,Calbeck,10,1,2,3,0,2,Western Michigan Univ.
+Grady,Gallatin,11,1,1,2,6,5,Western Michigan Univ.
+Zach,Bade,12,0,1,1,0,0,Western Michigan Univ.
+Ryan,Humphrey,8,0,0,0,4,0,Western Michigan Univ.
+Ronan,O'Donnell,26,11,11,22,8,-8,Yale Univ.
+David,Chen,28,6,15,21,14,-7,Yale Univ.
+Donovan,Frias,28,6,14,20,22,5,Yale Univ.
+Micah,Berger,28,7,9,16,4,-9,Yale Univ.
+David,Andreychuk,27,5,6,11,16,0,Yale Univ.
+Iisai,Pesonen,25,4,7,11,23,1,Yale Univ.
+Rhys,Bentham,28,4,7,11,16,3,Yale Univ.
+Beanie,Richter,28,6,3,9,2,-12,Yale Univ.
+James,Shannon,27,5,4,9,4,-3,Yale Univ.
+Hughie,Hooker,23,1,8,9,4,-22,Yale Univ.
+Zachary,Wagnon,28,4,4,8,28,-15,Yale Univ.
+Tom,Molson,20,3,5,8,2,-7,Yale Univ.
+Owen,Forester,21,1,7,8,16,6,Yale Univ.
+Dylan,Hunt,28,0,8,8,12,-4,Yale Univ.
+Kalen,Szeto,28,2,2,4,4,-4,Yale Univ.
+Hudson,Miller,28,2,2,4,22,-12,Yale Univ.
+Joseph,Blackley,9,2,1,3,0,-4,Yale Univ.
+Kurt,Gurkan,12,1,2,3,2,-4,Yale Univ.
+Julian,Frias,15,1,0,1,4,-7,Yale Univ.
+Seiya,Tanaka-Campbell,3,0,1,1,0,-2,Yale Univ.
+Bayard,Hall,20,0,1,1,2,-4,Yale Univ.
+Jojo,Tanaka-Campbell,3,0,0,0,0,0,Yale Univ.
+Elan,Bar-Lev-Wise,10,0,0,0,2,-6,Yale Univ.
+Braden,Keeble,12,0,0,0,2,-8,Yale Univ.
+Tucker,Hartmann,27,0,0,0,10,-9,Yale Univ.
