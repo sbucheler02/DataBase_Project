@@ -46,7 +46,8 @@ def load_skaters(csv_path='skater_stats.csv'):
                 )
 
                 if existing:
-                    for k, v in ps.dict().items():
+                    # use model_dump() instead of dict()
+                    for k, v in ps.model_dump().items():
                         setattr(existing, k, v)
                     session.add(existing)
                     updated += 1

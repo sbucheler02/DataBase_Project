@@ -109,6 +109,24 @@ def scrape_all_team_stats():
                     team_slug = parts[3]
                     teams.append((text, team_id, team_slug))
         
+        # Optionally trim at Yale if it appears; this used to guard against
+        # non‑NCAA entries later on, but the real protection is the hard cap
+        # below.  We keep the code for informational purposes but it isn't
+        # required for correctness.
+        cutoff = None
+        for idx, (name, _id, _slug) in enumerate(teams):
+            if name.lower() == 'yale':
+                cutoff = idx
+                break
+        if cutoff is not None:
+            teams = teams[: cutoff + 1]
+
+        # hard cap at 63 teams (number of NCAA men's programs); avoids
+        # occasional stray links beyond the official list
+        if len(teams) > 63:
+            print(f"Truncating team list to 63 entries (was {len(teams)})")
+            teams = teams[:63]
+
         print(f"Found {len(teams)} NCAA teams\n")
         
     except Exception as e:
@@ -133,17 +151,31 @@ def scrape_all_team_stats():
             print(f"✗ Error: {e}")
             continue
     
+    # Deduplicate entries (same first_name, last_name, team)
+    seen = set()
+    unique_stats = []
+    duplicates_removed = 0
+    for stat in all_stats:
+        key = (stat['first_name'], stat['last_name'], stat['team'])
+        if key not in seen:
+            seen.add(key)
+            unique_stats.append(stat)
+        else:
+            duplicates_removed += 1
+    
     # Write to CSV
-    if all_stats:
+    if unique_stats:
         csv_path = '/workspaces/DataBase_Project/skater_stats.csv'
         fieldnames = ['first_name', 'last_name', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', 'team']
         
         with open(csv_path, 'w', newline='', encoding='utf-8') as f:
             writer = csv.DictWriter(f, fieldnames=fieldnames)
             writer.writeheader()
-            writer.writerows(all_stats)
+            writer.writerows(unique_stats)
         
-        print(f"\n✓ Wrote {len(all_stats)} stats records to {csv_path}")
+        print(f"\n✓ Wrote {len(unique_stats)} stats records to {csv_path}")
+        if duplicates_removed > 0:
+            print(f"✓ Removed {duplicates_removed} duplicate entries")
     else:
         print("\n✗ No stats records found")
 

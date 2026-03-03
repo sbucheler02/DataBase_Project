@@ -100,6 +100,23 @@ def get_ncaa_team_links() -> List[tuple[str,str]]:
         href = a.get('href', '')
         if href.startswith('/team/') and text not in EXCLUDED_TEAMS:
             teams.append((text, href))
+
+    # cut off the list at Yale if it's present; the NCAA page sometimes
+    # appends non‑college teams afterward which we don't want to scrape.
+    cutoff = None
+    for idx, (name, _href) in enumerate(teams):
+        if name.lower() == 'yale':
+            cutoff = idx
+            break
+    if cutoff is not None:
+        teams = teams[: cutoff + 1]
+
+    # if more than 63 entries remain, trim to 63 (official count of men's
+    # programs).  This hard cap is the main guard against extra links.
+    if len(teams) > 63:
+        print(f"Truncating NCAA link list to 63 teams (was {len(teams)})")
+        teams = teams[:63]
+
     return teams
 
 
@@ -119,6 +136,18 @@ def scrape_all_teams(output_csv: str = 'players.csv'):
             p['team'] = name
         all_players.extend(players)
         print(f"  found {len(players)} players")
+    # deduplicate overall roster (first/last/team)
+    seen = set()
+    unique = []
+    duplicates_removed = 0
+    for p in all_players:
+        key = (p.get('first_name'), p.get('last_name'), p.get('team'))
+        if key not in seen:
+            seen.add(key)
+            unique.append(p)
+        else:
+            duplicates_removed += 1
+    all_players = unique
     # write csv
     headers = [
         "first_name","last_name","team","number","position",
@@ -129,6 +158,8 @@ def scrape_all_teams(output_csv: str = 'players.csv'):
         writer.writeheader()
         writer.writerows(all_players)
     print(f"wrote {len(all_players)} total players to {output_csv}")
+    if duplicates_removed > 0:
+        print(f"✓ Removed {duplicates_removed} duplicate entries")
 
 
 if __name__ == "__main__":

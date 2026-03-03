@@ -42,7 +42,8 @@ def load_players(csv_path="players.csv"):
 
                 if existing:
                     # update fields
-                    for k, v in bio.dict().items():
+                    # use model_dump() per SQLModel 0.0.14 deprecation
+                    for k, v in bio.model_dump().items():
                         setattr(existing, k, v)
                     session.add(existing)
                     updated += 1

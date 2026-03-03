@@ -104,6 +104,21 @@ for tbody in table_bodies:
                 players_data.append(player)
                 print(f"Extracted: {first_name} {last_name} - #{number_text} - {current_position}")
 
+# Deduplicate players_data just in case
+seen = set()
+unique_players = []
+duplicates_removed = 0
+for p in players_data:
+    key = (p.get('first_name'), p.get('last_name'), p.get('team'), p.get('number'))
+    if key not in seen:
+        seen.add(key)
+        unique_players.append(p)
+    else:
+        duplicates_removed += 1
+players_data = unique_players
+if duplicates_removed > 0:
+    print(f"✓ Removed {duplicates_removed} duplicate player(s)")
+
 # Write to CSV
 csv_file = '/workspaces/DataBase_Project/players.csv'
 headers = ['first_name', 'last_name', 'team', 'number', 'position', 'age', 'born', 'birth_place', 'height', 'weight', 'shoots']

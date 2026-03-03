@@ -223,6 +223,20 @@ def main():
         else:
             raise
     print(f"Found {len(players)} players")
+    # deduplicate players by first/last/team/number
+    seen = set()
+    unique = []
+    duplicates_removed = 0
+    for p in players:
+        key = (p.get('first_name'), p.get('last_name'), p.get('team'), p.get('number'))
+        if key not in seen:
+            seen.add(key)
+            unique.append(p)
+        else:
+            duplicates_removed += 1
+    players = unique
+    if duplicates_removed > 0:
+        print(f"✓ Removed {duplicates_removed} duplicate player(s)")
     # do not enforce a specific count; different teams may vary in roster size
     save_csv(players)
     print("CSV updated")

@@ -48,7 +48,8 @@ def load_goalies(csv_path='goalie_stats.csv'):
                 )
 
                 if existing:
-                    for k, v in gs.dict().items():
+                    # switched to model_dump to avoid deprecation warning
+                    for k, v in gs.model_dump().items():
                         setattr(existing, k, v)
                     session.add(existing)
                     updated += 1

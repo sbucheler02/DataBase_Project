@@ -114,6 +114,22 @@ def scrape_all_goalie_stats():
                     team_slug = parts[3]
                     teams.append((text, team_id, team_slug))
         
+        # optionally trim at Yale; kept for backwards compatibility but not
+        # strictly necessary since we cap the count below
+        cutoff = None
+        for idx, (name, _id, _slug) in enumerate(teams):
+            if name.lower() == 'yale':
+                cutoff = idx
+                break
+        if cutoff is not None:
+            teams = teams[: cutoff + 1]
+
+        # enforce maximum of 63 teams since NCAA men's hockey currently has
+        # 63 programs; avoids scraping junk beyond the official list
+        if len(teams) > 63:
+            print(f"Truncating team list to 63 entries (was {len(teams)})")
+            teams = teams[:63]
+
         print(f"Found {len(teams)} NCAA teams\n")
         
     except Exception as e:

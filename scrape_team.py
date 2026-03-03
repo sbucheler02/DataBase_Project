@@ -185,6 +185,21 @@ if __name__ == "__main__":
     if players:
         print(f"\nTotal players found: {len(players)}")
         
+        # Deduplicate by first/last/team/number
+        seen = set()
+        unique = []
+        duplicates_removed = 0
+        for p in players:
+            key = (p.get('first_name'), p.get('last_name'), p.get('team'), p.get('number'))
+            if key not in seen:
+                seen.add(key)
+                unique.append(p)
+            else:
+                duplicates_removed += 1
+        players = unique
+        if duplicates_removed > 0:
+            print(f"✓ Removed {duplicates_removed} duplicate player(s)")
+        
         # Write to CSV
         csv_file = '/workspaces/DataBase_Project/players.csv'
         headers = ['first_name', 'last_name', 'team', 'number', 'position', 'age', 'born', 'birth_place', 'country', 'height', 'weight', 'shoots']
