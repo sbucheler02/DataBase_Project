@@ -31,27 +31,20 @@ def fetch_goalie_stats_from_next_data(html, team_name):
             try:
                 player = edge.get('player', {})
                 player_name = player.get('name', '')
-                regular_stats = edge.get('regularStats')
-                
-                # Skip if no stats
-                if regular_stats is None:
-                    continue
-                
+                regular_stats = edge.get('regularStats') or {}
+
                 # Split name: assume "FirstName LastName" format
                 parts = player_name.strip().split(maxsplit=1)
                 first_name = parts[0] if len(parts) > 0 else ''
                 last_name = parts[1] if len(parts) > 1 else ''
-                
+
+                # we no longer filter out goalies with zero GP; include everyone
                 gp = regular_stats.get('GP', '')
-                
-                # Skip if no games played
-                if not gp or gp == 0:
-                    continue
-                
+
                 stat_row = {
                     'first_name': first_name,
                     'last_name': last_name,
-                    'GP': regular_stats.get('GP', ''),
+                    'GP': gp,
                     'GAA': regular_stats.get('GAA', ''),
                     'save_pct': regular_stats.get('SVP', ''),  # Save Percentage = SVP
                     'W': regular_stats.get('W', ''),

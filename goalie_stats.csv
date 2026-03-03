@@ -2,10 +2,14 @@ first_name,last_name,GP,GAA,save_pct,W,L,T,SO,TOI,SVS,team
 Dominik,Wasik,31,2.38,.911,16,10,3,4,1788,724,Air Force Academy
 Carter,Clafton,6,4.00,.886,1,3,1,0,240,124,Air Force Academy
 Toby,Hopp,1,13.30,.722,0,0,0,0,23,13,Air Force Academy
+Dylan,Krick,,,,,,,,,,Air Force Academy
+Zane,Spaniol,,,,,,,,,,Air Force Academy
 Connor,Hasley,24,3.12,.907,10,11,0,0,1328,673,Arizona State Univ.
 Samuel,Urban,16,3.53,.904,4,10,1,1,832,461,Arizona State Univ.
+Chase,Hamm,,,,,,,,,,Arizona State Univ.
 J.J.,Cataldo,31,2.39,.924,11,15,5,4,1857,895,Army (U.S. Military Academy)
 Jacob,Biron,4,2.89,.919,1,1,1,0,208,114,Army (U.S. Military Academy)
+Ansel,Holt,,,,,,,,,,Army (U.S. Military Academy)
 Christian,Manz,2,2.00,.938,2,0,0,0,120,60,Augustana Univ.
 Joshua,Kotai,32,2.02,.936,18,10,4,5,1934,957,Augustana Univ.
 Kolby,Hay,1,,.000,0,0,0,0,,0,Augustana Univ.
@@ -15,12 +19,14 @@ Raythan,Robbins,12,2.65,.892,5,5,2,1,725,263,Bemidji State Univ.
 Nick,Bevilacqua,12,1.66,.935,9,2,1,2,722,289,Bentley Univ.
 Lukas,Swedin,19,2.29,.917,9,6,4,0,1154,487,Bentley Univ.
 Easton,Hesse,3,5.30,.852,0,3,0,0,181,92,Bentley Univ.
+Jack,Erickson,,,,,,,,,,Bentley Univ.
 Louka,Cloutier,29,2.32,.912,18,10,1,3,1710,680,Boston College
 Jan,Korec,4,3.48,.866,1,2,0,0,190,71,Boston College
 Alex,Musielak,1,,.000,0,0,0,0,,0,Boston College
 Mikhail,Yegorov,32,2.74,.904,15,13,2,2,1842,788,Boston Univ.
 Max,Lacroix,4,3.72,.886,1,2,0,0,145,70,Boston Univ.
 Steven,Luciano,1,,.000,0,0,0,0,,0,Boston Univ.
+Jack,Perry,0,,,,,,,0,,Boston Univ.
 Jacob,Steinman,15,2.14,.921,8,3,3,0,843,352,Bowling Green State Univ.
 Cole,Moore,13,2.40,.912,5,4,3,1,726,301,Bowling Green State Univ.
 Tyler,Palmer,10,2.15,.910,5,2,1,1,502,182,Bowling Green State Univ.
@@ -32,8 +38,11 @@ Chase,Clark,23,2.71,.906,11,9,2,1,1305,570,Canisius College
 Ethan,Robertson,2,5.72,.824,0,1,0,0,63,28,Canisius College
 Shane,Soderwall,31,2.68,.900,14,13,3,1,1721,693,Clarkson Univ.
 Keenan,Rancier,7,4.07,.841,1,3,0,0,310,111,Clarkson Univ.
+Nick,Avakyan,,,,,,,,,,Clarkson Univ.
 Andrew,Takacs,11,3.08,.900,3,5,1,1,565,262,Colgate Univ.
 Reid,Dyck,26,3.18,.898,9,13,3,1,1472,683,Colgate Univ.
+Nick,Haas,,,,,,,,,,Colgate Univ.
+Jack,Olson,,,,,,,,,,Colgate Univ.
 Danick,Leroux,18,2.66,.902,10,7,1,2,1036,424,College of the Holy Cross
 Connor,Mackenzie,12,3.11,.891,5,4,1,0,616,261,College of the Holy Cross
 Louden,Hogg,9,3.19,.886,1,5,0,1,395,164,College of the Holy Cross
@@ -42,28 +51,39 @@ Jackson,Unger,7,2.60,.909,1,3,2,0,346,149,Colorado College
 Beckham,Dempsey,1,,.000,0,0,0,0,,0,Colorado College
 Remington,Keopple,7,1.54,.933,4,1,1,0,388,140,Cornell Univ.
 Alexis,Cournoyer,23,2.01,.917,16,7,0,0,1340,500,Cornell Univ.
+Erick,Roest,,,,,,,,,,Cornell Univ.
+Justin,Katz,,,,,,,,,,Cornell Univ.
 Emmett,Croteau,19,2.13,.914,11,4,4,1,1155,436,Dartmouth College
 Roan,Clarke,11,2.12,.899,8,3,0,2,650,205,Dartmouth College
+Mike,Roberts,,,,,,,,,,Dartmouth College
 Martin,Holtet Lundberg,20,2.97,.891,5,11,2,2,1072,435,Ferris State Univ.
 Hobie,Hedquist,13,4.09,.881,1,10,0,0,674,341,Ferris State Univ.
 Noah,Rupprecht,5,4.96,.850,1,4,0,0,278,130,Ferris State Univ.
+Mason,West,,,,,,,,,,Ferris State Univ.
 Ben,Charette,30,2.74,.910,14,14,2,1,1775,815,Harvard Univ.
 Evan,Zhang,2,12.22,.714,0,0,0,0,10,5,Harvard Univ.
 Rorke,Applebee,29,2.89,.914,10,16,1,1,1658,846,Lake Superior State Univ.
 Andrew,Oke,8,3.95,.879,1,4,2,0,380,181,Lake Superior State Univ.
+Adam,Manji,0,,,,,,,,,Lake Superior State Univ.
 Colin,Ronan,1,0.00,1.000,0,0,0,0,5,2,Lindenwood Univ.
 Liam,Beerman,14,3.13,.906,9,5,0,1,805,405,Lindenwood Univ.
 Klayton,Knapp,15,4.36,.879,5,9,0,0,867,459,Lindenwood Univ.
 Daniel,Duris,28,3.25,.900,12,15,1,2,1586,772,Long Island Univ.
 Lukas,Renaud,5,2.64,.886,0,0,0,0,113,39,Long Island Univ.
 Carter,Bickle,3,5.19,.827,0,2,0,0,104,43,Long Island Univ.
+Michael,Polston,,,,,,,,,,Long Island Univ.
 Salvatore,Evola,11,3.33,.913,3,3,1,0,486,284,Mercyhurst Univ.
 Charles-Edward,Gravel,25,3.35,.901,2,20,2,2,1363,690,Mercyhurst Univ.
 Michael,Chambre,4,6.08,.858,0,3,0,0,178,109,Mercyhurst Univ.
 Henry,Hunt,1,0.00,.000,0,0,0,0,0,0,Mercyhurst Univ.
+Simon,Bucheler,,,,,,,,,,Mercyhurst Univ.
 Max,Lundgren,33,2.68,.915,16,15,2,0,1972,945,Merrimack College
+Ryan,Keyes,,,,,,,,,,Merrimack College
+Nils,Wallström,,,,,,,,,,Merrimack College
 Mathis,Langevin,1,2.00,.938,1,0,0,0,60,30,Miami Univ. (Ohio)
 Matteo,Drobac,33,2.70,.912,17,14,2,3,1979,918,Miami Univ. (Ohio)
+Benjamin,Motew,,,,,,,,,,Miami Univ. (Ohio)
+Shikhabutdin,Gadzhiev,0,,,,,,,,,Miami Univ. (Ohio)
 Trey,Augustine,30,2.09,.929,22,7,1,3,1805,821,Michigan State Univ.
 Melvin,Strahl,2,2.00,.927,2,0,0,0,120,51,Michigan State Univ.
 Dolan,Gilbert,2,0.00,,0,0,0,0,4,0,Michigan State Univ.
@@ -86,12 +106,15 @@ Max,Weilandt,5,3.43,.870,0,1,0,0,105,40,Northern Michigan Univ.
 Jackson,Fuller,1,,.000,0,0,0,0,,0,Northern Michigan Univ.
 Kristoffer,Eberly,22,3.34,.885,8,11,2,1,1222,522,Ohio State Univ.
 Sam,Hillebrandt,13,3.76,.873,4,7,0,0,703,303,Ohio State Univ.
+Dawson,Labre,,,,,,,,,,Ohio State Univ.
 Josh,Fleming,15,2.33,.931,9,4,2,2,901,470,Penn State Univ.
 Kevin,Reidler,17,3.16,.904,11,6,0,0,1025,510,Penn State Univ.
 Chris,McFayden,1,16.98,.800,0,0,0,0,4,4,Penn State Univ.
+John,Seifarth,0,,,,,,,0,,Penn State Univ.
 Arthur,Smith,18,2.46,.910,8,8,2,0,1072,443,Princeton Univ.
 Conor,Callaghan,12,2.59,.899,7,3,1,1,648,248,Princeton Univ.
 Daniel,Moor,2,2.83,.852,0,1,0,0,85,23,Princeton Univ.
+Brady,Morris,,,,,,,,,,Princeton Univ.
 Michael,Simpson,2,1.52,.936,2,0,0,0,119,44,Providence College
 John,Parsons,16,2.00,.919,12,3,0,2,901,341,Providence College
 Philip,Svedebäck,17,2.32,.918,8,6,2,0,957,415,Providence College
@@ -111,12 +134,14 @@ Carson,Dorfman,3,4.41,.877,0,1,0,0,109,57,RPI (Rensselaer Polytech. Inst.)
 Jack,Spicer,1,0.00,1.000,0,0,0,0,2,2,Sacred Heart Univ.
 Ajeetpal,Gundarah,16,2.26,.923,9,5,1,1,903,405,Sacred Heart Univ.
 Teagan,Kendrick,20,2.42,.920,10,7,2,2,1142,531,Sacred Heart Univ.
+Connor,Smith,,,,,,,,,,Sacred Heart Univ.
 Patriks,Berzins,18,2.81,.909,10,7,0,0,1005,472,St. Cloud State Univ.
 Yan,Shostak,18,3.11,.892,6,10,1,2,983,421,St. Cloud State Univ.
 James,Gray,1,3.53,.846,0,0,0,0,34,11,St. Cloud State Univ.
 Cameron,Smith,12,3.49,.902,5,6,1,0,688,369,St. Lawrence Univ.
 Colin,Winn,9,4.50,.883,0,7,1,0,493,278,St. Lawrence Univ.
 Mason,Kucenski,15,4.07,.873,2,11,1,0,840,392,St. Lawrence Univ.
+Jack,Wieneke,,,,,,,,,,St. Lawrence Univ.
 Dylan,Ghaemi,1,0.00,1.000,0,0,0,0,13,5,Stonehill College
 Connor,Androlewicz,27,3.35,.894,6,19,2,0,1542,727,Stonehill College
 Linards,Lipskis,8,3.41,.890,3,2,0,0,370,170,Stonehill College
@@ -134,21 +159,26 @@ Calvin,Vachon,9,3.11,.897,2,6,0,1,464,209,Univ. of Alaska-Fairbanks
 Zakari,Brice,1,6.47,.833,0,0,0,0,9,5,Univ. of Alaska-Fairbanks
 Tyler,Muszelik,29,2.21,.928,16,8,5,3,1738,819,Univ. of Connecticut
 Kam,Hendrickson,4,2.44,.916,1,2,0,0,197,87,Univ. of Connecticut
+Ryan,Sanborn,,,,,,,,,,Univ. of Connecticut
 Johnny,Hicks,13,1.14,.958,8,0,1,1,581,251,Univ. of Denver
 Paxton,Geisel,5,2.29,.917,1,1,0,1,131,55,Univ. of Denver
 Quentin,Miller,25,2.39,.916,12,10,2,3,1404,607,Univ. of Denver
 Mathis,Rousseau,15,2.45,.901,8,5,0,2,832,310,Univ. of Maine
 Albin,Boija,20,2.59,.899,10,7,3,4,1157,444,Univ. of Maine
+Gage,Stewart,,,,,,,,,,Univ. of Maine
 Jackson,Irving,8,2.75,.934,3,4,0,2,437,281,Univ. of Massachusetts
 Michael,Hrabal,25,2.06,.934,16,8,1,4,1483,720,Univ. of Massachusetts
 James,Norton,1,,.000,0,0,0,0,,0,Univ. of Massachusetts
 Jack,Ivankovic,29,2.15,.922,20,7,1,3,1701,723,Univ. of Michigan
 Stephen,Peck,6,2.61,.911,6,0,0,0,344,154,Univ. of Michigan
 Julian,Molinaro,1,,.000,0,0,0,0,,0,Univ. of Michigan
+Grant,Neuhardt,,,,,,,,,,Univ. of Michigan
 Luca,Di Pasquo,23,2.98,.915,8,13,1,1,1328,709,Univ. of Minnesota
 Nathan,Airey,12,3.31,.889,3,7,1,0,652,289,Univ. of Minnesota
+Zach,Wiese,,,,,,,,,,Univ. of Minnesota
 Ethan,Dahlmeir,8,2.33,.910,5,2,0,0,437,171,Univ. of Minnesota-Duluth
 Adam,Gajan,27,2.27,.905,15,11,1,2,1611,582,Univ. of Minnesota-Duluth
+Cole,Sheffield,,,,,,,,,,Univ. of Minnesota-Duluth
 Dawson,Cowan,12,3.21,.901,4,8,0,1,710,347,Univ. of Nebraska-Omaha
 Simon,Latkoczy,23,3.20,.899,8,14,0,0,1314,626,Univ. of Nebraska-Omaha
 Will,Craig,1,,.000,0,0,0,0,,0,Univ. of Nebraska-Omaha
@@ -157,6 +187,7 @@ Jared,Whale,3,4.65,.857,1,1,0,0,116,54,Univ. of New Hampshire
 Kristian,Coombs,1,,.000,0,0,0,0,,0,Univ. of New Hampshire
 Jan,Spunar,21,1.93,.917,16,3,1,4,1246,441,Univ. of North Dakota
 Gibson,Homer,14,2.71,.889,9,5,0,0,798,287,Univ. of North Dakota
+Zachary,Sandy,,,,,,,,,,Univ. of North Dakota
 Nicholas,Kempf,31,3.51,.894,7,18,5,1,1793,886,Univ. of Notre Dame
 Luke,Pearson,4,5.23,.869,0,3,0,0,149,86,Univ. of Notre Dame
 Jack,Williams,2,5.17,.836,0,1,0,0,104,46,Univ. of Notre Dame
@@ -166,6 +197,7 @@ Carsen,Musser,17,3.09,.885,8,5,3,1,933,370,Univ. of St. Thomas
 Aiden,Wright,30,3.10,.892,11,17,1,2,1663,712,Univ. of Vermont
 Axel,Mangbo,10,3.37,.881,1,3,0,0,303,126,Univ. of Vermont
 Cullen,DeYoung,1,,.000,0,0,0,0,,0,Univ. of Vermont
+Jacob,Oster,,,,,,,,,,Univ. of Vermont
 Daniel,Hauser,26,2.48,.903,16,6,2,3,1427,547,Univ. of Wisconsin
 Eli,Pulver,11,3.65,.874,3,5,0,0,493,208,Univ. of Wisconsin
 Anton,Castro,1,,.000,0,0,0,0,,0,Univ. of Wisconsin
@@ -174,3 +206,4 @@ Kirk,Laursen,1,,.000,0,0,0,0,1,0,Western Michigan Univ.
 Gavin,Moffatt,1,,.000,0,0,0,0,,0,Western Michigan Univ.
 Noah,Pak,21,3.23,.901,6,13,1,0,1151,564,Yale Univ.
 Jack,Stark,12,4.09,.871,2,8,0,0,631,291,Yale Univ.
+Jeth,Fogg,,,,,,,,,,Yale Univ.

@@ -84,6 +84,35 @@ EXCLUDED_TEAMS = {
     'Red Deer Rebels',
 }
 
+# create a session with retry logic shared by all requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+
+# session configured once at import time
+_session = requests.Session()
+_retries = Retry(
+    total=3,
+    backoff_factor=1,
+    status_forcelist=[429, 500, 502, 503, 504],
+    allowed_methods=["GET", "HEAD"],
+)
+_session.mount("https://", HTTPAdapter(max_retries=_retries))
+
+
+def _fetch(url: str, **kwargs) -> requests.Response:
+    """Wrapper around ``session.get`` that handles timeouts and retries.
+
+    All calls in this module should use ``_fetch`` instead of ``requests.get``
+    so that a networking hiccup doesn't abort the entire run.  Errors are
+    propagated to the caller so the outer loop can decide what to do (usually
+    log & continue).
+    """
+    kwargs.setdefault("headers", {"User-Agent": USER_AGENT})
+    kwargs.setdefault("timeout", 15)
+    return _session.get(url, **kwargs)
+
+
 def get_ncaa_team_links() -> List[tuple[str,str]]:
     """Return list of (team_name, team_href) from the NCAA league page.
 
@@ -91,7 +120,7 @@ def get_ncaa_team_links() -> List[tuple[str,str]]:
     clubs, etc.).  We explicitly exclude those names using `EXCLUDED_TEAMS`.
     """
     url = "https://www.eliteprospects.com/league/ncaa"
-    resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=15)
+    resp = _fetch(url)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.content, "html.parser")
     teams: List[tuple[str,str]] = []
@@ -127,10 +156,16 @@ def scrape_all_teams(output_csv: str = 'players.csv'):
     for name, href in teams:
         print(f"Processing team: {name}")
         url = base + href
-        resp = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=15)
-        if resp.status_code != 200:
-            print(f"  failed to fetch team page ({resp.status_code})")
+        try:
+            resp = _fetch(url)
+            if resp.status_code != 200:
+                print(f"  failed to fetch team page ({resp.status_code})")
+                continue
+        except requests.RequestException as exc:
+            # network error or timeout; log and skip this team
+            print(f"  error fetching team page: {exc}")
             continue
+
         players = fetch_roster_from_next_data(resp.text)
         for p in players:
             p['team'] = name
