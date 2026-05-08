@@ -1,5 +1,3 @@
-
-
 from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 from sqlmodel import Session, select
@@ -101,3 +99,5 @@ def get_player_details(first_name: str, last_name: str, team: str):
         return {"bio": bio_data, "stats": stats_data}
 
 app.mount("/", StaticFiles(directory = "static", html = True), name = "static")
+
+# uvicorn main:app --reload --host 0.0.0.0 --port 8000
